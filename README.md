@@ -27,9 +27,9 @@ This part contains scripts for input prep, submission scripts for graphical mode
 ### 6. standard-gwas
 Scripts for standard GWAS (Regenie) for comparison with the graphical modeling.
 
-### 6. arb-response
+### 7. arb-response
 Pharmacogenomic followup for ARB-response.
 
-### 7. ukb-analysis-figure
+### 8. ukb-analysis-figure
 Code for main and supplementary figures as well as the downstream data analisis.
 
