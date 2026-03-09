@@ -1,0 +1,133 @@
+ATC code	substance	market name	class
+C09AA01	captopril	.	ACE inhibitor
+C09AA02	enalapril	.	ACE inhibitor
+C09AA03	lisinopril	zestril	ACE inhibitor
+C09AA04	perindopril	coversyl arginine	ACE inhibitor
+C09AA05	ramipril	tritace	ACE inhibitor
+C09AA06	quinapril	.	ACE inhibitor
+C09AA07	benazepril	.	ACE inhibitor
+C09AA08	cilazapril	.	ACE inhibitor
+C09AA09	fosinopril	.	ACE inhibitor
+C09AA10	trandolapril	.	ACE inhibitor
+C09AA11	spirapril	.	ACE inhibitor
+C09AA12	delapril	.	ACE inhibitor
+C09AA13	moexipril	.	ACE inhibitor
+C09AA14	temocapril	.	ACE inhibitor
+C09AA15	zofenopril	.	ACE inhibitor
+C09AA16	imidapril	.	ACE inhibitor
+C09CA01	losartan	cozaar	Angiotensin II receptor blocker
+C09CA02	eprosartan	.	Angiotensin II receptor blocker
+C09CA03	valsartan	diovan	Angiotensin II receptor blocker
+C09CA04	irbesartan	aprovel	Angiotensin II receptor blocker
+C09CA05	tasosartan	.	Angiotensin II receptor blocker
+C09CA06	candesartan	amias	Angiotensin II receptor blocker
+C09CA07	telmisartan	.	Angiotensin II receptor blocker
+C09CA08	olmesartan medoxomil	olmetec	Angiotensin II receptor blocker
+C09CA09	azilsartan medoxomil		Angiotensin II receptor blocker
+C09CA10	fimasartan	.	Angiotensin II receptor blocker
+C08CA01	amlodipine	istin	calcium channel blocker
+C08CA02	felodipine	plendil, cardioplen, folpik, felotens, vascalpha, neofel, parmid	calcium channel blocker
+C08CA03	isradipine	.	calcium channel blocker
+C08CA04	nicardipine	.	calcium channel blocker
+C08CA05	nifedipine	Adalat, Adipine, Coracten, Fortipine, Nifedipress	calcium channel blocker
+C08CA06	nimodipine	.	calcium channel blocker
+C08CA07	nisoldipine	.	calcium channel blocker
+C08CA08	nitrendipine	.	calcium channel blocker
+C08CA09	lacidipine	.	calcium channel blocker
+C08CA10	nilvadipine	.	calcium channel blocker
+C08CA11	manidipine	.	calcium channel blocker
+C08CA12	barnidipine	.	calcium channel blocker
+C08CA13	lercanidipine	.	calcium channel blocker
+C08CA14	cilnidipine	.	calcium channel blocker
+C08CA15	benidipine	.	calcium channel blocker
+C08CA16	clevidipine	.	calcium channel blocker
+C08CA17	levamlodipine	.	calcium channel blocker
+C08CA51	amlodipine and celecoxib	.	calcium channel blocker
+C08CA55	nifedipine, combinations	.	calcium channel blocker
+C08CX01	mibefradil	.	calcium channel blocker
+C08DA01	verapamil	Securon, Verapress, Vera-Til, Vertab	calcium channel blocker
+C08DA02	gallopamil	.	calcium channel blocker
+C08DB01	diltiazem	Adizem, Slozem, Tildiem	calcium channel blocker
+C08EA01	fendiline	.	calcium channel blocker
+C08EA02	bepridil	.	calcium channel blocker
+C08EX01	lidoflazine	.	calcium channel blocker
+C08EX02	perhexiline	.	calcium channel blocker
+C07AA01	alprenolol	.	beta blockers
+C07AA02	oxprenolol	.	beta blockers
+C07AA03	pindolol	.	beta blockers
+C07AA05	propranolol	Inderal or Angilol	beta blockers
+C07AA06	timolol	.	beta blockers
+C07AA07	sotalol	Sotacor	beta blockers
+C07AA12	nadolol	.	beta blockers
+C07AA14	mepindolol	.	beta blockers
+C07AA15	carteolol	.	beta blockers
+C07AA16	tertatolol	.	beta blockers
+C07AA17	bopindolol	.	beta blockers
+C07AA19	bupranolol	.	beta blockers
+C07AA23	penbutolol	.	beta blockers
+C07AA27	cloranolol	.	beta blockers
+C07AB01	practolol	.	beta blockers
+C07AB02	metoprolol	Betaloc or Lopresor	beta blockers
+C07AB03	atenolol	tenormin	beta blockers
+C07AB04	acebutolol	.	beta blockers
+C07AB05	betaxolol	.	beta blockers
+C07AB06	bevantolol	.	beta blockers
+C07AB07	bisoprolol	Cardicor, Congescor	beta blockers
+C07AB08	celiprolol	.	beta blockers
+C07AB09	esmolol	.	beta blockers
+C07AB10	epanolol	.	beta blockers
+C07AB11	s-atenolol	.	beta blockers
+C07AB12	nebivolol	.	beta blockers
+C07AB13	talinolol	.	beta blockers
+C07AB14	landiolol	.	beta blockers
+C07AG01	labetalol	trandate	beta blockers
+C07AG02	carvedilol	.	beta blockers
+C03AA01	bendroflumethiazide	Aprinox, Neo-Naclex	diuretics
+C03AA02	hydroflumethiazide	.	diuretics
+C03AA03	hydrochlorothiazide	.	diuretics
+C03AA04	chlorothiazide	.	diuretics
+C03AA05	polythiazide	.	diuretics
+C03AA06	trichlormethiazide	.	diuretics
+C03AA07	cyclopenthiazide	.	diuretics
+C03AA08	methyclothiazide	.	diuretics
+C03AA09	cyclothiazide	.	diuretics
+C03AA13	mebutizide	.	diuretics
+C03BA02	quinethazone	.	diuretics
+C03BA03	clopamide	.	diuretics
+C03BA04	chlortalidone	.	diuretics
+C03BA05	mefruside	.	diuretics
+C03BA07	clofenamide	.	diuretics
+C03BA08	metolazone	.	diuretics
+C03BA09	meticrane	.	diuretics
+C03BA10	xipamide	.	diuretics
+C03BA11	indapamide	Natrilix, Indipam, Rawel, Tensaid, Alkapamid	diuretics
+C03BA12	clorexolone	.	diuretics
+C03BA13	fenquizone	.	diuretics
+C03BC01	mersalyl	.	diuretics
+C03BD01	theobromine	.	diuretics
+C03BX03	cicletanine	.	diuretics
+C03DA01	spironolactone	.	diuretics
+C03DA02	potassium canrenoate	.	diuretics
+C03DA03	canrenone	.	diuretics
+C03DA04	eplerenone	.	diuretics
+C03DA05	finerenone	.	diuretics
+C03DB01	amiloride	.	diuretics
+C03DB02	triamterene	.	diuretics
+C03CA01	furosemide	.	diuretics
+C03CA02	bumetanide	.	diuretics
+C03CA03	piretanide	.	diuretics
+C03CA04	torasemide	.	diuretics
+C03CC01	etacrynic acid	.	diuretics
+C03CC02	tienilic acid	.	diuretics
+C03CD01	muzolimine	.	diuretics
+C03CX01	etozolin	.	diuretics
+C03XA01	tolvaptan	.	diuretics
+C03XA02	conivaptan	.	diuretics
+C10AA01	simvastatin	zocor	statin
+C10AA02	lovastatin	.	statin
+C10AA03	pravastatin	lipostat	statin
+C10AA04	fluvastatin	lescol	statin
+C10AA05	atorvastatin	lipitor	statin
+C10AA06	cerivastatin	.	statin
+C10AA07	rosuvastatin	crestor	statin
+C10AA08	pitavastatin	.	statin
