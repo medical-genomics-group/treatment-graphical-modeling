@@ -1,0 +1,1 @@
+The PXP (trait x trait) correlation matrices are calculated within the bp-data-aggregation/adjust-and-make-pxp.ipynb, the script in this file splits the existing pxp files for the different sensitivity analyses
