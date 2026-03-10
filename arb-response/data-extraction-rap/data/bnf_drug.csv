@@ -1,0 +1,930 @@
+bnf_code,brand_name,presentation,term,quantity,dose,group,with_calcium_channel_blocker,with_diuretic
+0205010AAAAAAAA,Macitentan,Macitentan_Tab 10mg,Macitentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010AABBAAAA,Opsumit,Opsumit_Tab 10mg,Macitentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABAAAAAA,Riociguat,Riociguat_Tab 500mcg,Riociguat,,,Vasodilator Antihypertensive Drugs,False,False
+0205010ABAAABAB,Riociguat,Riociguat_Tab 1mg,Riociguat,,1 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABAAACAC,Riociguat,Riociguat_Tab 1.5mg,Riociguat,,1.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABAAADAD,Riociguat,Riociguat_Tab 2mg,Riociguat,,2 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABAAAEAE,Riociguat,Riociguat_Tab 2.5mg,Riociguat,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABBBAAAA,Adempas,Adempas_Tab 0.5mg,Riociguat,,0.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABBBABAB,Adempas,Adempas_Tab 1mg,Riociguat,,1 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABBBACAC,Adempas,Adempas_Tab 1.5mg,Riociguat,,1.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABBBADAD,Adempas,Adempas_Tab 2mg,Riociguat,,2 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010ABBBAEAE,Adempas,Adempas_Tab 2.5mg,Riociguat,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010E0AAAAAA,Diazoxide (Parent),Diazoxide_Inj 15mg/ml 20ml Amp,Diazoxide,,15 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+0205010E0BBAAAA,Eudemine (Parent),Eudemine_Inj 300mg/20ml Amp,Diazoxide,,300 mg/20 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA1A1,Hydralazine HCl,Hydralazine HCl_Pdrs 5mg,Hydralazine Hydrochloride,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA2A2,Hydralazine HCl,Hydralazine HCl_Pdrs 2.5mg,Hydralazine Hydrochloride,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA3A3,Hydralazine HCl,Hydralazine HCl_Liq Spec 10mg/5ml,Hydralazine Hydrochloride,,10 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA4A4,Hydralazine HCl,Hydralazine HCl_Liq Spec 50mg/5ml,Hydralazine Hydrochloride,,50 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA5A5,Hydralazine HCl,Hydralazine HCl_Liq Spec 5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA6A6,Hydralazine HCl,Hydralazine HCl_Liq Spec 75mg/5ml,Hydralazine Hydrochloride,,75 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA7A7,Hydralazine HCl,Hydralazine HCl_Liq Spec 7.5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA8A8,Hydralazine HCl,Hydralazine HCl_Liq Spec 25mg/5ml,Hydralazine Hydrochloride,,25 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAA9A9,Hydralazine HCl,Hydralazine HCl_Liq Spec 20mg/5ml,Hydralazine Hydrochloride,,20 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAAAA,Hydralazine HCl,Hydralazine HCl_Mix 35mg/5ml,Hydralazine Hydrochloride,,35 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAABAB,Hydralazine HCl,Hydralazine HCl_Pdr,Hydralazine Hydrochloride,,,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAACAC,Hydralazine HCl,Hydralazine HCl_Syr 6.25mg/5ml,Hydralazine Hydrochloride,,25 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAADAD,Hydralazine HCl,Hydralazine HCl_Tab 3.125mg,Hydralazine Hydrochloride,,3.125 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAEAE,Hydralazine HCl,Hydralazine HCl_Pdrs 7mg,Hydralazine Hydrochloride,,7 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAFAF,Hydralazine HCl,Hydralazine HCl_Tab 12.5mg           @gn,Hydralazine Hydrochloride,,12.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAGAG,Hydralazine HCl,Hydralazine HCl_Tab 25mg,Hydralazine Hydrochloride,,25 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAHAH,Hydralazine HCl,Hydralazine HCl_Tab 50mg,Hydralazine Hydrochloride,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAIAI,Hydralazine HCl,Hydralazine HCl_Tab 100mg,Hydralazine Hydrochloride,,100 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAJAJ,Hydralazine HCl,Hydralazine HCl_Syr 5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAKAK,Hydralazine HCl,Hydralazine HCl_Inj 20mg Amp,Hydralazine Hydrochloride,,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAALAL,Hydralazine HCl,Hydralazine HCl_Liq 5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAMAM,Hydralazine HCl,Hydralazine HCl_Susp 5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAANAN,Hydralazine HCl,Hydralazine HCl_Syr 10mg/5ml,Hydralazine Hydrochloride,,10 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAPAP,Hydralazine HCl,Hydralazine HCl_Susp 10mg/5ml,Hydralazine Hydrochloride,,10 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAQAQ,Hydralazine HCl,Hydralazine HCl_Susp 20mg/5ml,Hydralazine Hydrochloride,,20 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAARAR,Hydralazine HCl,Hydralazine HCl_Susp 25mg/5ml,Hydralazine Hydrochloride,,25 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAASAS,Hydralazine HCl,Hydralazine HCl_Cap 12.5mg,Hydralazine Hydrochloride,,12.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAATAT,Hydralazine HCl,Hydralazine HCl_Susp 6.25mg/5ml,Hydralazine Hydrochloride,,25 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAUAU,Hydralazine HCl,Hydralazine HCl_Cap 6.25mg,Hydralazine Hydrochloride,,6.25 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAVAV,Hydralazine HCl,Hydralazine HCl_Susp 50mg/5ml,Hydralazine Hydrochloride,,50 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAWAW,Hydralazine HCl,Hydralazine HCl_Tab 12.5mg,Hydralazine Hydrochloride,,12.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAXAX,Hydralazine HCl,Hydralazine HCl_Susp 15mg/5ml,Hydralazine Hydrochloride,,15 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAYAY,Hydralazine HCl,Hydralazine HCl_Susp 9mg/5ml,Hydralazine Hydrochloride,,9 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AAAZAZ,Hydralazine HCl,Hydralazine HCl_Oral Liq @spec,Hydralazine Hydrochloride,,,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABABA,Hydralazine HCl,Hydralazine HCl_Liq Spec 62.5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABBBB,Hydralazine HCl,Hydralazine HCl_Liq Spec 12.5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABCBC,Hydralazine HCl,Hydralazine HCl_Pdrs 10mg,Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABDBD,Hydralazine HCl,Hydralazine HCl_Pdrs 7.5mg,Hydralazine Hydrochloride,,7.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABEBE,Hydralazine HCl,Hydralazine HCl_Liq Spec 100mg/5ml,Hydralazine Hydrochloride,,100 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABFBF,Hydralazine HCl,Hydralazine HCl_Liq Spec 4mg/5ml,Hydralazine Hydrochloride,,4 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABGBG,Hydralazine HCl,Hydralazine HCl_Cap 37.5mg,Hydralazine Hydrochloride,,37.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABHBH,Hydralazine HCl,Hydralazine HCl_Liq Spec 3mg/5ml,Hydralazine Hydrochloride,,3 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABIBI,Hydralazine HCl,Hydralazine HCl_Liq Spec 2mg/5ml,Hydralazine Hydrochloride,,2 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABJBJ,Hydralazine HCl,Hydralazine HCl_Tab Disper 10mg,Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABKBK,Hydralazine HCl,Hydralazine HCl_Tab 10mg,Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABLBL,Hydralazine HCl,Hydralazine HCl_Liq Spec 15mg/5ml,Hydralazine Hydrochloride,,15 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABMBM,Hydralazine HCl,Hydralazine HCl_Cap 20mg,Hydralazine Hydrochloride,,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABNBN,Hydralazine HCl,Hydralazine HCl_Cap 10mg,Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABPBP,Hydralazine HCl,Hydralazine HCl_Liq Spec 1.25mg/5ml,Hydralazine Hydrochloride,,25 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABQBQ,Hydralazine HCl,Hydralazine HCl_Liq Spec 2.5mg/5ml,Hydralazine Hydrochloride,,5 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABRBR,Hydralazine HCl,Hydralazine HCl_Liq Spec 1mg/5ml,Hydralazine Hydrochloride,,1 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0AABSBS,Hydralazine HCl,Hydralazine HCl_Liq Spec 35mg/5ml,Hydralazine Hydrochloride,,35 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BBAAAG,Apresoline,Apresoline_Tab 25mg,Hydralazine Hydrochloride,,25 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BBABAH,Apresoline,Apresoline_Tab 50mg,Hydralazine Hydrochloride,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BBACAK,Apresoline,Apresoline_Inj 20mg (Dry) Amp,Hydralazine Hydrochloride,,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BBADAW,Apresoline,Apresoline_Tab 12.5mg,Hydralazine Hydrochloride,,12.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BBAEBK,Apresoline,Apresoline_Tab 10mg (Import),Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010J0BCAABK,Apo-Hydralazine,Apo-Hydralazine_Tab 10mg,Hydralazine Hydrochloride,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0AAAAAA,Minoxidil (Systemic),Minoxidil_Tab 2.5mg,Minoxidil,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0AAABAB,Minoxidil (Systemic),Minoxidil_Tab 5mg,Minoxidil,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0AAACAC,Minoxidil (Systemic),Minoxidil_Tab 10mg,Minoxidil,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0AAADAD,Minoxidil (Systemic),Minoxidil_Oral Liq @spec,Minoxidil,,,Vasodilator Antihypertensive Drugs,False,False
+0205010N0BBAAAA,Loniten,Loniten_Tab 2.5mg,Minoxidil,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0BBABAB,Loniten,Loniten_Tab 5mg,Minoxidil,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0BBACAC,Loniten,Loniten_Tab 10mg,Minoxidil,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010N0BCAAAA,Lonolox,Lonolox_Tab 2.5mg,Minoxidil,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010T0AAAAAA,Sod Nitroprusside,Sod Nitroprusside_Inj 50mg Vl (Dry),Sodium Nitroprusside,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0AAAAAA,Bosentan,Bosentan_Tab 62.5mg,Bosentan,,62.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0AAABAB,Bosentan,Bosentan_Tab 125mg,Bosentan,,125 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0BBAAAA,Tracleer,Tracleer_Tab 62.5mg,Bosentan,,62.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0BBABAB,Tracleer,Tracleer_Tab 125mg,Bosentan,,125 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0BCAAAA,Stayveer,Stayveer_Tab 62.5mg,Bosentan,,62.5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010U0BCABAB,Stayveer,Stayveer_Tab 125mg,Bosentan,,125 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010V0AAAAAA,Iloprost,Iloprost_I/V Inf 100mcg/ml 1ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010V0AAABAB,Iloprost,Iloprost_I/V Inf 100mcg/ml 0.5ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010V0AAACAC,Iloprost,Iloprost_Neb Soln 10mcg/1ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010V0AAADAD,Iloprost,Iloprost_Neb Soln 20mcg/1ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010V0BBAAAC,Ventavis,Ventavis_Neb Soln 10mcg/ml 1ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010V0BBABAD,Ventavis,Ventavis_Neb Soln 20mcg/ml 1ml Amp,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+0205010W0AAAAAA,Sitaxentan Sod,Sitaxentan Sod_Tab 100mg,Sitaxentan Sodium,,100 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010W0BBAAAA,Thelin,Thelin_Tab 100mg,Sitaxentan Sodium,,100 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010X0AAAAAA,Ambrisentan,Ambrisentan_Tab 5mg,Ambrisentan,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010X0AAABAB,Ambrisentan,Ambrisentan_Tab 10mg,Ambrisentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010X0BBAAAA,Volibris,Volibris_Tab 5mg,Ambrisentan,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010X0BBABAB,Volibris,Volibris_Tab 10mg,Ambrisentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0AAAAAA,Sildenafil(Vasodilator Antihypertensive),Sildenafil_Tab 20mg,Sildenafil(Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0AAABAB,Sildenafil(Vasodilator Antihypertensive),Sildenafil_Oral Susp 10mg/ml S/F,Sildenafil(Vasodilator Antihypertensive),,10 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0AAACAC,Sildenafil(Vasodilator Antihypertensive),Sildenafil_Inj 800mcg/ml 12.5ml Vl,Sildenafil(Vasodilator Antihypertensive),,,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0BBAAAA,Revatio,Revatio_Tab 20mg,Sildenafil(Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0BBABAB,Revatio,Revatio_Oral Susp 10mg/ml,Sildenafil(Vasodilator Antihypertensive),,10 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0BBACAC,Revatio,Revatio_Inj 800mcg/ml 12.5ml Vl,Sildenafil(Vasodilator Antihypertensive),,,Vasodilator Antihypertensive Drugs,False,False
+0205010Y0BCAAAA,Granpidam,Granpidam_Tab 20mg,Sildenafil(Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010Z0AAAAAA,Tadalafil (Vasodilator Antihypertensive),Tadalafil_Tab 20mg,Tadalafil (Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+0205010Z0BBAAAA,Adcirca,Adcirca_Tab 20mg,Tadalafil (Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+020502000BPAAA0,Proprietary Co Prepn Bnf 0205020,Brinerdin_Tab,Other Antihypertensive Preps,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAAAA,Clonidine HCl (Vasodilator),Clonidine HCl_Cap 250mcg M/R,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAABAB,Clonidine HCl (Vasodilator),Clonidine HCl_Inj 150mcg/ml 1ml Amp,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAACAC,Clonidine HCl (Vasodilator),Clonidine HCl_Tab 100mcg,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAADAD,Clonidine HCl (Vasodilator),Clonidine HCl_Tab 300mcg,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAEAE,Clonidine HCl (Vasodilator),Clonidine HCl_Skin Patch 2.5mg,Clonidine Hydrochloride,,2.5 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAFAF,Clonidine HCl (Vasodilator),Clonidine HCl_Skin Patch 100mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAGAG,Clonidine HCl (Vasodilator),Clonidine HCl_Skin Patch 200mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAHAH,Clonidine HCl (Vasodilator),Clonidine HCl_Skin Patch 300mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAIAI,Clonidine HCl (Vasodilator),Clonidine HCl_Inf 7.787mg/100ml(Paragon),Clonidine Hydrochloride,,787 mg/100 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0AAAJAJ,Clonidine HCl (Vasodilator),Clonidine HCl_Inf 6.750mg/100ml(Paragon),Clonidine Hydrochloride,,750 mg/100 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBAAAC,Catapres,Catapres_Tab 0.1mg,Clonidine Hydrochloride,,0.1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBABAD,Catapres,Catapres_Tab 0.3mg,Clonidine Hydrochloride,,0.3 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBACAA,Catapres,Catapres P.L._Perlongets 0.25mg,Clonidine Hydrochloride,,0.25 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBADAB,Catapres,Catapres_Inj 0.15mg/ml 1ml Amp,Clonidine Hydrochloride,,15 mg/mL,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBAEAF,Catapres,Catapres TTS 1_Patch 100mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBAFAG,Catapres,Catapres TTS 2_Patch 200mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020E0BBAGAH,Catapres,Catapres TTS 3_Patch 300mcg/24hrs,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0AAAAAA,Guanfacine HCl,Guanfacine HCl_Tab 1mg (Old),Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0AAABAB,Guanfacine HCl,Guanfacine HCl_Tab 1mg (Import),Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0AAACAC,Guanfacine HCl,Guanfacine HCl_Tab 1mg,Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0BBAAAA,Estulic,Estulic_Tab 1mg,Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0BCAAAA,Akfen,Akfen_Tab 1mg,Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020G0BDAAAA,Tenex,Tenex_Tab 1mg,Guanfacine Hydrochloride,,1 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAAAA,Methyldopa,Methyldopa_Cap 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAABAB,Methyldopa,Methyldopa_Susp 250mg/5ml,Methyldopa,,250 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAACAC,Methyldopa,Methyldopa_Tab 125mg,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAADAD,Methyldopa,Methyldopa_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAEAE,Methyldopa,Methyldopa_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAFAF,Methyldopa,Methyldopa_Inj 50mg/ml 5ml Amp,Methyldopa,,50 mg/mL,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAGAG,Methyldopa,Methyldopa_Oral Liq @spec,Methyldopa,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAHAH,Methyldopa,Methyldopa_Liq Spec 500mg/5ml,Methyldopa,,500 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAIAI,Methyldopa,Methyldopa_Liq Spec 250mg/5ml,Methyldopa,,250 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAJAJ,Methyldopa,Methyldopa_Liq Spec 50mg/5ml,Methyldopa,,50 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAAKAK,Methyldopa,Methyldopa_Liq Spec 60mg/5ml,Methyldopa,,60 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0AAALAL,Methyldopa,Methyldopa_Liq Spec 125mg/5ml,Methyldopa,,125 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BBAAAC,Aldomet (Oral),Aldomet_Tab 125mg,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BBABAD,Aldomet (Oral),Aldomet_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BBACAE,Aldomet (Oral),Aldomet_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BBADAB,Aldomet (Oral),Aldomet_Susp 250mg/5ml,Methyldopa,,250 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BCAAAC,Dopamet,Dopamet_Tab 125mg,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BCABAD,Dopamet,Dopamet_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BCACAE,Dopamet,Dopamet_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BDAAAA,Medomet,Medomet_Cap 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BDABAD,Medomet,Medomet_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BDACAE,Medomet,Medomet_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BFAAAC,Lederdopa,Lederdopa_Tab 125mg,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BFABAD,Lederdopa,Lederdopa_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BFACAE,Lederdopa,Lederdopa_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BGAAAA,Co-Caps Methyldopa,Co-Caps_Methyldopa 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BHAAAD,Metalpha,Metalpha 250_Tab 250mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020H0BHABAE,Metalpha,Metalpha 500_Tab 500mg,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020I0AAAAAA,Methyldopa/Hydchloroth,Methyldopa/Hydchloroth_Tab 250mg/15mg,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,True
+0205020I0BBAAAA,Hydromet,Hydromet_Tab,Methyldopa,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020J0AAAAAA,Methyldopate HCl,Methyldopate HCl_Inj 50mg/ml 5ml Amp,Methyldopa,,50 mg/mL,Centrally-Acting Antihypertensive Drugs,False,False
+0205020J0BBAAAA,Aldomet (Parent),Aldomet_Inj 50mg/ml 5ml Amp,Methyldopa,,50 mg/mL,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAAAAA,Moxonidine,Moxonidine_Tab 200mcg,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAABAB,Moxonidine,Moxonidine_Tab 400mcg,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAACAC,Moxonidine,Moxonidine_Tab 300mcg,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAADAD,Moxonidine,Moxonidine_Tab 400mcg                @gn,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAAEAE,Moxonidine,Moxonidine_Tab 200mcg                @gn,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0AAAFAF,Moxonidine,Moxonidine_Tab 300mcg                @gn,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBAAAA,Physiotens,Physiotens_Tab 200mcg (Mylan),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBABAB,Physiotens,Physiotens_Tab 400mcg (Mylan),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBACAC,Physiotens,Physiotens_Tab 300mcg (Mylan),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBADAA,Physiotens,Physiotens_Tab 200mcg (Actavis),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBAEAB,Physiotens,Physiotens_Tab 400mcg (Actavis),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BBAFAC,Physiotens,Physiotens_Tab 300mcg (Actavis),Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BCAAAA,Fisiotens,Fisiotens_Tab 200mcg,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020M0BDAAAB,Normatens,Normatens_Tab 400mcg,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAAAA,Reserpine & Rauwolfia Alkaloids,Reserpine_Tab 100mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAABAB,Reserpine & Rauwolfia Alkaloids,Reserpine_Tab 250mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAACAC,Reserpine & Rauwolfia Alkaloids,Methoserp_Tab 5mg,Reserpine And Rauwolfia Alkaloids,,5 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAADAD,Reserpine & Rauwolfia Alkaloids,Methoserp_Tab 10mg,Reserpine And Rauwolfia Alkaloids,,10 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAEAE,Reserpine & Rauwolfia Alkaloids,Rauwol Alkaloids_Tab 2mg,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAFAF,Reserpine & Rauwolfia Alkaloids,Alseroxylon_Tab 2mg,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAGAG,Reserpine & Rauwolfia Alkaloids,Deserpidine_Tab 250mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAHAH,Reserpine & Rauwolfia Alkaloids,Reserpine_Tab 250mcg (Import),Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0AAAIAI,Reserpine & Rauwolfia Alkaloids,Reserpine_Tab 500mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BBAAAA,Serpasil,Serpasil_Tab 100mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BBABAB,Serpasil,Serpasil_Tab 250mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BCAAAC,Decaserpyl,Decaserpyl_Tab 5mg,Reserpine And Rauwolfia Alkaloids,,5 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BCABAD,Decaserpyl,Decaserpyl_Tab 10mg,Reserpine And Rauwolfia Alkaloids,,10 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BDAAAE,Hypercal,Hypercal_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BEAAAF,Rauwiloid,Rauwiloid_Tab 2mg,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020N0BFAAAG,Harmonyl,Harmonyl_Tab 250mcg,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020P0AAAAAA,Alkavervir,Alkavervir/Alseroxylon_Tab 3mg/1mg,Reserpine And Rauwolfia Alkaloids,,3 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020P0AAABAB,Alkavervir,Alkavervir/Epitizide_Tab 4mg/4mg,Reserpine And Rauwolfia Alkaloids,,4 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020P0BBAAAA,Rauwiloid Plus Veriloid,Rauwiloid Plus Veriloid_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020P0BCAAAB,Thiaver,Thiaver_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020Q0AAAAAA,Reserp & Rauwalk + Barbiturate,Rauwol Alkaloids/Amobarb_Tab 2mg/15mg,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+0205020Q0AAABAB,Reserp & Rauwalk + Barbiturate,Gppe Tab_Seominal,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020Q0BBAAAA,Hypercal B,Hypercal B_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020Q0BCAAAB,Seominal,Seominal_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+0205020R0AAAAAA,Reserp & Rauwalk + Diuretic,Methoserp/Benzthiazide_Tab 10mg/20mg,Reserpine And Rauwolfia Alkaloids,,10 mg,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0AAABAB,Reserp & Rauwalk + Diuretic,Reserpine/Hydchloroth_Tab 150mcg/10mg,Reserpine And Rauwolfia Alkaloids,,10 mg,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0AAACAC,Reserp & Rauwalk + Diuretic,Gppe Tab_Abicol,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0AAADAD,Reserp & Rauwalk + Diuretic,Gppe Tab_Rautrax,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0BBAAAA,Decaserpyl Plus,Decaserpyl Plus_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0BCAAAB,Serpasil-Esidrex,Serpasil-Esidrex_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0BDAAAC,Abicol,Abicol_Tab,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+0205020R0BEAAAD,Rautrax,Rautrax_Tab 50mg,Reserpine And Rauwolfia Alkaloids,,50 mg,Centrally-Acting Antihypertensive Drugs,False,True
+0205030C0AAAAAA,Betanidine Sulf,Betanidine Sulf_Tab 10mg,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0AAABAB,Betanidine Sulf,Betanidine Sulf_Tab 50mg BP,Betanidine Sulfate,,50 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0AAACAC,Betanidine Sulf,Betanidine Sulf_Tab 10mg           @gn,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0BBAAAA,Bendogen,Bendogen_Tab 10mg,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0BBABAB,Bendogen,Bendogen_Tab 50mg,Betanidine Sulfate,,50 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0BCAAAA,Esbatal,Esbatal_Tab 10mg,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030C0BCABAB,Esbatal,Esbatal_Tab 50mg,Betanidine Sulfate,,50 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030H0AAAAAA,Debrisoquine Sulf,Debrisoquine Sulf_Tab 10mg,Debrisoquine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030H0AAABAB,Debrisoquine Sulf,Debrisoquine Sulf_Tab 20mg,Debrisoquine Sulfate,,20 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030H0BBAAAA,Declinax,Declinax_Tab 10mg,Debrisoquine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030H0BBABAB,Declinax,Declinax_Tab 20mg,Debrisoquine Sulfate,,20 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0AAAAAA,Guaneth Monosulf (Systemic),Guaneth Monosulf_Inj 10mg/ml 1ml Amp,Guanethidine Monosulfate,,10 mg/mL,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0AAABAB,Guaneth Monosulf (Systemic),Guaneth Monosulf_Tab 10mg,Guanethidine Monosulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0AAACAC,Guaneth Monosulf (Systemic),Guaneth Monosulf_Tab 25mg,Guanethidine Monosulfate,,25 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0BBAAAB,Ismelin (Systemic),Ismelin_Tab 10mg,Guanethidine Monosulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0BBABAC,Ismelin (Systemic),Ismelin_Tab 25mg,Guanethidine Monosulfate,,25 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0BBACAA,Ismelin (Systemic),Ismelin_Inj 10mg/ml 1ml Amp,Guanethidine Monosulfate,,10 mg/mL,Adrenergic Neurone Blocking Drugs,False,False
+0205030N0BCAAAB,Lotens,Lotens_Tab 10mg,Guanethidine Monosulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+0205040D0AAAAAA,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 1mg,Doxazosin Mesilate,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAABAB,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 2mg,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAACAC,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAADAD,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Oral Liq @spec,Doxazosin Mesilate,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAEAE,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Cap 1mg,Doxazosin Mesilate,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAFAF,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Cap 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAGAG,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Cap 2mg,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAHAH,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 8mg/5ml,Doxazosin Mesilate,,8 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAIAI,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 2mg/5ml,Doxazosin Mesilate,,2 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAJAJ,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 4mg              @gn,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAKAK,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 5mg/5ml,Doxazosin Mesilate,,5 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAALAL,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 4mg/5ml,Doxazosin Mesilate,,4 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAMAM,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 1mg/5ml,Doxazosin Mesilate,,1 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAANAN,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 2mg              @gn,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAPAP,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 3mg/5ml,Doxazosin Mesilate,,3 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAQAQ,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 4mg M/R,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAARAR,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 8mg M/R,Doxazosin Mesilate,,8 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAASAS,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 6mg/5ml,Doxazosin Mesilate,,6 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAATAT,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 2.5mg/5ml,Doxazosin Mesilate,,5 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAUAU,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 500mcg/5ml,Doxazosin Mesilate,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAVAV,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 80mg/5ml,Doxazosin Mesilate,,80 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAWAW,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Liq Spec 16mg/5ml,Doxazosin Mesilate,,16 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAXAX,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Oral Soln 4mg/5ml,Doxazosin Mesilate,,4 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAYAY,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Oral Susp 4mg/5ml,Doxazosin Mesilate,,4 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AAAZAZ,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Oral Soln 1mg/5ml,Doxazosin Mesilate,,1 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AABABA,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Oral Susp 1mg/5ml,Doxazosin Mesilate,,1 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0AABBBB,Doxazosin Mesil (Hypertension),Doxazosin Mesil_Tab 8mg,Doxazosin Mesilate,,8 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BBAAAA,Cardura (Hypertension),Cardura_Tab 1mg,Doxazosin Mesilate,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BBABAB,Cardura (Hypertension),Cardura_Tab 2mg,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BBACAC,Cardura (Hypertension),Cardura_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BBADAQ,Cardura (Hypertension),Cardura XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BBAEAR,Cardura (Hypertension),Cardura XL_Tab 8mg,Doxazosin Mesilate,,8 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BCAAAB,Cascor (Hypertension),Cascor_Tab 2mg,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BCABAC,Cascor (Hypertension),Cascor_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BDAAAA,Doxadura (Hypertension),Doxadura_Tab 1mg,Doxazosin Mesilate,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BDABAB,Doxadura (Hypertension),Doxadura_Tab 2mg,Doxazosin Mesilate,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BDACAC,Doxadura (Hypertension),Doxadura_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BDADAQ,Doxadura (Hypertension),Doxadura_XL Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BEAAAQ,Slocinx,Slocinx XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BFAAAQ,Colixil,Colixil XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BGAAAQ,Cardozin,Cardozin XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BGABAQ,Cardozin,Cardozin XL_Tab 4mg (Almus),Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BHAAAQ,Oxandosin,Oxandosin XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BIAAAQ,Doxzogen,Doxzogen XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BJAAAQ,Larbex,Larbex XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BKAAAQ,Raporsin,Raporsin XL_Tab 4mg,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040D0BKABAQ,Raporsin,Raporsin XL_Tab 4mg (Arrow Generics Ltd),Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040I0AAAAAA,Indoramin (Hypertension),Indoramin_Tab 25mg,Indoramin,,25 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040I0AAABAB,Indoramin (Hypertension),Indoramin_Tab 50mg,Indoramin,,50 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040I0AAACAC,Indoramin (Hypertension),Indoramin_Tab 20mg,Indoramin,,20 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040I0BBAAAA,Baratol,Baratol_Tab 25mg,Indoramin,,25 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040I0BBABAB,Baratol,Baratol_Tab 50mg,Indoramin,,50 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040K0BBAAA0,Vadilex,Vadilex_Tab 20mg,Ifenprodil Tartrate,,20 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAAAA,Phenoxybenz HCl,Phenoxybenz HCl_Cap 2.5mg,Phenoxybenzamine Hydrochloride,,2.5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAABAB,Phenoxybenz HCl,Phenoxybenz HCl_Cap 5mg,Phenoxybenzamine Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAACAC,Phenoxybenz HCl,Phenoxybenz HCl_Cap 10mg,Phenoxybenzamine Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAADAD,Phenoxybenz HCl,Phenoxybenz HCl_Inj 50mg/ml 2ml Amp,Phenoxybenzamine Hydrochloride,,50 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAEAE,Phenoxybenz HCl,Phenoxybenz HCl_Tab 5mg,Phenoxybenzamine Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAGAG,Phenoxybenz HCl,Phenoxybenz HCl_Pdrs 2.5mg,Phenoxybenzamine Hydrochloride,,2.5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAHAH,Phenoxybenz HCl,Phenoxybenz HCl_Cap 2mg,Phenoxybenzamine Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAIAI,Phenoxybenz HCl,Phenoxybenz HCl_Tab 10mg,Phenoxybenzamine Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAJAJ,Phenoxybenz HCl,Phenoxybenz HCl_Inj 100mg/ml 2ml Amp,Phenoxybenzamine Hydrochloride,,100 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAKAK,Phenoxybenz HCl,Phenoxybenz HCl_Pdrs 2mg,Phenoxybenzamine Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAALAL,Phenoxybenz HCl,Phenoxybenz HCl_Cap 6mg,Phenoxybenzamine Hydrochloride,,6 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAMAM,Phenoxybenz HCl,Phenoxybenz HCl_Liq Spec 25mg/5ml,Phenoxybenzamine Hydrochloride,,25 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAANAN,Phenoxybenz HCl,Phenoxybenz HCl_Liq Spec 10mg/5ml,Phenoxybenzamine Hydrochloride,,10 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAPAP,Phenoxybenz HCl,Phenoxybenz HCl_Liq Spec 5mg/5ml,Phenoxybenzamine Hydrochloride,,5 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0AAAQAQ,Phenoxybenz HCl,Phenoxybenz HCl_Cap 8mg,Phenoxybenzamine Hydrochloride,,8 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0BBAAAC,Dibenyline,Dibenyline_Cap 10mg,Phenoxybenzamine Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0BBABAA,Dibenyline,Dibenyline_Cap 2.5mg,Phenoxybenzamine Hydrochloride,,2.5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0BBACAB,Dibenyline,Dibenyline_Cap 5mg,Phenoxybenzamine Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0BBADAE,Dibenyline,Dibenyline_Tab 5mg,Phenoxybenzamine Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040M0BBAEAD,Dibenyline,Dibenyline_Inj 50mg/ml 2ml Amp,Phenoxybenzamine Hydrochloride,,50 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040P0AAAAAA,Phentolam Mesil,Phentolam Mesil_Inj 10mg/ml 1ml Amp,Phentolamine Mesilate,,10 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040P0AAABAB,Phentolam Mesil,Phentolam Mesil_Inj 10mg/ml 5ml Amp,Phentolamine Mesilate,,10 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040P0BBAAAA,Rogitine,Rogitine_Inj 10mg/ml 1ml Amp,Phentolamine Mesilate,,10 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040P0BBABAB,Rogitine,Rogitine_Inj 10mg/ml 5ml Amp,Phentolamine Mesilate,,10 mg/mL,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAAAA,Prazosin HCl,Prazosin HCl_Tt/Pack (500mcg/1mg Tab),Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAABAB,Prazosin HCl,Prazosin HCl_Tab 500mcg,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAACAC,Prazosin HCl,Prazosin HCl_Tab 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAADAD,Prazosin HCl,Prazosin HCl_Tab 2mg,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAEAE,Prazosin HCl,Prazosin HCl_Tab 5mg,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAFAF,Prazosin HCl,Prazosin HCl_Tab 1mg (Parallel Import),Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAGAG,Prazosin HCl,Prazosin HCl_Tab 2mg (Parallel Import),Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAHAH,Prazosin HCl,Prazosin HCl_Mix 300mcg/5ml,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAIAI,Prazosin HCl,Prazosin HCl_Liq Spec 500mcg/5ml,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAJAJ,Prazosin HCl,Prazosin HCl_Liq Spec 250mcg/5ml,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAKAK,Prazosin HCl,Prazosin HCl_Liq Spec 1mg/5ml,Prazosin Hydrochloride,,1 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAALAL,Prazosin HCl,Prazosin HCl_Pdrs 150mg,Prazosin Hydrochloride,,150 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAAMAM,Prazosin HCl,Prazosin HCl_Cap 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0AAANAN,Prazosin HCl,Prazosin HCl_Liq Spec 2mg/5ml,Prazosin Hydrochloride,,2 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BBAAAB,Hypovase,Hypovase_Tab 500mcg,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BBABAC,Hypovase,Hypovase_Tab 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BBACAD,Hypovase,Hypovase_Tab 2mg,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BBADAE,Hypovase,Hypovase_Tab 5mg,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BBAEAA,Hypovase,Hypovase B.D._S/Pack (500mcg/1mg Tab),Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BCAAAC,Minipress,Minipress_Tab 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BCABAD,Minipress,Minipress_Tab 2mg,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BCACAE,Minipress,Minipress_Tab 5mg,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BDAAAB,Kentovace,Kentovace_Tab 500mcg,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BDABAC,Kentovace,Kentovace_Tab 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BDACAE,Kentovace,Kentovace_Tab 5mg,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BDADAD,Kentovace,Kentovace_Tab 2mg,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BEAAAB,Alphavase,Alphavase 0.5_Tab 500mcg,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BEABAC,Alphavase,Alphavase 1_Tab 1mg,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BEACAD,Alphavase,Alphavase 2_Tab 2mg,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040S0BEADAE,Alphavase,Alphavase 5_Tab 5mg,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0AAAAAA,Terazosin HCl (Antihypertensive),Terazosin HCl_S/Pack (1mg/2mg) Tab,Terazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0AAABAB,Terazosin HCl (Antihypertensive),Terazosin HCl_Tab 2mg,Terazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0AAACAC,Terazosin HCl (Antihypertensive),Terazosin HCl_Tab 5mg,Terazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0AAADAD,Terazosin HCl (Antihypertensive),Terazosin HCl_Tab 10mg,Terazosin Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BBAAAA,Hytrin,Hytrin_S/Pack (1mg/2mg) Tab,Terazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BBABAB,Hytrin,Hytrin_Tab 2mg,Terazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BBACAC,Hytrin,Hytrin_Tab 5mg,Terazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BBADAD,Hytrin,Hytrin_Tab 10mg,Terazosin Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BBAEAA,Hytrin,Hytrin_S/Pack (1mg/2mg) Tab,Terazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BCAAAB,Benph,Benph_Tab 2mg,Terazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040V0BCABAC,Benph,Benph_Tab 5mg,Terazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040W0AAAAAA,Metirosine,Metirosine_Cap 250mg,Metirosine,,250 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205040W0BBAAAA,Demser,Demser_Cap 250mg,Metirosine,,250 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+0205051AAAAAAAA,Perindopril Tosilate,Perindopril Tosilate_Tab 2.5mg,Perindopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051AAAAABAB,Perindopril Tosilate,Perindopril Tosilate_Tab 5mg,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051AAAAACAC,Perindopril Tosilate,Perindopril Tosilate_Tab 10mg,Perindopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051ABAAAAAA,Perindopril Tosilate/Indapamide,Perindopril/Indapamide_Tab 5mg/1.25mg,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051ACAAAAAA,Perindopril Erbumine + Amlodipine,Perindopril/Amlodipine_Tab 4mg/5mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051ACAAABAB,Perindopril Erbumine + Amlodipine,Perindopril/Amlodipine_Tab 4mg/10mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051ACAAACAC,Perindopril Erbumine + Amlodipine,Perindopril/Amlodipine_Tab 8mg/10mg,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051ACAAADAD,Perindopril Erbumine + Amlodipine,Perindopril/Amlodipine_Tab 8mg/5mg,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051C0AAAAAA,Moexipril HCl,Moexipril HCl_Tab 7.5mg,Moexipril Hydrochloride,,7.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051C0AAABAB,Moexipril HCl,Moexipril HCl_Tab 15mg,Moexipril Hydrochloride,,15 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051C0BBAAAA,Perdix,Perdix_Tab 7.5mg,Moexipril Hydrochloride,,7.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051C0BBABAB,Perdix,Perdix_Tab 15mg,Moexipril Hydrochloride,,15 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0AAAAAA,Cilazapril,Cilazapril_Tab 250mcg,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0AAABAB,Cilazapril,Cilazapril_Tab 500mcg,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0AAACAC,Cilazapril,Cilazapril_Tab 1mg,Cilazapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0AAADAD,Cilazapril,Cilazapril_Tab 2.5mg,Cilazapril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0AAAEAE,Cilazapril,Cilazapril_Tab 5mg,Cilazapril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0BBAAAA,Vascace,Vascace_Tab 250mcg,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0BBABAB,Vascace,Vascace_Tab 500mcg,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0BBACAC,Vascace,Vascace_Tab 1mg,Cilazapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0BBADAD,Vascace,Vascace_Tab 2.5mg,Cilazapril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051E0BBAEAE,Vascace,Vascace_Tab 5mg,Cilazapril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA1A1,Captopril,Captopril_Tab 12.5mg Add Free,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA2A2,Captopril,Captopril_Cap 4mg,Captopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA3A3,Captopril,Captopril_Cap 25mg Add Free,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA4A4,Captopril,Captopril_Cap 8mg,Captopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA5A5,Captopril,Captopril_Cap 500mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA6A6,Captopril,Captopril_Cap 1mg,Captopril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA7A7,Captopril,Captopril_Pdrs 1.5mg,Captopril,,1.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA8A8,Captopril,Captopril_Cap 300mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAA9A9,Captopril,Captopril_Susp 300mcg/5ml,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAAAA,Captopril,Captopril_Pdrs 8mg,Captopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAABAB,Captopril,Captopril_Tab 2mg,Captopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAACAC,Captopril,Captopril_Tab 3mg,Captopril,,3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAADAD,Captopril,Captopril_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAEAE,Captopril,Captopril_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAFAF,Captopril,Captopril_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAGAG,Captopril,Captopril_Susp 6.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAHAH,Captopril,Captopril_Pdrs 3mg,Captopril,,3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAIAI,Captopril,Captopril_Tab 5mg,Captopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAJAJ,Captopril,Captopril_Pdr,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAKAK,Captopril,Captopril_Cap 2mg,Captopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAALAL,Captopril,Captopril_Tab 8mg,Captopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAMAM,Captopril,Captopril_Tab 1mg,Captopril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAANAN,Captopril,Captopril_Pdrs 5mg,Captopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAPAP,Captopril,Captopril_Cap 3.125mg,Captopril,,3.125 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAQAQ,Captopril,Captopril_Tab 6.25mg,Captopril,,6.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAARAR,Captopril,Captopril_Pdrs 1mg,Captopril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAASAS,Captopril,Captopril_Cap 6.25mg,Captopril,,6.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAATAT,Captopril,Captopril_Cap 10mg,Captopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAUAU,Captopril,Captopril_Pdrs 1.25mg,Captopril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAVAV,Captopril,Captopril_Cap 3mg,Captopril,,3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAWAW,Captopril,Captopril_Cap 4.5mg,Captopril,,4.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAXAX,Captopril,Captopril_Tab 1.5mg,Captopril,,1.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAYAY,Captopril,Captopril_Susp 5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAAZAZ,Captopril,Captopril_Pdrs 2mg,Captopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABABA,Captopril,Captopril_Cap 880mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABBBB,Captopril,Captopril_Pdrs 2.3mg,Captopril,,2.3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABCBC,Captopril,Captopril_Pdrs 6mg,Captopril,,6 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABDBD,Captopril,Captopril_Pdrs 500mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABEBE,Captopril,Captopril_Cap 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABFBF,Captopril,Captopril_Cap 700mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABGBG,Captopril,Captopril_Susp 10mg/5ml,Captopril,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABHBH,Captopril,Captopril_Oral Liq @spec,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABIBI,Captopril,Captopril_Pdrs 300mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABJBJ,Captopril,Captopril_Cap 400mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABKBK,Captopril,Captopril_Cap 1.5mg,Captopril,,1.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABLBL,Captopril,Captopril_Cap 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABMBM,Captopril,Captopril_Cap 5mg,Captopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABNBN,Captopril,Captopril_Liq Spec 5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABPBP,Captopril,Captopril_Liq Spec 20mg/5ml,Captopril,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABQBQ,Captopril,Captopril_Pdrs 2.5mg,Captopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABRBR,Captopril,Captopril_Liq Spec 10mg/5ml,Captopril,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABSBS,Captopril,Captopril_Liq Spec 5.4mg/5ml,Captopril,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABTBT,Captopril,Captopril_Liq Spec 12.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABUBU,Captopril,Captopril_Cap 6mg,Captopril,,6 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABVBV,Captopril,Captopril_Liq Spec 1.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABWBW,Captopril,Captopril_Liq Spec 25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABXBX,Captopril,Captopril_Liq Spec 6.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABYBY,Captopril,Captopril_Liq Spec 2.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AABZBZ,Captopril,Captopril_Liq Spec 2mg/5ml,Captopril,,2 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACACA,Captopril,Captopril_Liq Spec 50mg/5ml,Captopril,,50 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACBCB,Captopril,Captopril_Tab 12.5mg                 @gn,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACCCC,Captopril,Captopril_Liq Spec 100mcg/5ml,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACDCD,Captopril,Captopril_Liq Spec 3mg/5ml,Captopril,,3 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACECE,Captopril,Captopril_Liq Spec 7.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACFCF,Captopril,Captopril_Liq Spec 500mcg/5ml,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACGCG,Captopril,Captopril_Liq Spec 15mg/5ml,Captopril,,15 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACHCH,Captopril,Captopril_Liq Spec 4mg/5ml,Captopril,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACICI,Captopril,Captopril_Liq Spec 3.125mg/5ml,Captopril,,125 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACJCJ,Captopril,Captopril_Liq Spec 1mg/5ml,Captopril,,1 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACKCK,Captopril,Captopril_Liq Spec 7mg/5ml,Captopril,,7 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACLCL,Captopril,Captopril_Liq Spec 9mg/5ml,Captopril,,9 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACMCM,Captopril,Captopril_Cap 9mg,Captopril,,9 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACNCN,Captopril,Captopril_Liq Spec 1.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACPCP,Captopril,Captopril_Pdrs 400mcg,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACQCQ,Captopril,Captopril_Cap 3.5mg,Captopril,,3.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACRCR,Captopril,Captopril_Liq Spec 6mg/5ml,Captopril,,6 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACSCS,Captopril,Captopril_Cap 15mg,Captopril,,15 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACTCT,Captopril,Captopril_Oral Soln 5mg/1ml S/F,Captopril,,5 mg/1 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACUCU,Captopril,Captopril_Liq Spec 3.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACVCV,Captopril,Captopril_Pdrs 6.25mg,Captopril,,6.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACWCW,Captopril,Captopril_Pdrs 2.9mg,Captopril,,2.9 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACXCX,Captopril,Captopril_Liq Spec 15.625mg/5ml,Captopril,,625 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACYCY,Captopril,Captopril_Liq Spec 30mg/5ml,Captopril,,30 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AACZCZ,Captopril,Captopril_Liq Spec 18.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADADA,Captopril,Captopril_Liq Spec 3.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADBDB,Captopril,Captopril_Pdrs 8.25mg,Captopril,,8.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADCDC,Captopril,Captopril_Liq Spec 100mg/5ml,Captopril,,100 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADDDD,Captopril,Captopril_Liq Spec 1.6mg/5ml,Captopril,,6 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADEDE,Captopril,Captopril_Liq Spec 8mg/5ml,Captopril,,8 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADFDF,Captopril,Captopril_Liq Spec 12mg/5ml,Captopril,,12 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADGDG,Captopril,Captopril_Liq Spec 1.75mg/5ml,Captopril,,75 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADHDH,Captopril,Captopril_Cap 7.5mg,Captopril,,7.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADIDI,Captopril,Captopril_Pdrs 6.2mg,Captopril,,6.2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADJDJ,Captopril,Captopril_Liq Spec 17.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADKDK,Captopril,Captopril_Pdrs 3.125mg,Captopril,,3.125 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADLDL,Captopril,Captopril_Liq Spec 31.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADMDM,Captopril,Captopril_Liq Spec 22.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADNDN,Captopril,Captopril_Liq Spec 62.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADPDP,Captopril,Captopril_Liq Spec 17mg/5ml,Captopril,,17 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADQDQ,Captopril,Captopril_Liq Spec 11.25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADRDR,Captopril,Captopril_Cap 2.3mg,Captopril,,2.3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADSDS,Captopril,Captopril_Liq Spec 6.5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADTDT,Captopril,Captopril_Pdr Sach 7mg,Captopril,,7 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADUDU,Captopril,Captopril_Cap 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADVDV,Captopril,Captopril_Oral Soln 5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADWDW,Captopril,Captopril_Oral Susp 5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADXDX,Captopril,Captopril_Oral Soln 25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADYDY,Captopril,Captopril_Oral Susp 25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AADZDZ,Captopril,Captopril_Oral Soln 25mg/5ml S/F,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0AAEAEA,Captopril,Captopril_Oral Soln 5mg/5ml S/F,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BBAAAD,Acepril,Acepril_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BBABAE,Acepril,Acepril_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BBACAF,Acepril,Acepril_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BCABAE,Capoten,Capoten_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BCACAF,Capoten,Capoten_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BCADAD,Capoten,Capoten_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BCAEAJ,Capoten,Capoten_Pdr,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BCAFCT,Capoten,Capoten_Oral Soln 5mg/1ml (Import),Captopril,,5 mg/1 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BDAAAD,Ecopace,Ecopace_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BDABAE,Ecopace,Ecopace_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BDACAF,Ecopace,Ecopace_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BEAAAD,Tensopril,Tensopril_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BEABAE,Tensopril,Tensopril_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BEACAF,Tensopril,Tensopril_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BFAAAD,Kaplon,Kaplon_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BFABAE,Kaplon,Kaplon_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BFACAF,Kaplon,Kaplon_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BGAAAD,Hyteneze,Hyteneze 12.5_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BGABAE,Hyteneze,Hyteneze 25_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BGACAF,Hyteneze,Hyteneze 50_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BHAAAD,Captomex,Captomex_Tab 12.5mg,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BHABAF,Captomex,Captomex_Tab 50mg,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BHACAE,Captomex,Captomex_Tab 25mg,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BIAADZ,Noyada,Noyada_Oral Soln 25mg/5ml,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051F0BIABEA,Noyada,Noyada_Oral Soln 5mg/5ml,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051G0AAAAAA,Co-Zidocapt,Co-Zidocapt_Tab 25mg/50mg,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0AAABAB,Co-Zidocapt,Co-Zidocapt_Tab 12.5mg/25mg,Co-Zidocapt,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0BBAAAA,Acezide,Acezide_Tab 25mg/50mg,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0BCAAAA,Capozide,Capozide_Tab 25mg/50mg,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0BCABAB,Capozide,Capozide LS_Tab 12.5mg/25mg,Co-Zidocapt,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0BDAAAB,Capto-Co,Capto-Co_Tab 12.5mg/25mg,Co-Zidocapt,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051G0BDABAA,Capto-Co,Capto-Co_Tab 25mg/50mg,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051H0AAAAAA,Enalapril/Hydchloroth,Enalapril/Hydchloroth_Tab 20mg/12.5mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051H0BBAAAA,Innozide,Innozide_Tab,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051I0AAAAAA,Enalapril Mal,Enalapril Mal_Tab 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAABAB,Enalapril Mal,Enalapril Mal_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAACAC,Enalapril Mal,Enalapril Mal_Tab 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAADAD,Enalapril Mal,Enalapril Mal_Tab 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAEAE,Enalapril Mal,Enalapril Mal_Tab 5mg (Import),Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAFAF,Enalapril Mal,Enalapril Mal_S/Pack Tab 2.5mg/5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAGAG,Enalapril Mal,Enalapril Mal_Pdrs 1mg,Enalapril Maleate,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAHAH,Enalapril Mal,Enalapril Mal_Oral Liq @spec,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAIAI,Enalapril Mal,Enalapril Mal_Pdrs 1.5mg,Enalapril Maleate,,1.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAJAJ,Enalapril Mal,Enalapril Mal_Liq Spec 2.5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAKAK,Enalapril Mal,Enalapril Mal_Cap 40mg,Enalapril Maleate,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAALAL,Enalapril Mal,Enalapril Mal_Cap 1mg,Enalapril Maleate,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAMAM,Enalapril Mal,Enalapril Mal_Cap 3.5mg,Enalapril Maleate,,3.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAANAN,Enalapril Mal,Enalapril Mal_Liq Spec 5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAPAP,Enalapril Mal,Enalapril Mal_Liq Spec 20mg/5ml,Enalapril Maleate,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAQAQ,Enalapril Mal,Enalapril Mal_Pdrs 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAARAR,Enalapril Mal,Enalapril Mal_Liq Spec 600mcg/5ml,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAASAS,Enalapril Mal,Enalapril Mal_Liq Spec 1mg/5ml,Enalapril Maleate,,1 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAATAT,Enalapril Mal,Enalapril Mal_Liq Spec 3.5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAUAU,Enalapril Mal,Enalapril Mal_Oral Soln 10mg/5ml,Enalapril Maleate,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAVAV,Enalapril Mal,Enalapril Mal_Liq Spec 500mcg/5ml,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAWAW,Enalapril Mal,Enalapril Mal_Liq Spec 2mg/5ml,Enalapril Maleate,,2 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAXAX,Enalapril Mal,Enalapril Mal_Liq Spec 3.75mg/5ml,Enalapril Maleate,,75 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAYAY,Enalapril Mal,Enalapril Mal_Liq Spec 3mg/5ml,Enalapril Maleate,,3 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AAAZAZ,Enalapril Mal,Enalapril Mal_Liq Spec 4mg/5ml,Enalapril Maleate,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABABA,Enalapril Mal,Enalapril Mal_Pdrs 1.2mg,Enalapril Maleate,,1.2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABBBB,Enalapril Mal,Enalapril Mal_Liq Spec 25mg/5ml,Enalapril Maleate,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABCBC,Enalapril Mal,Enalapril Mal_Liq Spec 7mg/5ml,Enalapril Maleate,,7 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABDBD,Enalapril Mal,Enalapril Mal_Pdrs 2mg,Enalapril Maleate,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABEBE,Enalapril Mal,Enalapril Mal_Cap 2mg,Enalapril Maleate,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABFBF,Enalapril Mal,Enalapril Mal_Oral Soln 1.25mg/5ml,Enalapril Maleate,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABGBG,Enalapril Mal,Enalapril Mal_Cap 3mg,Enalapril Maleate,,3 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABHBH,Enalapril Mal,Enalapril Mal_Wafer 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABIBI,Enalapril Mal,Enalapril Mal_Wafer 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABJBJ,Enalapril Mal,Enalapril Mal_Wafer 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABKBK,Enalapril Mal,Enalapril Mal_Wafer 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABLBL,Enalapril Mal,Enalapril Mal_Liq Spec 12.5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABMBM,Enalapril Mal,Enalapril Mal_Pdrs 500mcg,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABNBN,Enalapril Mal,Enalapril Mal_Liq Spec 15mg/5ml,Enalapril Maleate,,15 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABPBP,Enalapril Mal,Enalapril Mal_Tab 10mg               @gn,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABQBQ,Enalapril Mal,Enalapril Mal_Liq Spec 8mg/5ml,Enalapril Maleate,,8 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABRBR,Enalapril Mal,Enalapril Mal_Tab 20mg               @gn,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABSBS,Enalapril Mal,Enalapril Mal_Liq Spec 1.5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABTBT,Enalapril Mal,Enalapril Mal_Liq Spec 1.2mg/5ml,Enalapril Maleate,,2 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABUBU,Enalapril Mal,Enalapril Mal_Liq Spec 1.667mg/5ml,Enalapril Maleate,,667 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABVBV,Enalapril Mal,Enalapril Mal_Liq Spec 40mg/5ml,Enalapril Maleate,,40 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABWBW,Enalapril Mal,Enalapril Mal_Liq Spec 7.5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABXBX,Enalapril Mal,Enalapril Mal_Cap 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABYBY,Enalapril Mal,Enalapril Mal_Oral Soln 5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AABZBZ,Enalapril Mal,Enalapril Mal_Oral Susp 5mg/5ml,Enalapril Maleate,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AACACA,Enalapril Mal,Enalapril Mal_Oral Susp 10mg/5ml,Enalapril Maleate,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0AACBCB,Enalapril Mal,Enalapril Mal_Oral Susp 1.25mg/5ml,Enalapril Maleate,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAAAA,Innovace,Innovace_Tab 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBABAB,Innovace,Innovace_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBACAC,Innovace,Innovace_Tab 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBADAD,Innovace,Innovace_Tab 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAEAF,Innovace,Innovace_Titration Pack (Tab 2.5mg/5mg),Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAFBH,Innovace,Innovace_Melt Wafer 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAGBI,Innovace,Innovace_Melt Wafer 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAHBJ,Innovace,Innovace_Melt Wafer 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BBAIBK,Innovace,Innovace_Melt Wafer 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BCAAAB,Renitec,Renitec_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BCABAD,Renitec,Renitec_Tab 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BDAAAB,Enapren,Enapren_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BEAAAA,Pralenal,Pralenal 2.5_Tab 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BEABAB,Pralenal,Pralenal 5_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BEACAC,Pralenal,Pralenal 10_Tab 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BEADAD,Pralenal,Pralenal 20_Tab 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BFAAAA,Ednyt,Ednyt_Tab 2.5mg,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BFABAB,Ednyt,Ednyt_Tab 5mg,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BFACAC,Ednyt,Ednyt_Tab 10mg,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051I0BFADAD,Ednyt,Ednyt_Tab 20mg,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0AAAAAA,Fosinopril Sod,Fosinopril Sod_Tab 10mg,Fosinopril Sodium,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0AAABAB,Fosinopril Sod,Fosinopril Sod_Tab 20mg,Fosinopril Sodium,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0AAACAC,Fosinopril Sod,Fosinopril Sod_Liq Spec 20mg/5ml,Fosinopril Sodium,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0BBAAAA,Staril,Staril_Tab 10mg,Fosinopril Sodium,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0BBABAB,Staril,Staril_Tab 20mg,Fosinopril Sodium,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0BCAAAB,Fositens,Fositens_Tab 20mg,Fosinopril Sodium,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051J0BDAAAA,Fozitec,Fozitec_Tab 10mg,Fosinopril Sodium,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051K0AAAAAA,Lisinopril/Hydchloroth,Lisinopril/Hydchloroth_Tab 20mg/12.5mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0AAABAB,Lisinopril/Hydchloroth,Lisinopril/Hydchloroth_Tab 10mg/12.5mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BBAAAA,Zestoretic,Zestoretic 20_Tab,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BBABAB,Zestoretic,Zestoretic 10_Tab,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BCAAAA,Carace Plus,Carace 20 Plus_Tab,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BCABAB,Carace Plus,Carace 10 Plus_Tab,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BDAAAB,Caralpha,Caralpha_Tab 10mg/12.5mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BDABAA,Caralpha,Caralpha_Tab 20mg/12.5mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BEAAAB,Lisicostad,Lisicostad_Tab 10mg/12.5mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051K0BEABAA,Lisicostad,Lisicostad_Tab 20mg/12.5mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051L0AAAAAA,Lisinopril,Lisinopril_Tab 2.5mg,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAABAB,Lisinopril,Lisinopril_Tab 5mg,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAACAC,Lisinopril,Lisinopril_Tab 10mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAADAD,Lisinopril,Lisinopril_Tab 20mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAEAE,Lisinopril,Lisinopril_Oral Liq @spec,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAFAF,Lisinopril,Lisinopril_Liq Spec 20mg/5ml,Lisinopril,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAGAG,Lisinopril,Lisinopril_Liq Spec 5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAHAH,Lisinopril,Lisinopril_Liq Spec 10mg/5ml,Lisinopril,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAIAI,Lisinopril,Lisinopril_Liq Spec 2.5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAJAJ,Lisinopril,Lisinopril_Liq Spec 30mg/5ml,Lisinopril,,30 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAKAK,Lisinopril,Lisinopril_Liq Spec 15mg/5ml,Lisinopril,,15 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAALAL,Lisinopril,Lisinopril_Tab 5mg                   @gn,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAMAM,Lisinopril,Lisinopril_Liq Spec 500mcg/5ml,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAANAN,Lisinopril,Lisinopril_Liq Spec 7.5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAPAP,Lisinopril,Lisinopril_Tab 10mg                  @gn,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAQAQ,Lisinopril,Lisinopril_Oral Soln 5mg/5ml S/F,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAARAR,Lisinopril,Lisinopril_Liq Spec 40mg/5ml,Lisinopril,,40 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAASAS,Lisinopril,Lisinopril_Liq Spec 37.5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAATAT,Lisinopril,Lisinopril_Liq Spec 14mg/5ml,Lisinopril,,14 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAUAU,Lisinopril,Lisinopril_Oral Soln 5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAVAV,Lisinopril,Lisinopril_Oral Susp 5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAWAW,Lisinopril,Lisinopril_Oral Soln 2.5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAXAX,Lisinopril,Lisinopril_Oral Susp 2.5mg/5ml,Lisinopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAYAY,Lisinopril,Lisinopril_Oral Soln 20mg/5ml,Lisinopril,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0AAAZAZ,Lisinopril,Lisinopril_Oral Susp 20mg/5ml,Lisinopril,,20 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BBAAAA,Zestril,Zestril_Tab 2.5mg,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BBABAB,Zestril,Zestril_Tab 5mg,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BBACAC,Zestril,Zestril_Tab 10mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BBADAD,Zestril,Zestril_Tab 20mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BCAAAA,Carace,Carace_Tab 2.5mg,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BCABAB,Carace,Carace_Tab 5mg,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BCACAC,Carace,Carace_Tab 10mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BCADAD,Carace,Carace_Tab 20mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BDAAAA,Acemin,Acemin_Tab 2.5mg,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BEAAAA,Lisopress,Lisopress_Tab 2.5mg,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BEABAB,Lisopress,Lisopress_Tab 5mg,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BEACAC,Lisopress,Lisopress_Tab 10mg,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051L0BEADAD,Lisopress,Lisopress_Tab 20mg,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAAAA,Perindopril Erbumine,Perindopril Erbumine_Tab 2mg,Perindopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAABAB,Perindopril Erbumine,Perindopril Erbumine_Tab 4mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAACAC,Perindopril Erbumine,Perindopril Erbumine_Liq Spec 1mg/5ml,Perindopril,,1 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAADAD,Perindopril Erbumine,Perindopril Erbumine_Liq Spec 2mg/5ml,Perindopril,,2 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAEAE,Perindopril Erbumine,Perindopril Erbumine_Tab 4mg         @gn,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAFAF,Perindopril Erbumine,Perindopril Erbumine_Tab 8mg,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAGAG,Perindopril Erbumine,Perindopril Erbumine_Liq Spec 4mg/5ml,Perindopril,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAHAH,Perindopril Erbumine,Perindopril Erbumine_Liq Spec 8mg/5ml,Perindopril,,8 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAIAI,Perindopril Erbumine,Perindopril Erbumine_Pdr Sach 4mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAJAJ,Perindopril Erbumine,Perindopril Erbumine_Pdr Sach 2mg,Perindopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAKAK,Perindopril Erbumine,Perindopril Erbumine_Oral Soln 4mg/5ml,Perindopril,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAALAL,Perindopril Erbumine,Perindopril Erbumine_Oral Susp 4mg/5ml,Perindopril,,4 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0AAAMAM,Perindopril Erbumine,Perindopril Erbumine_Oral Soln 3mg/5ml,Perindopril,,3 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0BBAAAA,Coversyl,Coversyl_Tab 2mg,Perindopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0BBABAB,Coversyl,Coversyl_Tab 4mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051M0BBACAF,Coversyl,Coversyl_Tab 8mg,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051N0AAAAAA,Perindopril Erbumine/Indapamide,Perindopril Erbum/Indapam_Tab 4mg/1.25mg,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051N0BBAAAA,Coversyl Plus,Coversyl Plus_Tab,Perindopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051P0AAAAAA,Quinapril HCl/Hydchloroth,Quinapril HCl/Hydchloroth_Tab 10/12.5mg,Quinapril Hydrochloride,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051P0BBAAAA,Accuretic,Accuretic_Tab 10mg/12.5mg,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051Q0AAAAAA,Quinapril HCl,Quinapril HCl_Tab 5mg,Quinapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0AAABAB,Quinapril HCl,Quinapril HCl_Tab 10mg,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0AAACAC,Quinapril HCl,Quinapril HCl_Tab 20mg,Quinapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0AAADAD,Quinapril HCl,Quinapril HCl_Tab 40mg,Quinapril Hydrochloride,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BBAAAA,Accupro,Accupro_Tab 5mg,Quinapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BBABAB,Accupro,Accupro_Tab 10mg,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BBACAC,Accupro,Accupro_Tab 20mg,Quinapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BBADAD,Accupro,Accupro_Tab 40mg,Quinapril Hydrochloride,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BCAAAA,Quinil,Quinil_Tab 5mg,Quinapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BCABAB,Quinil,Quinil_Tab 10mg,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BCACAC,Quinil,Quinil_Tab 20mg,Quinapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Q0BCADAD,Quinil,Quinil_Tab 40mg,Quinapril Hydrochloride,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAAAA,Ramipril,Ramipril_Cap 1.25mg,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAABAB,Ramipril,Ramipril_Cap 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAACAC,Ramipril,Ramipril_Cap 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAADAD,Ramipril,Ramipril_Cap 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAEAE,Ramipril,Ramipril_Liq Spec 5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAFAF,Ramipril,Ramipril_Liq Spec 2.5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAGAG,Ramipril,Ramipril_Liq Spec 1.25mg/5ml,Ramipril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAHAH,Ramipril,Ramipril_Liq Spec 10mg/5ml,Ramipril,,10 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAIAI,Ramipril,Ramipril_Titration Pack (Cap 2.5/5/10mg),Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAJAJ,Ramipril,Ramipril_Liq Spec 750mcg/5ml,Ramipril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAKAK,Ramipril,Ramipril_Tab 1.25mg,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAALAL,Ramipril,Ramipril_Tab 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAMAM,Ramipril,Ramipril_Tab 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAANAN,Ramipril,Ramipril_Tab 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAPAP,Ramipril,Ramipril_Tab 1.25mg                  @gn,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAQAQ,Ramipril,Ramipril_Tab 2.5mg                   @gn,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAARAR,Ramipril,Ramipril_Tab 5mg                     @gn,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAASAS,Ramipril,Ramipril_Tab 10mg                    @gn,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAATAT,Ramipril,Ramipril_Oral Soln 2.5mg/5ml S/F,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAUAU,Ramipril,Ramipril_Titration Pack (Tab 2.5/5/10mg),Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAVAV,Ramipril,Ramipril_Oral Soln 2.5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAWAW,Ramipril,Ramipril_Oral Susp 2.5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAXAX,Ramipril,Ramipril_Oral Soln 5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0AAAYAY,Ramipril,Ramipril_Oral Susp 5mg/5ml,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAAAA,Tritace,Tritace_Cap 1.25mg,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBABAB,Tritace,Tritace_Cap 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBACAC,Tritace,Tritace_Cap 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBADAD,Tritace,Tritace_Cap 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAEAI,Tritace,Tritace_Titration Pack (Cap 2.5/5/10mg),Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAFAK,Tritace,Tritace_Tab 1.25mg,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAGAL,Tritace,Tritace_Tab 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAHAM,Tritace,Tritace_Tab 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAIAN,Tritace,Tritace_Tab 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BBAJAU,Tritace,Tritace_Titration Pack (Tab 2.5/5/10mg),Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BCAAAB,Lopace,Lopace_Cap 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BCABAC,Lopace,Lopace_Cap 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BCACAD,Lopace,Lopace_Cap 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BDAAAA,Ranace,Ranace_Cap 1.25mg,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BDABAB,Ranace,Ranace_Cap 2.5mg,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BDACAC,Ranace,Ranace_Cap 5mg,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051R0BDADAD,Ranace,Ranace_Cap 10mg,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051S0AAAAAA,Felodipine/Ramipril,Felodipine/Ramipril_Tab 2.5mg/2.5mg M/R,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051S0AAABAB,Felodipine/Ramipril,Felodipine/Ramipril_Tab 5mg/5mg M/R,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051S0BBAAAA,Triapin,Triapin_Tab 2.5mg/2.5mg M/R,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051S0BBABAB,Triapin,Triapin_Tab 5mg/5mg M/R,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051U0AAAAAA,Trandolapril,Trandolapril_Cap 500mcg,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAABAB,Trandolapril,Trandolapril_Cap 1mg,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAACAC,Trandolapril,Trandolapril_Cap 2mg,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAADAD,Trandolapril,Trandolapril_Cap 500mcg              @gn,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAAEAE,Trandolapril,Trandolapril_Cap 2mg                 @gn,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAAFAF,Trandolapril,Trandolapril_Cap 4mg,Trandolapril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0AAAGAG,Trandolapril,Trandolapril_Liq Spec 2mg/5ml,Trandolapril,,2 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BBAAAA,Gopten,Gopten_Cap 500mcg,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BBABAB,Gopten,Gopten_Cap 1mg,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BBACAC,Gopten,Gopten_Cap 2mg,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BBADAF,Gopten,Gopten_Cap 4mg,Trandolapril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BCAAAA,Odrik,Odrik_Cap 500mcg,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BCABAB,Odrik,Odrik_Cap 1mg,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051U0BCACAC,Odrik,Odrik_Cap 2mg,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051V0AAAAAA,Trandolapril/Verapamil HCl,Gppe Cap_Tarka,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051V0BBAAAA,Tarka,Tarka_Cap,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,True,False
+0205051W0AAAAAA,Imidapril HCl,Imidapril HCl_Tab 10mg,Imidapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051W0AAABAB,Imidapril HCl,Imidapril HCl_Tab 5mg,Imidapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051W0AAACAC,Imidapril HCl,Imidapril HCl_Tab 20mg,Imidapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051W0BBAAAA,Tanatril,Tanatril_Tab 10mg,Imidapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051W0BBABAB,Tanatril,Tanatril_Tab 5mg,Imidapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051W0BBACAC,Tanatril,Tanatril_Tab 20mg,Imidapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051X0AAAAAA,Benazepril HCl,Benazepril HCl_Tab 5mg,Benazepril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051X0BBAAAA,Cibacen,Cibacen_Tab 5mg,Benazepril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0AAAAAA,Perindopril Arginine,Perindopril Arginine_Tab 2.5mg,Perindopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0AAABAB,Perindopril Arginine,Perindopril Arginine_Tab 5mg,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0AAACAC,Perindopril Arginine,Perindopril Arginine_Tab 10mg,Perindopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0BBAAAA,Coversyl Arginine,Coversyl Arginine_Tab 2.5mg,Perindopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0BBABAB,Coversyl Arginine,Coversyl Arginine_Tab 5mg,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Y0BBACAC,Coversyl Arginine,Coversyl Arginine_Tab 10mg,Perindopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+0205051Z0AAAAAA,Perindopril Arginine/Indapamide,Perindopril Argin/Indapam_Tab 5mg/1.25mg,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205051Z0BBAAAA,Coversyl Arginine Plus,Coversyl Arginine Plus_Tab,Perindopril,,,Angiotensin-Converting Enzyme Inhibitors,False,True
+0205052A0AAAAAA,Irbesartan/Hydchloroth,Irbesartan/Hydchloroth_Tab 150mg/12.5mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052A0AAABAB,Irbesartan/Hydchloroth,Irbesartan/Hydchloroth_Tab 300mg/12.5mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052A0AAACAC,Irbesartan/Hydchloroth,Irbesartan/Hydchloroth_Tab 300mg/25mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052A0BBAAAA,CoAprovel,CoAprovel_Tab 150mg/12.5mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052A0BBABAB,CoAprovel,CoAprovel_Tab 300mg/12.5mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052A0BBACAC,CoAprovel,CoAprovel_Tab 300mg/25mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052ABAAAAAA,Olmesartan Medoxomil/Amlodipine,Olmesartan Medox/Amlodipine_Tab 20mg/5mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ABAAABAB,Olmesartan Medoxomil/Amlodipine,Olmesartan Medox/Amlodipine_Tab 40mg/5mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ABAAACAC,Olmesartan Medoxomil/Amlodipine,Olmesartan Medox/Amlodipine_Tab40mg/10mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ABBBAAAA,Sevikar,Sevikar_Tab 20mg/5mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ABBBABAB,Sevikar,Sevikar_Tab 40mg/5mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ABBBACAC,Sevikar,Sevikar_Tab 40mg/10mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+0205052ACAAAAAA,Olmesartan Medox/Amlodipine/Hydchloroth,Olmesartan/Amlodipine/Hydchloroth_Tab,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+0205052ACAAABAB,Olmesartan Medox/Amlodipine/Hydchloroth,Olmesartan/Amlodipine/Hydchloroth_Tab,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+0205052ACAAACAC,Olmesartan Medox/Amlodipine/Hydchloroth,Olmesartan/Amlodipine/Hydchloroth_Tab,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+0205052ACAAADAD,Olmesartan Medox/Amlodipine/Hydchloroth,Olmesartan/Amlodipine/Hydchloroth_Tab,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+0205052ACAAAEAE,Olmesartan Medox/Amlodipine/Hydchloroth,Olmesartan/Amlodipine/Hydchloroth_Tab,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+0205052ACBBAAAA,Sevikar HCT,Sevikar HCT_Tab 20mg/5mg/12.5mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,True,True
+0205052ACBBABAB,Sevikar HCT,Sevikar HCT_Tab 40mg/5mg/12.5mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,True
+0205052ACBBACAC,Sevikar HCT,Sevikar HCT_Tab 40mg/10mg/12.5mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,True
+0205052ACBBADAD,Sevikar HCT,Sevikar HCT_Tab 40mg/5mg/25mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,True
+0205052ACBBAEAE,Sevikar HCT,Sevikar HCT_Tab 40mg/10mg/25mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,True
+0205052ADAAAAAA,Azilsartan Medoxomil,Azilsartan Medoxomil_Tab 20mg,Azilsartan Medoxomil,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052ADAAABAB,Azilsartan Medoxomil,Azilsartan Medoxomil_Tab 40mg,Azilsartan Medoxomil,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052ADAAACAC,Azilsartan Medoxomil,Azilsartan Medoxomil_Tab 80mg,Azilsartan Medoxomil,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052ADBBAAAA,Edarbi,Edarbi_Tab 20mg,Azilsartan Medoxomil,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052ADBBABAB,Edarbi,Edarbi_Tab 40mg,Azilsartan Medoxomil,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052ADBBACAC,Edarbi,Edarbi_Tab 80mg,Azilsartan Medoxomil,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEAAAAAA,Sacubitril/Valsartan,Sacubitril/Valsartan_Tab 49mg/51mg,Sacubitril/Valsartan,,49 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEAAABAB,Sacubitril/Valsartan,Sacubitril/Valsartan_Tab 97mg/103mg,Sacubitril/Valsartan,,97 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEAAACAC,Sacubitril/Valsartan,Sacubitril/Valsartan_Tab 24mg/26mg,Sacubitril/Valsartan,,24 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEBBAAAA,Entresto,Entresto_Tab 49mg/51mg,Sacubitril/Valsartan,,49 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEBBABAB,Entresto,Entresto_Tab 97mg/103mg,Sacubitril/Valsartan,,97 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052AEBBACAC,Entresto,Entresto_Tab 24mg/26mg,Sacubitril/Valsartan,,24 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0AAAAAA,Olmesartan Medoxomil,Olmesartan Medoxomil_Tab 10mg,Olmesartan,,10 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0AAABAB,Olmesartan Medoxomil,Olmesartan Medoxomil_Tab 20mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0AAACAC,Olmesartan Medoxomil,Olmesartan Medoxomil_Tab 40mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0AAADAD,Olmesartan Medoxomil,Olmesartan Medoxomil_Liq Spec 10mg/5ml,Olmesartan,,10 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052B0BBAAAA,Olmetec,Olmetec_Tab 10mg,Olmesartan,,10 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0BBABAB,Olmetec,Olmetec_Tab 20mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052B0BBACAC,Olmetec,Olmetec_Tab 40mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAAAA,Candesartan Cilexetil,Candesartan Cilexetil_Tab 2mg,Candesartan Cilexetil,,2 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAABAB,Candesartan Cilexetil,Candesartan Cilexetil_Tab 4mg,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAACAC,Candesartan Cilexetil,Candesartan Cilexetil_Tab 8mg,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAADAD,Candesartan Cilexetil,Candesartan Cilexetil_Tab 16mg,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAEAE,Candesartan Cilexetil,Candesartan Cilexetil_Tab 16mg       @gn,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAFAF,Candesartan Cilexetil,Candesartan Cilexetil_Tab 4mg        @gn,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAGAG,Candesartan Cilexetil,Candesartan Cilexetil_Tab 8mg        @gn,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAHAH,Candesartan Cilexetil,Candesartan Cilexetil_Tab 32mg,Candesartan Cilexetil,,32 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAIAI,Candesartan Cilexetil,Candesartan Cilexetil_Liq Spec 4mg/5ml,Candesartan Cilexetil,,4 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052C0AAAJAJ,Candesartan Cilexetil,Candesartan Cilexetil_Liq Spec 8mg/5ml,Candesartan Cilexetil,,8 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BBAAAA,Amias,Amias_Tab 2mg,Candesartan Cilexetil,,2 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BBABAB,Amias,Amias_Tab 4mg,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BBACAC,Amias,Amias_Tab 8mg,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BBADAD,Amias,Amias_Tab 16mg,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BBAEAH,Amias,Amias_Tab 32mg,Candesartan Cilexetil,,32 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BCAAAB,Atacand,Atacand_Tab 4mg,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BCABAC,Atacand,Atacand_Tab 8mg,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BCACAD,Atacand,Atacand_Tab 16mg,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BDAAAD,Ratacand,Ratacand_Tab 16mg,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BDABAC,Ratacand,Ratacand_Tab 8mg,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052C0BDACAB,Ratacand,Ratacand_Tab 4mg,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAAAA,Irbesartan,Irbesartan_Tab 75mg,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAABAB,Irbesartan,Irbesartan_Tab 150mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAACAC,Irbesartan,Irbesartan_Tab 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAADAD,Irbesartan,Irbesartan_Tab 150mg                 @gn,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAEAE,Irbesartan,Irbesartan_Tab 300mg                 @gn,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAFAF,Irbesartan,Irbesartan_Liq Spec 150mg/5ml,Irbesartan,,150 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAGAG,Irbesartan,Irbesartan_Liq Spec 300mg/5ml,Irbesartan,,300 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAHAH,Irbesartan,Irbesartan_Liq Spec 75mg/5ml,Irbesartan,,75 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAIAI,Irbesartan,Irbesartan_Pdr Sach 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAJAJ,Irbesartan,Irbesartan_Oral Pdr Sach 20mg,Irbesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAAKAK,Irbesartan,Irbesartan_Oral Pdr Sach 30mg,Irbesartan,,30 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0AAALAL,Irbesartan,Irbesartan_Oral Pdr Sach 37.5mg,Irbesartan,,37.5 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BBAAAA,Aprovel,Aprovel_Tab 75mg,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BBABAB,Aprovel,Aprovel_Tab 150mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BBACAC,Aprovel,Aprovel_Tab 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BCAAAA,Karvea,Karvea_Tab 75mg,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BCABAB,Karvea,Karvea_Tab 150mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BCACAC,Karvea,Karvea_Tab 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BDAAAA,Sabervel,Sabervel_Tab 75mg,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BDABAB,Sabervel,Sabervel_Tab 150mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BDACAC,Sabervel,Sabervel_Tab 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BEAAAA,Ifirmasta,Ifirmasta_Tab 75mg,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BEABAB,Ifirmasta,Ifirmasta_Tab 150mg,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052I0BEACAC,Ifirmasta,Ifirmasta_Tab 300mg,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAAAA,Losartan Pot,Losartan Pot_Tab 25mg,Losartan Potassium,,25 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAABAB,Losartan Pot,Losartan Pot_Tab 50mg,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAACAC,Losartan Pot,Losartan Pot_Tab 50mg                @gn,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAADAD,Losartan Pot,Losartan Pot_Tab 100mg,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAEAE,Losartan Pot,Losartan Pot_Oral Soln 50mg/5ml,Losartan Potassium,,50 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAFAF,Losartan Pot,Losartan Pot_Liq Spec 100mg/5ml,Losartan Potassium,,100 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAGAG,Losartan Pot,Losartan Pot_Liq Spec 25mg/5ml,Losartan Potassium,,25 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAHAH,Losartan Pot,Losartan Pot_Tab 12.5mg,Losartan Potassium,,12.5 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAIAI,Losartan Pot,Losartan Pot_Oral Susp 12.5mg/5ml S/F,Losartan Potassium,,5 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAJAJ,Losartan Pot,Losartan Pot_Oral Susp 50mg/5ml,Losartan Potassium,,50 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0AAAKAK,Losartan Pot,Losartan Pot_Oral Susp 20mg/5ml,Losartan Potassium,,20 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BBAAAA,Cozaar,Cozaar_Tab 25mg,Losartan Potassium,,25 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BBABAB,Cozaar,Cozaar_Tab 50mg,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BBACAD,Cozaar,Cozaar_Tab 100mg,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BBADAH,Cozaar,Cozaar_Tab 12.5mg,Losartan Potassium,,12.5 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BBAEAI,Cozaar,Cozaar_Oral Susp 2.5mg/ml,Losartan Potassium,,5 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+0205052N0BCAAAB,Losaprex,Losaprex_Tab 50mg,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052P0AAAAAA,Losartan Pot/Hydchloroth,Losartan Pot/Hydchloroth_Tab 50mg/12.5mg,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0AAABAB,Losartan Pot/Hydchloroth,Losartan Pot/Hydchloroth_Tab 100mg/25mg,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0AAACAC,Losartan Pot/Hydchloroth,Losartan Pot/Hydchloroth_Tab 100/12.5mg,Losartan Potassium,,12.5 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0BBAAAA,Cozaar-Comp,Cozaar-Comp_Tab 50mg/12.5mg,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0BBABAB,Cozaar-Comp,Cozaar-Comp_Tab 100mg/25mg,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0BBACAC,Cozaar-Comp,Cozaar-Comp_Tab 100mg/12.5mg,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052P0BCAAAA,Hyzaar,Hyzaar_Tab,Losartan Potassium,,,Angiotensin-II Receptor Antagonists,False,True
+0205052Q0AAAAAA,Telmisartan,Telmisartan_Tab 40mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0AAABAB,Telmisartan,Telmisartan_Tab 80mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0AAACAC,Telmisartan,Telmisartan_Tab 20mg,Telmisartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0AAADAD,Telmisartan,Telmisartan_Oral Susp 40mg/5ml,Telmisartan,,40 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BBAAAA,Micardis,Micardis_Tab 40mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BBABAB,Micardis,Micardis_Tab 80mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BBACAC,Micardis,Micardis_Tab 20mg,Telmisartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BCAAAA,Tolura,Tolura_Tab 40mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BCABAB,Tolura,Tolura_Tab 80mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052Q0BCACAC,Tolura,Tolura_Tab 20mg,Telmisartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052R0AAAAAA,Telmisartan/Hydchloroth,Telmisartan/Hydchloroth_Tab 40mg/12.5mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0AAABAB,Telmisartan/Hydchloroth,Telmisartan/Hydchloroth_Tab 80mg/12.5mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0AAACAC,Telmisartan/Hydchloroth,Telmisartan/Hydchloroth_Tab 80mg/25mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BBAAAA,MicardisPlus,MicardisPlus_Tab 40mg/12.5mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BBABAB,MicardisPlus,MicardisPlus_Tab 80mg/12.5mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BBACAC,MicardisPlus,MicardisPlus_Tab 80mg/25mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BCAAAA,Actelsar,Actelsar HCT_Tab 40mg/12.5mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BCABAB,Actelsar,Actelsar HCT_Tab 80mg/12.5mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BCACAC,Actelsar,Actelsar HCT_Tab 80mg/25mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BDAAAA,Tolucombi,Tolucombi_Tab 40mg/12.5mg,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BDABAB,Tolucombi,Tolucombi_Tab 80mg/12.5mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052R0BDACAC,Tolucombi,Tolucombi_Tab 80mg/25mg,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052V0AAAAAA,Valsartan,Valsartan_Cap 40mg,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAABAB,Valsartan,Valsartan_Cap 80mg,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAACAC,Valsartan,Valsartan_Cap 160mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAADAD,Valsartan,Valsartan_Tab 40mg,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAEAE,Valsartan,Valsartan_Liq Spec 40mg/5ml,Valsartan,,40 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAFAF,Valsartan,Valsartan_Tab 320mg,Valsartan,,320 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAGAG,Valsartan,Valsartan_Liq Spec 160mg/5ml,Valsartan,,160 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAHAH,Valsartan,Valsartan_Tab 160mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAIAI,Valsartan,Valsartan_Tab 80mg,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0AAAJAJ,Valsartan,Valsartan_Oral Soln 3mg/ml,Valsartan,,3 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBAAAA,Diovan,Diovan_Cap 40mg,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBABAB,Diovan,Diovan_Cap 80mg,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBACAC,Diovan,Diovan_Cap 160mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBADAD,Diovan,Diovan_Tab 40mg,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBAEAF,Diovan,Diovan_Tab 320mg,Valsartan,,320 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052V0BBAFAJ,Diovan,Diovan_Oral Soln 3mg/1ml,Valsartan,,3 mg/1 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052W0AAAAAA,Eprosartan,Eprosartan_Tab 300mg,Eprosartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052W0AAABAB,Eprosartan,Eprosartan_Tab 400mg,Eprosartan,,400 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052W0AAACAC,Eprosartan,Eprosartan_Tab 600mg,Eprosartan,,600 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052W0AAADAD,Eprosartan,Eprosartan_Liq Spec 300mg/5ml,Eprosartan,,300 mg/5 ml,Angiotensin-II Receptor Antagonists,False,False
+0205052W0BBAAAA,Teveten,Teveten_Tab 300mg,Eprosartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052W0BBABAB,Teveten,Teveten_Tab 400mg,Eprosartan,,400 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052W0BBACAC,Teveten,Teveten_Tab 600mg,Eprosartan,,600 mg,Angiotensin-II Receptor Antagonists,False,False
+0205052X0AAAAAA,Valsartan/Hydchloroth,Valsartan/Hydchloroth_Tab 160mg/12.5mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052X0AAABAB,Valsartan/Hydchloroth,Valsartan/Hydchloroth_Tab 160mg/25mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052X0AAACAC,Valsartan/Hydchloroth,Valsartan/Hydchloroth_Tab 80mg/12.5mg,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052X0BBAAAA,Co-Diovan,Co-Diovan_Tab 160mg/12.5mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052X0BBABAB,Co-Diovan,Co-Diovan_Tab 160mg/25mg,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052X0BBACAC,Co-Diovan,Co-Diovan_Tab 80mg/12.5mg,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0AAAAAA,Olmesartan Medoxomil/Hydchloroth,Olmesartan Medox/Hydchloroth_Tab 20/12.5,Olmesartan,,,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0AAABAB,Olmesartan Medoxomil/Hydchloroth,Olmesartan Medox/Hydchloroth_Tab 20/25mg,Olmesartan,,25 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0AAACAC,Olmesartan Medoxomil/Hydchloroth,Olmesartan Medox/Hydchloroth_Tab 40/12.5,Olmesartan,,,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0BBAAAA,Olmetec Plus,Olmetec Plus_Tab 20mg/12.5mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0BBABAB,Olmetec Plus,Olmetec Plus_Tab 20mg/25mg,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,True
+0205052Y0BBACAC,Olmetec Plus,Olmetec Plus_Tab 40mg/12.5mg,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+0205053A0AAAAAA,Aliskiren,Aliskiren_Tab 150mg,Aliskiren,,150 mg,Renin Inhibitors,False,False
+0205053A0AAABAB,Aliskiren,Aliskiren_Tab 300mg,Aliskiren,,300 mg,Renin Inhibitors,False,False
+0205053A0BBAAAA,Rasilez,Rasilez_Tab 150mg,Aliskiren,,150 mg,Renin Inhibitors,False,False
+0205053A0BBABAB,Rasilez,Rasilez_Tab 300mg,Aliskiren,,300 mg,Renin Inhibitors,False,False
+0205060R0AAAAAA,Trimetaphan Camsyl,Trimetaphan Camsyl_Inj 50mg/ml 5ml Amp,Trimetaphan Camsilate,,50 mg/mL,Ganglion-Blocking Drugs,False,False
+0205060R0BBAAAA,Arfonad,Arfonad_Inj 50mg/ml 5ml Amp,Trimetaphan Camsilate,,50 mg/mL,Ganglion-Blocking Drugs,False,False
+0205080A0AAAAAA,Ketanserin,Ketanserin_Tab 20mg,Ketanserin,,20 mg,Other Adrenergic Neurone Blocking Drugs,False,False
+0205080A0AAABAB,Ketanserin,Ketanserin_Tab 20mg,Ketanserin,,20 mg,Other Adrenergic Neurone Blocking Drugs,False,False
+0205080A0AAACAC,Ketanserin,Ketanserin_Tab 40mg,Ketanserin,,40 mg,Other Adrenergic Neurone Blocking Drugs,False,False
+0205080A0BBAAAB,Sufrexal,Sufrexal_Tab 20mg,Ketanserin,,20 mg,Other Adrenergic Neurone Blocking Drugs,False,False
+0205080A0BBABAC,Sufrexal,Sufrexal_Tab 40mg,Ketanserin,,40 mg,Other Adrenergic Neurone Blocking Drugs,False,False
+0205080A0BCAAAB,Ketensin,Ketensin_Tab 20mg,Ketanserin,,20 mg,Other Adrenergic Neurone Blocking Drugs,False,False

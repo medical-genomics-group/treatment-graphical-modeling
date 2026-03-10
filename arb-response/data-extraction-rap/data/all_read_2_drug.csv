@@ -1,0 +1,1802 @@
+,read_code,brand_name,term_description,term,quantity,dose,group,with_calcium_channel_blocker,with_diuretic
+0,bc7..,Practolol,*PRACTOLOL [ANTIARRHYTHMIC],Practolol,,,beta blockers,False,False
+1,bc71.,Eraldin,*ERALDIN 10mg/5mL injection,Practolol,,10 mg/5 ml,beta blockers,False,False
+2,bc7z.,Practolol,*PRACTOLOL 10mg/5mL injection,Practolol,,10 mg/5 ml,beta blockers,False,False
+3,bd1..,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE,Propranolol Hydrochloride,,,beta blockers,False,False
+4,bd15.,Angilol,*ANGILOL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+5,bd16.,Angilol,*ANGILOL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+6,bd17.,Angilol,*ANGILOL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+7,bd18.,Angilol,*ANGILOL 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+8,bd19.,Apsolol,*APSOLOL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+9,bd1a.,Apsolol,*APSOLOL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+10,bd1A.,Propanix,*PROPANIX 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+11,bd1b.,Apsolol,*APSOLOL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+12,bd1B.,Propanix,*PROPANIX 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+13,bd1c.,Apsolol,*APSOLOL 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+14,bd1C.,Propanix,*PROPANIX 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+15,bd1d.,Bedranol,*BEDRANOL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+16,bd1D.,Propanix,*PROPANIX 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+17,bd1e.,Bedranol,*BEDRANOL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+18,bd1E.,Propanix,PROPANIX SR 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+19,bd1f.,Bedranol,*BEDRANOL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+20,bd1F.,Betadur,*BETADUR CR 160mg m/r tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+21,bd1g.,Bedranol,BEDRANOL SR 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+22,bd1G.,Beta-Prograne,BETA-PROGRANE 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+23,bd1h.,Berkolol,*BERKOLOL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+24,bd1i.,Berkolol,*BERKOLOL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+25,bd1j.,Berkolol,*BERKOLOL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+26,bd1k.,Berkolol,*BERKOLOL 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+27,bd1K.,Betadur,HALF-BETADUR CR 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+28,bd1l.,Inderal,HALF-INDERAL LA 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+29,bd1L.,Beta-Prograne,HALF BETA-PROGRANE 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+30,bd1m.,Inderal,*INDERAL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+31,bd1M.,Sloprolol,*SLOPROLOL 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+32,bd1n.,Inderal,*INDERAL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+33,bd1N.,Probeta,*PROBETA LA 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+34,bd1o.,Inderal,*INDERAL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+35,bd1O.,Lopranol,LOPRANOL LA 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+36,bd1p.,Inderal,*INDERAL 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+37,bd1P.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 10mg/5mL syrup,Propranolol Hydrochloride,,10 mg/5 ml,beta blockers,False,False
+38,bd1q.,Inderal,*INDERAL 1mg/1mL injection,Propranolol Hydrochloride,,1 mg/1 ml,beta blockers,False,False
+39,bd1Q.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 40mg/5mL syrup,Propranolol Hydrochloride,,40 mg/5 ml,beta blockers,False,False
+40,bd1r.,Inderal,*INDERAL-LA 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+41,bd1R.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 80mg/5mL syrup,Propranolol Hydrochloride,,80 mg/5 ml,beta blockers,False,False
+42,bd1s.,Sloprolol,*SLOPROLOL 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+43,bd1S.,Propanix,HALF PROPANIX LA 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+44,bd1t.,Cardinol,*CARDINOL 10mg tablets,Propranolol Hydrochloride,,10 mg,beta blockers,False,False
+45,bd1T.,Propanix,PROPANIX LA 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+46,bd1u.,Cardinol,*CARDINOL 40mg tablets,Propranolol Hydrochloride,,40 mg,beta blockers,False,False
+47,bd1U.,Propatard,HALF PROPATARD LA 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+48,bd1v.,Cardinol,*CARDINOL 80mg tablets,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+49,bd1V.,Propatard,PROPATARD LA 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+50,bd1w.,Cardinol,*CARDINOL 160mg tablets,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+51,bd1W.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 5mg/5mL sugar free oral solution,Propranolol Hydrochloride,,5 mg/5 ml,beta blockers,False,False
+52,bd1X.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 10mg/5mL sugar free oral solution,Propranolol Hydrochloride,,10 mg/5 ml,beta blockers,False,False
+53,bd1Y.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 50mg/5mL sugar free oral solution,Propranolol Hydrochloride,,50 mg/5 ml,beta blockers,False,False
+54,bd1z.,Syprol,SYPROL 10mg/5mL oral solution,Propranolol Hydrochloride,,10 mg/5 ml,beta blockers,False,False
+55,bd1Z.,Syprol,SYPROL 5mg/5mL oral solution,Propranolol Hydrochloride,,5 mg/5 ml,beta blockers,False,False
+56,bd21.,Sectral,SECTRAL 100mg capsules,Acebutolol Hydrochloride,,100 mg,beta blockers,False,False
+57,bd22.,Sectral,SECTRAL 200mg capsules,Acebutolol Hydrochloride,,200 mg,beta blockers,False,False
+58,bd23.,Sectral,SECTRAL 400mg tablets,Acebutolol Hydrochloride,,400 mg,beta blockers,False,False
+59,bd24.,Sectral,*SECTRAL 10mg/2mL injection,Acebutolol Hydrochloride,,10 mg/2 ml,beta blockers,False,False
+60,bd3..,Atenolol,ATENOLOL,Atenolol,,,beta blockers,False,False
+61,bd31.,Tenormin,TENORMIN 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+62,bd32.,Tenormin,TENORMIN 25mg/5mL syrup,Atenolol,,25 mg/5 ml,beta blockers,False,False
+63,bd33.,Tenormin,TENORMIN 5mg/10mL injection,Atenolol,,5 mg/10 ml,beta blockers,False,False
+64,bd34.,Tenormin,TENORMIN LS 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+65,bd35.,Atenolol,ATENOLOL 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+66,bd36.,Atenolol,ATENOLOL 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+67,bd37.,Tenormin,*TENORMIN CCU PACK,Atenolol,,,beta blockers,False,False
+68,bd38.,Beta-Adalat,*BETA-ADALAT 50/20mg capsules,Atenolol With Calcium Channel Blocker,,20 mg,beta blockers,True,False
+69,bd39.,Tenif,*TENIF 50/20mg capsules,Atenolol With Calcium Channel Blocker,,20 mg,beta blockers,False,False
+70,bd3a.,Antipressan,*ANTIPRESSAN 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+71,bd3b.,Antipressan,*ANTIPRESSAN 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+72,bd3c.,Tenormin,*TENORMIN 25 tablets,Atenolol,25.0,,beta blockers,False,False
+73,bd3d.,Vasaten,*VASATEN 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+74,bd3e.,Vasaten,*VASATEN 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+75,bd3f.,Atenix,ATENIX 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+76,bd3g.,Atenix,ATENIX 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+77,bd3h.,Totamol,*TOTAMOL 50mg tablets,Atenolol,,50 mg,beta blockers,False,False
+78,bd3i.,Totamol,*TOTAMOL 100mg tablets,Atenolol,,100 mg,beta blockers,False,False
+79,bd3j.,Atenolol,ATENOLOL 25mg tablets,Atenolol,,25 mg,beta blockers,False,False
+80,bd3k.,Totamol,*TOTAMOL 25mg tablets,Atenolol,,25 mg,beta blockers,False,False
+81,bd3l.,Antipressan,*ANTIPRESSAN 25mg tablets,Atenolol,,25 mg,beta blockers,False,False
+82,bd3x.,Atenolol,ATENOLOL 25mg/5mL syrup,Atenolol,,25 mg/5 ml,beta blockers,False,False
+83,bd3y.,Atenolol,ATENOLOL 5mg/10mL injection,Atenolol,,5 mg/10 ml,beta blockers,False,False
+84,bd3z.,Atenix,ATENIX 25mg tablets,Atenolol,,25 mg,beta blockers,False,False
+85,bd4..,Betaxolol HCl,BETAXOLOL HCL [B-BLOCKER],Betaxolol Hydrochloride,,,beta blockers,False,False
+86,bd41.,Kerlone,*KERLONE 20mg tablets,Betaxolol Hydrochloride,,20 mg,beta blockers,False,False
+87,bd4z.,Betaxolol Hydrochloride,BETAXOLOL HYDROCHLORIDE 20mg tablets,Betaxolol Hydrochloride,,20 mg,beta blockers,False,False
+88,bd5..,Labetalol Hydrochloride,LABETALOL HYDROCHLORIDE,Labetalol Hydrochloride,,,beta blockers,False,False
+89,bd54.,Labrocol,*LABROCOL 100mg tablets,Labetalol Hydrochloride,,100 mg,beta blockers,False,False
+90,bd55.,Labrocol,*LABROCOL 200mg tablets,Labetalol Hydrochloride,,200 mg,beta blockers,False,False
+91,bd56.,Labrocol,*LABROCOL 400mg tablets,Labetalol Hydrochloride,,400 mg,beta blockers,False,False
+92,bd57.,Trandate,TRANDATE 50mg tablets,Labetalol Hydrochloride,,50 mg,beta blockers,False,False
+93,bd58.,Trandate,TRANDATE 100mg tablets,Labetalol Hydrochloride,,100 mg,beta blockers,False,False
+94,bd59.,Trandate,TRANDATE 200mg tablets,Labetalol Hydrochloride,,200 mg,beta blockers,False,False
+95,bd5a.,Trandate,TRANDATE 400mg tablets,Labetalol Hydrochloride,,400 mg,beta blockers,False,False
+96,bd5b.,Trandate,*TRANDATE 100mg/20mL injection,Labetalol Hydrochloride,,100 mg/20 ml,beta blockers,False,False
+97,bd5c.,Labetalol Hydrochloride,LABETALOL HYDROCHLORIDE 50mg/10mL prefilled syringe,Labetalol Hydrochloride,,50 mg/10 ml,beta blockers,False,False
+98,bd6..,Metoprolol Tart,METOPROLOL TARTRATE,Metoprolol Tartrate,,,beta blockers,False,False
+99,bd61.,Betaloc,*BETALOC 50mg tablets,Metoprolol Tartrate,,50 mg,beta blockers,False,False
+100,bd62.,Betaloc,*BETALOC 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+101,bd63.,Betaloc,BETALOC 5mg/5mL injection,Metoprolol Tartrate,,5 mg/5 ml,beta blockers,False,False
+102,bd64.,Betaloc,BETALOC-SA DURULES 200mg m/r tablets,Metoprolol Tartrate,,200 mg,beta blockers,False,False
+103,bd65.,Lopresor,LOPRESOR 50mg tablets,Metoprolol Tartrate,,50 mg,beta blockers,False,False
+104,bd66.,Lopresor,LOPRESOR 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+105,bd67.,Mepranix,*MEPRANIX 50mg tablets,Metoprolol Tartrate,,50 mg,beta blockers,False,False
+106,bd68.,Mepranix,*MEPRANIX 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+107,bd6a.,Lopresor,*LOPRESOR 5mg/5mL injection,Metoprolol Tartrate,,5 mg/5 ml,beta blockers,False,False
+108,bd6b.,Lopresor,LOPRESOR SR 200mg m/r tablets,Metoprolol Tartrate,,200 mg,beta blockers,False,False
+109,bd6c.,Arbralene,*ARBRALENE 50mg tablets,Metoprolol Tartrate,,50 mg,beta blockers,False,False
+110,bd6d.,Arbralene,*ARBRALENE 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+111,bd6e.,Tensomex,*TENSOMEX 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+112,bd6w.,Toprol,METOPROLOL 100mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+113,bd6x.,Toprol,METOPROLOL 50mg tablets,Metoprolol Tartrate,,50 mg,beta blockers,False,False
+114,bd6y.,Toprol,METOPROLOL 5mg/5mL injection,Metoprolol Tartrate,,5 mg/5 ml,beta blockers,False,False
+115,bd6z.,Toprol,METOPROLOL 200mg m/r tablets,Metoprolol Tartrate,,200 mg,beta blockers,False,False
+116,bd7..,Nadolol,NADOLOL,Nadolol,,,beta blockers,False,False
+117,bd71.,Corgard,*CORGARD 40mg tablets,Nadolol,,40 mg,beta blockers,False,False
+118,bd72.,Corgard,CORGARD 80mg tablets,Nadolol,,80 mg,beta blockers,False,False
+119,bd7y.,Nadolol,*NADOLOL 40mg tablets,Nadolol,,40 mg,beta blockers,False,False
+120,bd7z.,Nadolol,NADOLOL 80mg tablets,Nadolol,,80 mg,beta blockers,False,False
+121,bd8..,Oxprenolol Hydrochloride,OXPRENOLOL HYDROCHLORIDE,Oxprenolol Hydrochloride,,,beta blockers,False,False
+122,bd85.,Apsolox,*APSOLOX 20mg tablets,Oxprenolol Hydrochloride,,20 mg,beta blockers,False,False
+123,bd86.,Apsolox,*APSOLOX 40mg tablets,Oxprenolol Hydrochloride,,40 mg,beta blockers,False,False
+124,bd87.,Apsolox,*APSOLOX 80mg tablets,Oxprenolol Hydrochloride,,80 mg,beta blockers,False,False
+125,bd88.,Apsolox,*APSOLOX 160mg tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+126,bd89.,Laracor,*LARACOR 20mg tablets,Oxprenolol Hydrochloride,,20 mg,beta blockers,False,False
+127,bd8a.,Laracor,*LARACOR 40mg tablets,Oxprenolol Hydrochloride,,40 mg,beta blockers,False,False
+128,bd8b.,Laracor,*LARACOR 80mg tablets,Oxprenolol Hydrochloride,,80 mg,beta blockers,False,False
+129,bd8c.,Laracor,*LARACOR 160mg tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+130,bd8d.,Slow-Pren,*SLOW-PREN 160mg m/r tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+131,bd8e.,Slow-Trasicor,SLOW-TRASICOR 160mg m/r tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+132,bd8f.,Trasicor,*TRASICOR 20mg tablets,Oxprenolol Hydrochloride,,20 mg,beta blockers,False,False
+133,bd8g.,Trasicor,*TRASICOR 40mg tablets,Oxprenolol Hydrochloride,,40 mg,beta blockers,False,False
+134,bd8h.,Trasicor,*TRASICOR 80mg tablets,Oxprenolol Hydrochloride,,80 mg,beta blockers,False,False
+135,bd8i.,Trasicor,*TRASICOR 160mg tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+136,bd8j.,Trasicor,*TRASICOR 2mg injection,Oxprenolol Hydrochloride,,2 mg,beta blockers,False,False
+137,bd8k.,Paritane,*PARITANE 20mg tablets,Oxprenolol Hydrochloride,,20 mg,beta blockers,False,False
+138,bd8l.,Paritane,*PARITANE 40mg tablets,Oxprenolol Hydrochloride,,40 mg,beta blockers,False,False
+139,bd8m.,Paritane,*PARITANE 80mg tablets,Oxprenolol Hydrochloride,,80 mg,beta blockers,False,False
+140,bd8n.,Paritane,*PARITANE 160mg tablets,Oxprenolol Hydrochloride,,160 mg,beta blockers,False,False
+141,bda..,Pindolol,PINDOLOL,Pindolol,,,beta blockers,False,False
+142,bda1.,Visken,VISKEN 5mg tablets,Pindolol,,5 mg,beta blockers,False,False
+143,bda2.,Visken,VISKEN 15mg tablets,Pindolol,,15 mg,beta blockers,False,False
+144,bda3.,Betadren,*BETADREN 5mg tablets,Pindolol,,5 mg,beta blockers,False,False
+145,bda4.,Betadren,*BETADREN 15mg tablets,Pindolol,,15 mg,beta blockers,False,False
+146,bday.,Pindolol,PINDOLOL 5mg tablets,Pindolol,,5 mg,beta blockers,False,False
+147,bdaz.,Pindolol,PINDOLOL 15mg tablets,Pindolol,,15 mg,beta blockers,False,False
+148,bdb..,Practolol,*PRACTOLOL [B-BLOCKER],Practolol,,,beta blockers,False,False
+149,bdc..,Sotalol Hydrochloride,SOTALOL HYDROCHLORIDE,Sotalol Hydrochloride,,,beta blockers,False,False
+150,bdc1.,Beta-Cardone,*BETA-CARDONE 40mg tablets,Sotalol Hydrochloride,,40 mg,beta blockers,False,False
+151,bdc2.,Beta-Cardone,BETA-CARDONE 80mg tablets,Sotalol Hydrochloride,,80 mg,beta blockers,False,False
+152,bdc3.,Beta-Cardone,BETA-CARDONE 200mg tablets,Sotalol Hydrochloride,,200 mg,beta blockers,False,False
+153,bdc4.,Sotacor,SOTACOR 80mg tablets,Sotalol Hydrochloride,,80 mg,beta blockers,False,False
+154,bdc5.,Sotacor,*SOTACOR 160mg tablets,Sotalol Hydrochloride,,160 mg,beta blockers,False,False
+155,bdc6.,Sotacor,*SOTACOR 10mg/5mL injection,Sotalol Hydrochloride,,10 mg/5 ml,beta blockers,False,False
+156,bdc7.,Sotacor,*SOTACOR 100mg/10mL injection,Sotalol Hydrochloride,,100 mg/10 ml,beta blockers,False,False
+157,bdc8.,Sotacor,*SOTACOR 40mg/4mL injection,Sotalol Hydrochloride,,40 mg/4 ml,beta blockers,False,False
+158,bdd..,Timolol,TIMOLOL MALEATE [B-BLOCKER],Timolol,,,beta blockers,False,False
+159,bdd1.,Betim,*BETIM 10mg tablets,Timolol,,10 mg,beta blockers,False,False
+160,bdd2.,Blocadren,*BLOCADREN 10mg tablets,Timolol,,10 mg,beta blockers,False,False
+161,bddz.,Timolol,TIMOLOL 10mg tablets,Timolol,,10 mg,beta blockers,False,False
+162,bde1.,Betaloc,*CO-BETALOC tablets,Metoprolol Tartrate,,,beta blockers,False,False
+163,bde2.,Betaloc,*CO-BETALOC SA m/r tablets,Metoprolol Tartrate,,,beta blockers,False,False
+164,bde3.,Corgaretic,*CORGARETIC-40 tablets,Nadolol With Diuretic,40.0,,beta blockers,False,False
+165,bde4.,Corgaretic,*CORGARETIC-80 tablets,Nadolol With Diuretic,80.0,,beta blockers,False,False
+166,bde5.,Inderetic,*INDERETIC capsules,Propranolol Hydrochloride With Diuretic,,,beta blockers,False,False
+167,bde6.,Inderex,*INDEREX m/r capsules,Propranolol Hydrochloride With Diuretic,,,beta blockers,False,False
+168,bde7.,Kalten,KALTEN capsules,Atenolol With Diuretic,,,beta blockers,False,False
+169,bde8.,Lasipressin,*LASIPRESSIN tablets,Penbutolol Sulphate With Diuretic,,,beta blockers,False,False
+170,bde9.,Lopresor,*LOPRESORETIC tablets,Metoprolol Tartrate,,,beta blockers,False,False
+171,bdea.,Moducren,*MODUCREN tablets,Timolol With Diuretic,,,beta blockers,False,False
+172,bdeA.,Metoprolol Tart,METOPROLOL TART+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,True
+173,bdeb.,Prestim,PRESTIM tablets,Timolol With Diuretic,,,beta blockers,False,False
+174,bdeB.,Metoprolol Tart,METOPROLOL TART+HYDROCHLOROTHIAZIDE 200mg/25mg m/r tablets,Metoprolol Tartrate,,200 mg,beta blockers,False,True
+175,bdec.,Prestim,*PRESTIM FORTE tablets,Timolol With Diuretic,,,beta blockers,False,False
+176,bdeC.,Metoprolol Tart,METOPROLOL TART+CHLORTHALIDONE 100mg/12.5mg tablets,Metoprolol Tartrate,,100 mg,beta blockers,False,False
+177,bded.,Secadrex,*SECADREX tablets,Acebutolol Hydrochloride With Diuretic,,,beta blockers,False,False
+178,bdeD.,Nadolol,NADOLOL+BENDROFLUMETHIAZIDE 40mg/5mg tablets,Nadolol,,40 mg,beta blockers,False,True
+179,bdee.,Sotazide,*SOTAZIDE tablets,Sotalol Hydrochloride With Diuretic,,,beta blockers,False,False
+180,bdeE.,Nadolol,NADOLOL+BENDROFLUAZIDE 80mg/5mg tablets,Nadolol,,80 mg,beta blockers,False,False
+181,bdef.,Spiroprop,*SPIROPROP tablets,Propranolol Hydrochloride With Diuretic,,,beta blockers,False,False
+182,bdeg.,Tenoret,TENORET-50 tablets,Co-Tenidone (Atenolol/Chlortalidone),50.0,,beta blockers,False,False
+183,bdeG.,Pindolol,PINDOLOL+CLOPAMIDE 10mg/5mg tablets,Pindolol,,10 mg,beta blockers,False,False
+184,bdeh.,Tenoret,TENORETIC tablets,Co-Tenidone (Atenolol/Chlortalidone),,,beta blockers,False,False
+185,bdeH.,Sotalol HCl,SOTALOL HCL+HYDROCHLOROTHIAZIDE 160mg/25mg tablets,Sotalol Hydrochloride,,160 mg,beta blockers,False,True
+186,bdei.,Tolerzide,*TOLERZIDE tablets,Sotalol Hydrochloride With Diuretic,,,beta blockers,False,False
+187,bdej.,Trasidrex,*TRASIDREX tablets,Co-Prenozide (Oxprenolol HCl/Cyclopenth),,,beta blockers,False,False
+188,bdeJ.,Sotalol HCl,SOTALOL HCL+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Sotalol Hydrochloride,,80 mg,beta blockers,False,True
+189,bdek.,Viskaldix,VISKALDIX tablets,Pindolol With Diuretic,,,beta blockers,False,False
+190,bdeK.,Timolol,TIMOLOL MALEATE+CO-AMILOZIDE 10mg/2.5mg/25mg tablets,Timolol,,10 mg,beta blockers,False,True
+191,bdel.,Co-Prenozide,*CO-PRENOZIDE tablets,Co-Prenozide (Oxprenolol HCl/Cyclopenth),,,beta blockers,False,False
+192,bdeL.,Timolol,TIMOLOL MALEATE+BENDROFLUMETHIAZIDE 10mg/2.5mg tablets,Timolol,,10 mg,beta blockers,False,True
+193,bdem.,Co-Tenidone,CO-TENIDONE 50/12.5mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,12.5 mg,beta blockers,False,False
+194,bdeM.,Timolol,TIMOLOL MALEATE+BENDROFLUAZIDE 20mg/5mg tablets,Timolol,,20 mg,beta blockers,False,False
+195,bden.,Co-Tenidone,CO-TENIDONE 100/25mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,25 mg,beta blockers,False,False
+196,bdeN.,Totaretic,TOTARETIC 50mg/12.5mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,50 mg,beta blockers,False,False
+197,bdeo.,Atenix,ATENIXCO 50/12.5mg tablets,Atenolol,,12.5 mg,beta blockers,False,False
+198,bdeO.,Totaretic,TOTARETIC 100mg/25mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,100 mg,beta blockers,False,False
+199,bdep.,Atenix,*ATENIXCO 100/25mg tablets,Atenolol,,25 mg,beta blockers,False,False
+200,bdeP.,Atenolol,ATENOLOL+BENDROFLUAZIDE 25mg/1.25mg capsules,Atenolol,,25 mg,beta blockers,False,False
+201,bdeq.,Tenchlor,*TENCHLOR 50/12.5mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,12.5 mg,beta blockers,False,False
+202,bdeQ.,Tenben,*TENBEN capsules,Atenolol with Thiazides,,,beta blockers,False,False
+203,bder.,Tenchlor,*TENCHLOR 100/25mg tablets,Co-Tenidone (Atenolol/Chlortalidone),,25 mg,beta blockers,False,False
+204,bdes.,Beta-Adalat,*BETA-ADALAT 50/20mg capsules,Atenolol With Calcium Channel Blocker,,20 mg,beta blockers,True,False
+205,bdet.,Tenif,TENIF 50/20mg capsules,Atenolol With Calcium Channel Blocker,,20 mg,beta blockers,False,False
+206,bdeu.,Co-Prenozide,CO-PRENOZIDE 160/0.25mg m/r tablets,Co-Prenozide (Oxprenolol HCl/Cyclopenth),,0.25 mg,beta blockers,False,False
+207,bdev.,Propranolol HCl,PROPRANOLOL HCL+BENDROFLUAZIDE 80mg/2.5mg capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+208,bdew.,Propranolol HCl,PROPRANOLOL HCL+BENDROFLUAZIDE 160mg/5mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+209,bdey.,Atenolol,ATENOLOL+CO-AMILOZIDE 50mg/2.5mg/25mg capsules,Atenolol,,50 mg,beta blockers,False,True
+210,bdez.,Atenolol,ATENOLOL+NIFEDIPINE 50mg/20mg m/r capsules,Atenolol,,50 mg,beta blockers,True,False
+211,bdf..,Bisoprolol Fumar,BISOPROLOL FUMARATE,Bisoprolol Fumarate,,,beta blockers,False,False
+212,bdf1.,Bisoprolol Fumar,BISOPROLOL FUMARATE 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+213,bdf2.,Bisoprolol Fumar,BISOPROLOL FUMARATE 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+214,bdf3.,Monocor,*MONOCOR 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+215,bdf4.,Monocor,*MONOCOR 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+216,bdf5.,Emcor,*EMCOR LS 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+217,bdf6.,Emcor,*EMCOR 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+218,bdf8.,Bisoprolol Fumar,BISOPROLOL FUMARATE+HYDROCHLOROTHIAZIDE 10mg/6.25mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,True
+219,bdf9.,Cardicor,CARDICOR 1.25mg tablets,Bisoprolol Fumarate,,1.25 mg,beta blockers,False,False
+220,bdfA.,Cardicor,CARDICOR 2.5mg tablets,Bisoprolol Fumarate,,2.5 mg,beta blockers,False,False
+221,bdfB.,Cardicor,CARDICOR 3.75mg tablets,Bisoprolol Fumarate,,3.75 mg,beta blockers,False,False
+222,bdfC.,Cardicor,CARDICOR 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+223,bdfD.,Cardicor,CARDICOR 7.5mg tablets,Bisoprolol Fumarate,,7.5 mg,beta blockers,False,False
+224,bdfE.,Cardicor,CARDICOR 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+225,bdfF.,Bipranix,*BIPRANIX 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+226,bdfG.,Bipranix,*BIPRANIX 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+227,bdfH.,Soloc,*SOLOC 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+228,bdfI.,Soloc,*SOLOC 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+229,bdfJ.,Vivacor,VIVACOR 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+230,bdfK.,Vivacor,VIVACOR 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+231,bdfL.,Congescor,CONGESCOR 1.25mg tablets,Bisoprolol Fumarate,,1.25 mg,beta blockers,False,False
+232,bdfM.,Congescor,CONGESCOR 2.5mg tablets,Bisoprolol Fumarate,,2.5 mg,beta blockers,False,False
+233,bdfw.,Bisoprolol Fumar,BISOPROLOL FUMARATE 1.25mg tablets,Bisoprolol Fumarate,,1.25 mg,beta blockers,False,False
+234,bdfx.,Bisoprolol Fumar,BISOPROLOL FUMARATE 2.5mg tablets,Bisoprolol Fumarate,,2.5 mg,beta blockers,False,False
+235,bdfy.,Bisoprolol Fumar,BISOPROLOL FUMARATE 3.75mg tablets,Bisoprolol Fumarate,,3.75 mg,beta blockers,False,False
+236,bdfz.,Bisoprolol Fumar,BISOPROLOL FUMARATE 7.5mg tablets,Bisoprolol Fumarate,,7.5 mg,beta blockers,False,False
+237,bdh..,Metoprolol Fumar,*METOPROLOL FUMARATE,Metoprolol Fumarate,,,beta blockers,False,False
+238,bdh1.,Metoprolol Fumar,METOPROLOL FUMARATE 190mg tablets,Metoprolol Fumarate,,190 mg,beta blockers,False,False
+239,bdh2.,Metoprolol Fumar,METOPROLOL FUMARATE 95mg tablets,Metoprolol Fumarate,,95 mg,beta blockers,False,False
+240,bdh3.,Metoros,*METOROS 190mg tablets,Metoprolol Fumarate,,190 mg,beta blockers,False,False
+241,bdh4.,Metoros,*METOROS 95mg tablets,Metoprolol Fumarate,,95 mg,beta blockers,False,False
+242,bdi..,Carteolol Hydrochloride,*CARTEOLOL HYDROCHLORIDE,Carteolol Hydrochloride,,,beta blockers,False,False
+243,bdi2.,Cartrol,*CARTROL 10mg tablets,Carteolol Hydrochloride,,10 mg,beta blockers,False,False
+244,bdj..,Celiprolol Hydrochloride,CELIPROLOL HYDROCHLORIDE,Celiprolol Hydrochloride,,,beta blockers,False,False
+245,bdj2.,Celectol,CELECTOL 200mg tablets 28-CP,Celiprolol Hydrochloride,,200 mg,beta blockers,False,False
+246,bdj3.,Celectol,CELECTOL 200mg tablets,Celiprolol Hydrochloride,,200 mg,beta blockers,False,False
+247,bdj5.,Celectol,CELECTOL 400mg tablets,Celiprolol Hydrochloride,,400 mg,beta blockers,False,False
+248,bdk..,Esmolol Hydrochloride,ESMOLOL HYDROCHLORIDE,Esmolol Hydrochloride,,,beta blockers,False,False
+249,bdk1.,Esmolol HCl,ESMOLOL HCL 2.5g/10mL injection,Esmolol Hydrochloride,,,beta blockers,False,False
+250,bdk2.,Esmolol HCl,ESMOLOL HCL 100mg/10mL injection,Esmolol Hydrochloride,,100 mg/10 ml,beta blockers,False,False
+251,bdk3.,Brevibloc,BREVIBLOC CONCENTRATE 2.5g/10mL injection,Esmolol Hydrochloride,,,beta blockers,False,False
+252,bdk4.,Brevibloc,BREVIBLOC 100mg/10mL injection,Esmolol Hydrochloride,,100 mg/10 ml,beta blockers,False,False
+253,bdk5.,Esmolol Hydrochloride,ESMOLOL HYDROCHLORIDE 10mg/mL infusion solution,Esmolol Hydrochloride,,10 mg/mL,beta blockers,False,False
+254,bdk6.,Brevibloc,BREVIBLOC 10mg/mL infusion solution,Esmolol Hydrochloride,,10 mg/mL,beta blockers,False,False
+255,bdk7.,Esmolol Hydrochloride,ESMOLOL HYDROCHLORIDE 2.5g powder for solution for injection,Esmolol Hydrochloride,,,beta blockers,False,False
+256,bdl..,Carvedilol,CARVEDILOL,Carvedilol,,,beta blockers,False,False
+257,bdl1.,Eucardic,*EUCARDIC 12.5 tablets,Carvedilol,5.0,,beta blockers,False,False
+258,bdl2.,Eucardic,*EUCARDIC 25 tablets,Carvedilol,25.0,,beta blockers,False,False
+259,bdl3.,Carvedilol,CARVEDILOL 12.5mg tablets,Carvedilol,,12.5 mg,beta blockers,False,False
+260,bdl4.,Carvedilol,CARVEDILOL 25mg tablets,Carvedilol,,25 mg,beta blockers,False,False
+261,bdl5.,Carvedilol,CARVEDILOL 3.125mg tablets,Carvedilol,,3.125 mg,beta blockers,False,False
+262,bdl6.,Carvedilol,CARVEDILOL 6.25mg tablets,Carvedilol,,6.25 mg,beta blockers,False,False
+263,bdl7.,Eucardic,*EUCARDIC 3.125 tablets,Carvedilol,125.0,,beta blockers,False,False
+264,bdl8.,Eucardic,*EUCARDIC 6.25 tablets,Carvedilol,25.0,,beta blockers,False,False
+265,bdm..,Nebivolol,NEBIVOLOL,Nebivolol,,,beta blockers,False,False
+266,bdm1.,Nebilet,NEBILET 5mg tablets,Nebivolol,,5 mg,beta blockers,False,False
+267,bdm2.,Hypoloc,HYPOLOC 5mg tablets,Nebivolol,,5 mg,beta blockers,False,False
+268,bdmy.,Nebivolol,NEBIVOLOL 2.5mg tablets,Nebivolol,,2.5 mg,beta blockers,False,False
+269,bdmz.,Nebivolol,NEBIVOLOL 5mg tablets,Nebivolol,,5 mg,beta blockers,False,False
+270,bdn..,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE [2],Propranolol Hydrochloride,,,beta blockers,False,False
+271,bdn1.,Syprol,SYPROL 50mg/5mL oral solution,Propranolol Hydrochloride,,50 mg/5 ml,beta blockers,False,False
+272,bdn2.,Bedranol,BEDRANOL SR 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+273,bdn3.,Rapranol,*RAPRANOL SR 80mg m/r capsules,Propranolol Hydrochloride,,80 mg,beta blockers,False,False
+274,bdn4.,Rapranol,RAPRANOL SR 160mg m/r capsules,Propranolol Hydrochloride,,160 mg,beta blockers,False,False
+275,bdn5.,Syprol,SYPROL 40mg/5mL oral solution,Propranolol Hydrochloride,,40 mg/5 ml,beta blockers,False,False
+276,bdn6.,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE 40mg/5mL sugar free oral solution,Propranolol Hydrochloride,,40 mg/5 ml,beta blockers,False,False
+277,d7d1.,Concor,*CONCORDIN 5mg tablets,Bisoprolol Fumarate,,5 mg,beta blockers,False,False
+278,d7d2.,Concor,*CONCORDIN 10mg tablets,Bisoprolol Fumarate,,10 mg,beta blockers,False,False
+279,k83..,Betaxolol Hydrochloride,BETAXOLOL HYDROCHLORIDE [EYE],Betaxolol Hydrochloride,,,beta blockers,False,False
+280,k85..,Carteolol Hydrochloride,CARTEOLOL HYDROCHLORIDE,Carteolol Hydrochloride,,,beta blockers,False,False
+281,k85y.,Carteolol Hydrochloride,CARTEOLOL HYDROCHLORIDE 1% eye drops,Carteolol Hydrochloride,,,beta blockers,False,False
+282,k85z.,Carteolol Hydrochloride,CARTEOLOL HYDROCHLORIDE 2% eye drops,Carteolol Hydrochloride,,,beta blockers,False,False
+283,k8f..,Timolol,TIMOLOL MALEATE [EYE],Timolol,,,beta blockers,False,False
+284,k8f4.,Timolol,TIMOLOL 0.25% eye drops 0.25mL unit dose dispenser,Timolol,,,beta blockers,False,False
+285,k8f6.,Timolol,TIMOLOL 0.5% eye drops 0.25mL unit dose dispenser,Timolol,,,beta blockers,False,False
+286,k8f9.,Timolol,TIMOLOL 0.25% liquid eye gel,Timolol,,,beta blockers,False,False
+287,k8fA.,Timolol,TIMOLOL 0.5% liquid eye gel,Timolol,,,beta blockers,False,False
+288,k8fF.,Timolol,*TIMOLOL 0.1% liquid eye gel,Timolol,,,beta blockers,False,False
+289,k8fI.,Timolol,TIMOLOL 1mg/g single-dose eye gel,Timolol,,1 mg,beta blockers,False,False
+290,k8fy.,Timolol,TIMOLOL 0.25% eye drops,Timolol,,,beta blockers,False,False
+291,k8fz.,Timolol,TIMOLOL 0.5% eye drops,Timolol,,,beta blockers,False,False
+292,k8k..,Timolol,DORZOLAMIDE+TIMOLOL,Timolol,,,beta blockers,False,False
+293,k8k1.,Timolol,DORZOLAMIDE+TIMOLOL 2%/0.5% eye drops,Timolol,,,beta blockers,False,False
+294,k8k4.,Timolol,DORZOLAMIDE+TIMOLOL 2%/0.5% single-use eye drops,Timolol,,,beta blockers,False,False
+295,k8m..,Timolol,LATANOPROST+TIMOLOL,Timolol,,,beta blockers,False,False
+296,k8mz.,Timolol,LATANOPROST+TIMOLOL 0.005%/0.5% eye drops,Timolol,,,beta blockers,False,False
+297,k8p..,Timolol,BRIMONIDINE+TIMOLOL,Timolol,,,beta blockers,False,False
+298,k8p1.,Timolol,BRIMONIDINE TARTRATE 0.2% / TIMOLOL 0.5% eye drops,Timolol,,,beta blockers,False,False
+299,k8q..,Timolol,TIMOLOL+TRAVOPROST,Timolol,,,beta blockers,False,False
+300,k8q1.,Timolol,TRAVOPROST 0.004% / TIMOLOL 0.5% eye drops,Timolol,,,beta blockers,False,False
+301,k8r..,Timolol,BIMATOPROST+TIMOLOL,Timolol,,,beta blockers,False,False
+302,k8r1.,Timolol,BIMATOPROST 0.03% / TIMOLOL 0.5% eye drops,Timolol,,,beta blockers,False,False
+303,k8r4.,Timolol,BIMATOPROST+TIMOLOL 0.03%/0.5% single-use eye drops,Timolol,,,beta blockers,False,False
+304,k8s..,Timolol,BRINZOLAMIDE+TIMOLOL,Timolol,,,beta blockers,False,False
+305,k8sz.,Timolol,BRINZOLAMIDE 1% / TIMOLOL 0.5% eye drops,Timolol,,,beta blockers,False,False
+306,k8v..,Timolol,TAFLUPROST+TIMOLOL,Timolol,,,beta blockers,False,False
+307,k8v2.,Timolol,TAFLUPROST+TIMOLOL 15micrograms/5mg/mL single-use eye drops,Timolol,,5 mg/mL,beta blockers,False,False
+308,m81I.,Artex,WARTEX ointment 6g,Tertatolol,,,beta blockers,False,False
+309,as12.,Keloc,KELOCYANOR 300mg/20mL injection,Felodipine,,300 mg/20 ml,calcium-channel blocker,True,False
+310,bA1..,Felodipine,FELODIPINE+RAMIPRIL,Felodipine,,,calcium-channel blocker,True,False
+311,bA1y.,Felodipine,FELODIPINE+RAMIPRIL 2.5mg/2.5mg tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+312,bA1z.,Felodipine,FELODIPINE+RAMIPRIL 5mg/5mg tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+313,bb3..,Verapamil Hydrochloride,VERAPAMIL HYDROCHLORIDE,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+314,bb34.,Berkatens,*BERKATENS 40mg tablets,Verapamil Hydrochloride,,40 mg,calcium-channel blocker,True,False
+315,bb35.,Berkatens,*BERKATENS 80mg tablets,Verapamil Hydrochloride,,80 mg,calcium-channel blocker,True,False
+316,bb36.,Berkatens,*BERKATENS 120mg tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+317,bb37.,Berkatens,*BERKATENS 160mg tablets,Verapamil Hydrochloride,,160 mg,calcium-channel blocker,True,False
+318,bb38.,Cordilox,*CORDILOX 40mg tablets,Verapamil Hydrochloride,,40 mg,calcium-channel blocker,True,False
+319,bb39.,Cordilox,*CORDILOX 80mg tablets,Verapamil Hydrochloride,,80 mg,calcium-channel blocker,True,False
+320,bb3a.,Cordilox,CORDILOX 120mg tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+321,bb3b.,Cordilox,*CORDILOX 160mg tablets,Verapamil Hydrochloride,,160 mg,calcium-channel blocker,True,False
+322,bb3B.,Securon,HALF SECURON SR 120mg m/r tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+323,bb3c.,Cordilox,*CORDILOX 5mg/2mL injection,Verapamil Hydrochloride,,5 mg/2 ml,calcium-channel blocker,True,False
+324,bb3d.,Securon,*SECURON 40mg tablets,Verapamil Hydrochloride,,40 mg,calcium-channel blocker,True,False
+325,bb3e.,Securon,*SECURON 80mg tablets,Verapamil Hydrochloride,,80 mg,calcium-channel blocker,True,False
+326,bb3E.,Verapamil HCl,VERAPAMIL HCL 5mg/2mL prefilled syringe,Verapamil Hydrochloride,,5 mg/2 ml,calcium-channel blocker,True,False
+327,bb3f.,Securon,*SECURON 120mg tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+328,bb3F.,Securon,HALF-SECURON SR 120mg m/r tablets 28CP,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+329,bb3g.,Securon,*SECURON 120mg tablets 56CP,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+330,bb3h.,Securon,*SECURON 160mg tablets 56CP,Verapamil Hydrochloride,,160 mg,calcium-channel blocker,True,False
+331,bb3i.,Securon,*SECURON 160mg tablets,Verapamil Hydrochloride,,160 mg,calcium-channel blocker,True,False
+332,bb3j.,Securon,SECURON SR 240mg m/r tablets,Verapamil Hydrochloride,,240 mg,calcium-channel blocker,True,False
+333,bb3k.,Securon,SECURON SR 240mg m/r tablets 28CP,Verapamil Hydrochloride,,240 mg,calcium-channel blocker,True,False
+334,bb3K.,Verapress,*VERAPRESS MR 240 m/r tablets,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+335,bb3l.,Univer,UNIVER 120mg m/r capsules x28,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+336,bb3L.,Ethimil,*ETHIMIL MR 240 m/r tablets,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+337,bb3m.,Univer,UNIVER 180mg m/r capsules x56,Verapamil Hydrochloride,,180 mg,calcium-channel blocker,True,False
+338,bb3M.,Cordilox,CORDILOX MR 240 m/r tablets,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+339,bb3n.,Univer,UNIVER 240mg m/r capsules x28,Verapamil Hydrochloride,,240 mg,calcium-channel blocker,True,False
+340,bb3N.,Zolvera,ZOLVERA 40mg/5mL oral solution,Verapamil Hydrochloride,,40 mg/5 ml,calcium-channel blocker,True,False
+341,bb3o.,Securon,SECURON IV 5mg/2mL injection,Verapamil Hydrochloride,,5 mg/2 ml,calcium-channel blocker,True,False
+342,bb3O.,Ranvera,*RANVERA MR 240mg m/r tablets,Verapamil Hydrochloride,,240 mg,calcium-channel blocker,True,False
+343,bb3p.,Geangin,*GEANGIN 40mg tablets,Verapamil Hydrochloride,,40 mg,calcium-channel blocker,True,False
+344,bb3P.,Vera-Til,VERA-TIL SR 240mg m/r tablets,Verapamil Hydrochloride,,240 mg,calcium-channel blocker,True,False
+345,bb3q.,Geangin,*GEANGIN 80mg tablets,Verapamil Hydrochloride,,80 mg,calcium-channel blocker,True,False
+346,bb3Q.,Vera-Til,VERA-TIL SR 120mg m/r tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+347,bb3r.,Geangin,*GEANGIN 120mg tablets,Verapamil Hydrochloride,,120 mg,calcium-channel blocker,True,False
+348,bb3s.,Vertab,VERTAB SR 240 m/r tablets,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+349,bd38.,Adalat,*BETA-ADALAT 50/20mg capsules,Nifedipine,,20 mg,calcium-channel blocker,True,False
+350,bdes.,Adalat,*BETA-ADALAT 50/20mg capsules,Nifedipine,,20 mg,calcium-channel blocker,True,False
+351,bdez.,Nifedipine,ATENOLOL+NIFEDIPINE 50mg/20mg m/r capsules,Nifedipine,,50 mg,calcium-channel blocker,True,False
+352,bk6..,Verapamil Hydrochloride,TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+353,bk61.,Verapamil Hydrochloride,TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE 2mg/180mg m/r capsules,Verapamil Hydrochloride,,2 mg,calcium-channel blocker,True,False
+354,bkD..,Amlodipine,AMLODIPINE + VALSARTAN,Amlodipine,,,calcium-channel blocker,True,False
+355,bkD1.,Amlodipine,AMLODIPINE+VALSARTAN 5mg/80mg tablets,Amlodipine,,5 mg,calcium-channel blocker,True,False
+356,bkD2.,Amlodipine,AMLODIPINE+VALSARTAN 5mg/160mg tablets,Amlodipine,,5 mg,calcium-channel blocker,True,False
+357,bkD3.,Amlodipine,AMLODIPINE+VALSARTAN 10mg/160mg tablets,Amlodipine,,10 mg,calcium-channel blocker,True,False
+358,bkDx.,Exforge,EXFORGE 10mg/160mg tablets,Valsartan/Amlodipine,,10 mg,calcium-channel blocker,True,False
+359,bkDy.,Exforge,EXFORGE 5mg/160mg tablets,Valsartan/Amlodipine,,5 mg,calcium-channel blocker,True,False
+360,bkDz.,Exforge,EXFORGE 5mg/80mg tablets,Valsartan/Amlodipine,,5 mg,calcium-channel blocker,True,False
+361,bkH..,Amlodipine,OLMESARTAN+AMLODIPINE,Amlodipine,,,calcium-channel blocker,True,False
+362,bkHx.,Amlodipine,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/10mg tablets,Amlodipine,,40 mg,calcium-channel blocker,True,False
+363,bkHy.,Amlodipine,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/5mg tablets,Amlodipine,,40 mg,calcium-channel blocker,True,False
+364,bkHz.,Amlodipine,OLMESARTAN MEDOXOMIL+AMLODIPINE 20mg/5mg tablets,Amlodipine,,20 mg,calcium-channel blocker,True,False
+365,bkI..,Amlodipine,OLMESARTAN+AMLODIPINE+HYDROCHLOROTHIAZIDE,Amlodipine,,,calcium-channel blocker,True,True
+366,bl5..,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+367,bl51.,Tildiem,TILDIEM 60mg tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+368,bl52.,Calcicard,*CALCICARD 60mg tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+369,bl53.,Britiazim,*BRITIAZIM 60mg tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+370,bl54.,Adizem,ADIZEM-SR 120mg m/r tablets,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+371,bl55.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 120mg m/r tablets,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+372,bl56.,Angiozem,*ANGIOZEM 60mg tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+373,bl57.,Adizem,*ADIZEM 60mg tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+374,bl58.,Tildiem,TILDIEM RETARD 90mg m/r tablets,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+375,bl59.,Tildiem,TILDIEM RETARD 120mg m/r tablets,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+376,bl5a.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 90mg m/r tablets,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+377,bl5A.,Tildiem,TILDIEM LA 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+378,bl5b.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+379,bl5B.,Adizem,ADIZEM-SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+380,bl5c.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+381,bl5C.,Adizem,ADIZEM-SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+382,bl5d.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+383,bl5D.,Adizem,ADIZEM-SR 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+384,bl5e.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+385,bl5E.,Adizem,ADIZEM-XL 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+386,bl5f.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+387,bl5F.,Dilzem,DILZEM SR 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+388,bl5g.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+389,bl5G.,Dilzem,DILZEM SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+390,bl5h.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 200mg m/r capsules,Diltiazem Hydrochloride,,200 mg,calcium-channel blocker,True,False
+391,bl5H.,Dilzem,DILZEM SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+392,bl5i.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE+HYDROCHLOROTHIAZIDE 150mg/12.5mg m/r capsules,Diltiazem Hydrochloride,,150 mg,calcium-channel blocker,True,True
+393,bl5I.,Adizem,ADIZEM-XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+394,bl5j.,Adizem,*ADIZEM-XL PLUS m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+395,bl5J.,Adizem,ADIZEM-XL 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+396,bl5k.,Angiozem,*ANGIOZEM CR 90mg m/r tablets,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+397,bl5K.,Adizem,ADIZEM-XL 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+398,bl5l.,Dilcardia,DILCARDIA SR 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+399,bl5L.,Dilzem,DILZEM-XL 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+400,bl5m.,Angiozem,*ANGIOZEM CR 120mg m/r tablets,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+401,bl5M.,Dilzem,DILZEM-XL 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+402,bl5n.,Zemtard,ZEMTARD 300 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+403,bl5N.,Dilzem,DILZEM-XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+404,bl5o.,Viazem,VIAZEM XL 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+405,bl5O.,Slozem,SLOZEM 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+406,bl5p.,Viazem,VIAZEM XL 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+407,bl5P.,Slozem,SLOZEM 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+408,bl5q.,Viazem,VIAZEM XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+409,bl5Q.,Slozem,SLOZEM 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+410,bl5r.,Viazem,VIAZEM XL 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+411,bl5R.,Angitil,ANGITIL SR 90 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+412,bl5s.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 360mg m/r capsules,Diltiazem Hydrochloride,,360 mg,calcium-channel blocker,True,False
+413,bl5S.,Angitil,ANGITIL SR 120 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+414,bl5t.,Viazem,VIAZEM XL 360mg m/r capsules,Diltiazem Hydrochloride,,360 mg,calcium-channel blocker,True,False
+415,bl5u.,Calazem,*CALAZEM 60mg m/r tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+416,bl5U.,Angitil,ANGITIL SR 180 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+417,bl5v.,Dilcardia,DILCARDIA SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+418,bl5V.,Calcicard,*CALCICARD CR 90mg m/r tablets,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+419,bl5w.,Dilcardia,DILCARDIA SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+420,bl5W.,Calcicard,*CALCICARD CR 120mg m/r tabs,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+421,bl5x.,Angitil,ANGITIL XL 240 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+422,bl5X.,Kentiazem,KENTIAZEM 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+423,bl5y.,Angitil,ANGITIL XL 300 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+424,bl5Y.,Optil,*OPTIL 60mg m/r tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+425,bl5z.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 60mg m/r tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+426,bl5Z.,Tildiem,TILDIEM LA 200mg m/r capsules,Diltiazem Hydrochloride,,200 mg,calcium-channel blocker,True,False
+427,bl6..,Lidoflazine,*LIDOFLAZINE,Lidoflazine,,,calcium-channel blocker,True,False
+428,bl61.,Clinium,*CLINIUM 120mg tablets,Lidoflazine,,120 mg,calcium-channel blocker,True,False
+429,bl6z.,Lidoflazine,*LIDOFLAZINE 120mg tablets,Lidoflazine,,120 mg,calcium-channel blocker,True,False
+430,bl7..,Nicardipine Hydrochloride,NICARDIPINE HYDROCHLORIDE,Nicardipine Hydrochloride,,,calcium-channel blocker,True,False
+431,bl71.,Cardene,CARDENE 20mg capsules,Nicardipine Hydrochloride,,20 mg,calcium-channel blocker,True,False
+432,bl72.,Cardene,CARDENE 30mg capsules,Nicardipine Hydrochloride,,30 mg,calcium-channel blocker,True,False
+433,bl73.,Cardene,CARDENE SR 30mg m/r capsules,Nicardipine Hydrochloride,,30 mg,calcium-channel blocker,True,False
+434,bl74.,Cardene,CARDENE SR 45mg m/r capsules,Nicardipine Hydrochloride,,45 mg,calcium-channel blocker,True,False
+435,bl8..,Nifedipine,NIFEDIPINE,Nifedipine,,,calcium-channel blocker,True,False
+436,bl81.,Adalat,ADALAT 5mg capsules,Nifedipine,,5 mg,calcium-channel blocker,True,False
+437,bl82.,Adalat,ADALAT 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+438,bl83.,Adalat,ADALAT RETARD 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+439,bl84.,Adalat,ADALAT RETARD 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+440,bl85.,Nifedipine,NIFEDIPINE 5mg capsules,Nifedipine,,5 mg,calcium-channel blocker,True,False
+441,bl86.,Nifedipine,NIFEDIPINE 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+442,bl87.,Adalat,ADALAT-IC 200micrograms/2mL injection,Nifedipine,,,calcium-channel blocker,True,False
+443,bl88.,Nifedipine,NIFEDIPINE-IC 200micrograms/2mL injection,Nifedipine,,,calcium-channel blocker,True,False
+444,bl89.,Vasad,*VASAD 5mg capsules,Nifedipine,,5 mg,calcium-channel blocker,True,False
+445,bl8a.,Vasad,*VASAD 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+446,bl8A.,Adipine,ADIPINE MR 20 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+447,bl8b.,Calcilat,*CALCILAT 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+448,bl8B.,Adipine,ADIPINE MR 10 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+449,bl8C.,Unipine,*UNIPINE XL 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+450,bl8D.,Nimodrel,*NIMODREL MR 10 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+451,bl8e.,Coracten,CORACTEN SR 20mg m/r capsules,Nifedipine,,20 mg,calcium-channel blocker,True,False
+452,bl8E.,Nimodrel,*NIMODREL MR 20 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+453,bl8f.,Angiopine,*ANGIOPINE 5mg capsules,Nifedipine,,5 mg,calcium-channel blocker,True,False
+454,bl8F.,Nifedipine,NIFEDIPINE 40mg m/r tablets,Nifedipine,,40 mg,calcium-channel blocker,True,False
+455,bl8g.,Angiopine,*ANGIOPINE 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+456,bl8G.,Angiopine,*ANGIOPINE 40 LA m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+457,bl8h.,Nifensar Xl,*NIFENSAR XL 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+458,bl8H.,Cardilate,*CARDILATE MR 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+459,bl8i.,Adalat,ADALAT LA 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+460,bl8j.,Adalat,ADALAT LA 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+461,bl8J.,Tensipine,TENSIPINE MR 10 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+462,bl8k.,Coracten,CORACTEN SR 10mg m/r capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+463,bl8K.,Tensipine,TENSIPINE MR 20 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+464,bl8l.,Cardilate,*CARDILATE MR 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+465,bl8L.,Fortipine,FORTIPINE LA40 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+466,bl8m.,Angiopine,*ANGIOPINE MR 20mg tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+467,bl8M.,Adalat,ADALAT LA 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+468,bl8n.,Nifelease,*NIFELEASE 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+469,bl8o.,Calanif,*CALANIF 10mg capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+470,bl8O.,Slofedipine,*SLOFEDIPINE 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+471,bl8p.,Calanif,*CALANIF 5mg capsules,Nifedipine,,5 mg,calcium-channel blocker,True,False
+472,bl8P.,Angiopine,*ANGIOPINE MR 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+473,bl8q.,Hypolar,*HYPOLAR RETARD 20 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+474,bl8Q.,Genalat,GENALAT RETARD 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+475,bl8r.,Nifedotard,*NIFEDOTARD 20MR m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+476,bl8R.,Genalat,GENALAT RETARD 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+477,bl8s.,Coroday,*CORODAY MR 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+478,bl8S.,Nifedipress,NIFEDIPRESS MR 10 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+479,bl8t.,Nifopress,NIFOPRESS RETARD 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+480,bl8T.,Nivaten,NIVATEN RETARD 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+481,bl8u.,Nifedipine,NIFEDIPINE 10mg m/r capsules,Nifedipine,,10 mg,calcium-channel blocker,True,False
+482,bl8U.,Nifedipress,NIFEDIPRESS MR 20 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+483,bl8v.,Nifedipine,NIFEDIPINE 20mg m/r capsules,Nifedipine,,20 mg,calcium-channel blocker,True,False
+484,bl8V.,Nifedipine,NIFEDIPINE 30mg m/r capsules,Nifedipine,,30 mg,calcium-channel blocker,True,False
+485,bl8w.,Nifedipine,NIFEDIPINE 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+486,bl8W.,Nifedipine,NIFEDIPINE 60mg m/r capsules,Nifedipine,,60 mg,calcium-channel blocker,True,False
+487,bl8x.,Nifedipine,NIFEDIPINE 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+488,bl8X.,Coracten,CORACTEN XL 30mg m/r capsules,Nifedipine,,30 mg,calcium-channel blocker,True,False
+489,bl8y.,Nifedipine,NIFEDIPINE 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+490,bl8Y.,Coracten,CORACTEN XL 60mg m/r capsules,Nifedipine,,60 mg,calcium-channel blocker,True,False
+491,bl8z.,Nifedipine,NIFEDIPINE 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+492,bl8Z.,Nivaten,NIVATEN RETARD 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+493,bl91.,Synadrin,*SYNADRIN 60mg tablets,PrenylamineLactate,,60 mg,calcium-channel blocker,True,False
+494,bla..,Isradipine,ISRADIPINE,Isradipine,,,calcium-channel blocker,True,False
+495,bla1.,Isradipine,ISRADIPINE 2.5mg tablets,Isradipine,,2.5 mg,calcium-channel blocker,True,False
+496,bla2.,Prescal,*PRESCAL 2.5mg tablets,Isradipine,,2.5 mg,calcium-channel blocker,True,False
+497,blb..,Amlodipine,AMLODIPINE,Amlodipine,,,calcium-channel blocker,True,False
+498,blb1.,Amlodipine,AMLODIPINE 5mg tablets,Amlodipine,,5 mg,calcium-channel blocker,True,False
+499,blb2.,Amlodipine,AMLODIPINE 10mg tablets,Amlodipine,,10 mg,calcium-channel blocker,True,False
+500,blb3.,Istin,ISTIN 5mg tablets,Amlodipine,,5 mg,calcium-channel blocker,True,False
+501,blb4.,Istin,ISTIN 10mg tablets,Amlodipine,,10 mg,calcium-channel blocker,True,False
+502,blb5.,Amlostin,*AMLOSTIN 5mg tablets,Amlodipine,,5 mg,calcium-channel blocker,True,False
+503,blb6.,Amlostin,*AMLOSTIN 10mg tablets,Amlodipine,,10 mg,calcium-channel blocker,True,False
+504,blb7.,Amlodipine,AMLODIPINE 1mg/mL oral solution,Amlodipine,,1 mg/mL,calcium-channel blocker,True,False
+505,blb8.,Amlodipine,AMLODIPINE 2mg/mL oral solution,Amlodipine,,2 mg/mL,calcium-channel blocker,True,False
+506,blc..,Felodipine,FELODIPINE,Felodipine,,,calcium-channel blocker,True,False
+507,blc1.,Felodipine,FELODIPINE 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+508,blc2.,Felodipine,FELODIPINE 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+509,blc3.,Plendil,PLENDIL 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+510,blc4.,Plendil,PLENDIL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+511,blc5.,Felodipine,FELODIPINE 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+512,blc6.,Plendil,PLENDIL 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+513,blc7.,Cabren,CABREN 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+514,blc8.,Cabren,CABREN 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+515,blc9.,Cabren,CABREN 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+516,blca.,Felotens,FELOTENS XL 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+517,blcb.,Felotens,FELOTENS XL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+518,blcc.,Felogen,FELOGEN XL 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+519,blcf.,Keloc,KELOC SR 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+520,blcg.,Keloc,KELOC SR 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+521,blch.,Felogen,FELOGEN XL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+522,blci.,Vascalpha,VASCALPHA 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+523,blcj.,Vascalpha,VASCALPHA 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+524,blck.,Cardioplen,CARDIOPLEN XL 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+525,blcl.,Cardioplen,CARDIOPLEN XL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+526,blcm.,Neofel,NEOFEL XL 5mg m/r tablets,Felodipine,,5 mg,calcium-channel blocker,True,False
+527,blcn.,Neofel,NEOFEL XL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+528,blcq.,Pinefeld,PINEFELD XL 10mg m/r tablets,Felodipine,,10 mg,calcium-channel blocker,True,False
+529,blcr.,Cardioplen,CARDIOPLEN XL 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+530,blcs.,Neofel,NEOFEL XL 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+531,blct.,Felotens,FELOTENS XL 2.5mg m/r tablets,Felodipine,,2.5 mg,calcium-channel blocker,True,False
+532,ble..,Lacidipine,LACIDIPINE,Lacidipine,,,calcium-channel blocker,True,False
+533,ble1.,Lacidipine,LACIDIPINE 2mg tablets,Lacidipine,,2 mg,calcium-channel blocker,True,False
+534,ble2.,Lacidipine,LACIDIPINE 4mg tablets,Lacidipine,,4 mg,calcium-channel blocker,True,False
+535,ble3.,Motens,MOTENS 2mg tablets,Lacidipine,,2 mg,calcium-channel blocker,True,False
+536,ble4.,Motens,MOTENS 4mg tablets,Lacidipine,,4 mg,calcium-channel blocker,True,False
+537,ble5.,Molap,MOLAP 4mg tablets,Lacidipine,,4 mg,calcium-channel blocker,True,False
+538,blg..,Nisoldipine,NISOLDIPINE,Nisoldipine,,,calcium-channel blocker,True,False
+539,blg1.,Nisoldipine,*NISOLDIPINE 10mg m/r tablets,Nisoldipine,,10 mg,calcium-channel blocker,True,False
+540,blg2.,Nisoldipine,*NISOLDIPINE 20mg m/r tablets,Nisoldipine,,20 mg,calcium-channel blocker,True,False
+541,blg3.,Nisoldipine,*NISOLDIPINE 30mg m/r tablets,Nisoldipine,,30 mg,calcium-channel blocker,True,False
+542,blg4.,Syscor,*SYSCOR MR 10mg m/r tablets,Nisoldipine,,10 mg,calcium-channel blocker,True,False
+543,blg5.,Syscor,*SYSCOR MR 20mg m/r tablets,Nisoldipine,,20 mg,calcium-channel blocker,True,False
+544,blg6.,Syscor,*SYSCOR MR 30mg m/r tablets,Nisoldipine,,30 mg,calcium-channel blocker,True,False
+545,blh..,Lercanidipine Hydrochloride,LERCANIDIPINE HYDROCHLORIDE,Lercanidipine Hydrochloride,,,calcium-channel blocker,True,False
+546,blh1.,Lercanidipine Hydrochloride,LERCANIDIPINE HYDROCHLORIDE 10mg tablets,Lercanidipine Hydrochloride,,10 mg,calcium-channel blocker,True,False
+547,blh2.,Zanidip,ZANIDIP 10mg tablets,Lercanidipine Hydrochloride,,10 mg,calcium-channel blocker,True,False
+548,blh3.,Lercanidipine Hydrochloride,LERCANIDIPINE HYDROCHLORIDE 20mg tablets,Lercanidipine Hydrochloride,,20 mg,calcium-channel blocker,True,False
+549,blh4.,Zanidip,ZANIDIP 20mg tablets,Lercanidipine Hydrochloride,,20 mg,calcium-channel blocker,True,False
+550,bli..,Mibefradil,MIBEFRADIL,Mibefradil,,,calcium-channel blocker,True,False
+551,bli1.,Mibefradil,*MIBEFRADIL 50mg tablets,Mibefradil,,50 mg,calcium-channel blocker,True,False
+552,bli2.,Mibefradil,*MIBEFRADIL 100mg tablets,Mibefradil,,100 mg,calcium-channel blocker,True,False
+553,bli3.,Posicor,*POSICOR 50mg tablets,Mibefradil,,50 mg,calcium-channel blocker,True,False
+554,bli4.,Posicor,*POSICOR 100mg tablets,Mibefradil,,100 mg,calcium-channel blocker,True,False
+555,blj..,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE 2,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+556,blj1.,Zemtard,ZEMTARD 120 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+557,blj2.,Zemtard,ZEMTARD 180 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+558,blj3.,Zemtard,ZEMTARD 240 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+559,blj4.,Optil,*OPTIL SR 90 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+560,blj5.,Optil,*OPTIL SR 120 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+561,blj6.,Optil,*OPTIL SR 180 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+562,blj7.,Optil,*OPTIL XL 240 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+563,blj8.,Optil,*OPTIL XL 300 m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+564,blj9.,Dilcardia,DILCARDIA XL 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+565,blja.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE XL 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+566,bljA.,Dilcardia,DILCARDIA XL 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+567,bljb.,Retalzem,RETALZEM MR 60mg m/r tablets,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+568,bljB.,Dilcardia,DILCARDIA XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+569,bljc.,Uard,UARD 120XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+570,bljC.,Bi-Carzem,BI-CARZEM SR 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+571,bljd.,Uard,UARD 180XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+572,bljD.,Bi-Carzem,BI-CARZEM SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+573,blje.,Uard,UARD 240XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+574,bljE.,Bi-Carzem,BI-CARZEM SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+575,bljf.,Uard,UARD 300XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+576,bljF.,Zildil,*ZILDIL SR 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+577,bljG.,Zildil,*ZILDIL SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+578,bljH.,Zildil,*ZILDIL SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+579,bljJ.,Slozem,SLOZEM 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+580,bljK.,Bi-Carzem,BI-CARZEM XL 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+581,bljL.,Bi-Carzem,BI-CARZEM XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+582,bljM.,Zemret,ZEMRET 180 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+583,bljN.,Zemret,ZEMRET 240 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+584,bljO.,Zemret,ZEMRET 300 XL m/r capsules,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+585,bljP.,Adizem,ADIZEM-XL 200mg m/r capsules,Diltiazem Hydrochloride,,200 mg,calcium-channel blocker,True,False
+586,bljQ.,Disogram,*DISOGRAM SR 60mg m/r capsules,Diltiazem Hydrochloride,,60 mg,calcium-channel blocker,True,False
+587,bljR.,Disogram,*DISOGRAM SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+588,bljS.,Disogram,DISOGRAM SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+589,bljT.,Disogram,DISOGRAM SR 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+590,bljU.,Disogram,DISOGRAM SR 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+591,bljV.,Disogram,DISOGRAM SR 300mg m/r capsules,Diltiazem Hydrochloride,,300 mg,calcium-channel blocker,True,False
+592,bljW.,Horizem,*HORIZEM SR 90mg m/r capsules,Diltiazem Hydrochloride,,90 mg,calcium-channel blocker,True,False
+593,bljX.,Horizem,*HORIZEM SR 120mg m/r capsules,Diltiazem Hydrochloride,,120 mg,calcium-channel blocker,True,False
+594,bljY.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE XL 180mg m/r capsules,Diltiazem Hydrochloride,,180 mg,calcium-channel blocker,True,False
+595,bljZ.,Diltiazem Hydrochloride,DILTIAZEM HYDROCHLORIDE XL 240mg m/r capsules,Diltiazem Hydrochloride,,240 mg,calcium-channel blocker,True,False
+596,bll..,Nifedipine,NIFEDIPINE [2],Nifedipine,,,calcium-channel blocker,True,False
+597,bll1.,Slofedipine,SLOFEDIPINE XL 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+598,bll2.,Slofedipine,SLOFEDIPINE XL 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+599,bll3.,Adipine,*ADIPINE LA 30 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+600,bll4.,Adipine,*ADIPINE LA 60 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+601,bll5.,Hypolar,HYPOLAR XL 30 m/r tablets,Nifedipine,,,calcium-channel blocker,True,False
+602,bll6.,Calchan,CALCHAN MR 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+603,bll7.,Calchan,CALCHAN MR 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+604,bll8.,Kentipine,KENTIPINE MR 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+605,bll9.,Kentipine,KENTIPINE MR 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+606,blla.,Hypolar,HYPOLAR RETARD 10mg m/r tablets,Nifedipine,,10 mg,calcium-channel blocker,True,False
+607,bllb.,Valni,VALNI 20 RETARD 20mg m/r tablets,Nifedipine,,20 mg,calcium-channel blocker,True,False
+608,bllc.,Adipine,ADIPINE XL 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+609,blld.,Adipine,ADIPINE XL 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+610,blle.,Nimodrel,NIMODREL XL 60mg tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+611,bllf.,Nimodrel,NIMODREL XL 30mg tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+612,bllg.,Valni,VALNI XL 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+613,bllh.,Valni,VALNI XL 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+614,blli.,Nidef,NIDEF 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+615,bllj.,Nidef,NIDEF 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+616,bllk.,Adanif,ADANIF XL 30mg m/r tablets,Nifedipine,,30 mg,calcium-channel blocker,True,False
+617,blll.,Adanif,ADANIF XL 60mg m/r tablets,Nifedipine,,60 mg,calcium-channel blocker,True,False
+618,c8c1.,Istin,*FABAHISTIN 50mg tablets,Amlodipine,,50 mg,calcium-channel blocker,True,False
+619,c8c2.,Istin,*FABAHISTIN 50mg/5mL mixture,Amlodipine,,50 mg/5 ml,calcium-channel blocker,True,False
+620,dh1..,Istin,BETAHISTINE HYDROCHLORIDE,Amlodipine,,,calcium-channel blocker,True,False
+621,dh13.,Istin,BETAHISTINE HYDROCHLORIDE 16mg tablets,Amlodipine,,16 mg,calcium-channel blocker,True,False
+622,dh1z.,Istin,BETAHISTINE HYDROCHLORIDE 8mg tablets,Amlodipine,,8 mg,calcium-channel blocker,True,False
+623,dt1..,Nimodipine,NIMODIPINE,Nimodipine,,,calcium-channel blocker,True,False
+624,dt11.,Nimodipine,NIMODIPINE 200microgram/mL intravenous infusion 50mL,Nimodipine,,,calcium-channel blocker,True,False
+625,dt12.,Nimotop,NIMOTOP 200micrograms/mL intravenous infusion 50mL,Nimodipine,,,calcium-channel blocker,True,False
+626,dt13.,Nimodipine,NIMODIPINE 30mg tablets,Nimodipine,,30 mg,calcium-channel blocker,True,False
+627,dt14.,Nimotop,NIMOTOP 30mg tablets,Nimodipine,,30 mg,calcium-channel blocker,True,False
+628,dt15.,Nimodipine,NIMODIPINE 50mg/250mL intravenous infusion,Nimodipine,,50 mg/250 ml,calcium-channel blocker,True,False
+629,dt16.,Nimotop,NIMOTOP IV 50mg/250mL infusion,Nimodipine,,50 mg/250 ml,calcium-channel blocker,True,False
+630,eb3..,Istin,COLISTIN,Amlodipine,,,calcium-channel blocker,True,False
+631,eb3w.,Istin,COLISTIN 1.5million units tablets,Amlodipine,,,calcium-channel blocker,True,False
+632,eb3x.,Istin,"COLISTIN 250,000units/5mL syrup",Amlodipine,,,calcium-channel blocker,True,False
+633,ebA..,Istin,QUINUPRISTIN+DALFOPRISTIN,Amlodipine,,,calcium-channel blocker,True,False
+634,ebAz.,Istin,QUINUPRISTIN+DALFOPRISTIN 150mg/350mg infusion (pdr for recon),Amlodipine,,150 mg,calcium-channel blocker,True,False
+635,gg1H.,Optil,OPTILUBE gel 5g sachet,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+636,gg1I.,Optil,OPTILUBE gel 42g,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+637,gg1J.,Optil,OPTILUBE gel 82g,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+638,gg1K.,Optil,OPTILUBE gel 6mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+639,gg1L.,Optil,OPTILUBE gel 11mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+640,h32v.,Istin,VINCRISTINE 1mg/1mL prefilled syringe,Amlodipine,,1 mg/1 ml,calcium-channel blocker,True,False
+641,h43..,Istin,VINCRISTINE SULFATE,Amlodipine,,,calcium-channel blocker,True,False
+642,h431.,Istin,VINCRISTINE 1mg injection (pdr for recon),Amlodipine,,1 mg,calcium-channel blocker,True,False
+643,h432.,Istin,VINCRISTINE 2mg injection (pdr for recon),Amlodipine,,2 mg,calcium-channel blocker,True,False
+644,h433.,Istin,VINCRISTINE 5mg injection (pdr for recon),Amlodipine,,5 mg,calcium-channel blocker,True,False
+645,h43v.,Istin,VINCRISTINE 1mg/1mL prefilled syringe,Amlodipine,,1 mg/1 ml,calcium-channel blocker,True,False
+646,h43w.,Istin,VINCRISTINE 2mg/2mL prefilled syringe,Amlodipine,,2 mg/2 ml,calcium-channel blocker,True,False
+647,h43x.,Istin,VINCRISTINE 5mg/5mL solution for injection,Amlodipine,,5 mg/5 ml,calcium-channel blocker,True,False
+648,h43y.,Istin,VINCRISTINE 1mg/1mL solution for injection,Amlodipine,,1 mg/1 ml,calcium-channel blocker,True,False
+649,h43z.,Istin,VINCRISTINE 2mg/2mL solution for injection,Amlodipine,,2 mg/2 ml,calcium-channel blocker,True,False
+650,k611.,Istin,OTRIVINE-ANTISTIN eye drops 10mL,Amlodipine,,,calcium-channel blocker,True,False
+651,k6h2.,Optil,*OPTILAST 0.05% eye drops 6mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+652,k6h4.,Optil,OPTILAST 0.05% eye drops 8mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+653,l952.,Istin,*OTRIVINE ANTISTIN nose drops,Amlodipine,,,calcium-channel blocker,True,False
+654,l953.,Istin,*OTRIVINE ANTISTIN nasal spray,Amlodipine,,,calcium-channel blocker,True,False
+655,mc2..,Istin,COLISTIN SULFATE,Amlodipine,,,calcium-channel blocker,True,False
+656,mc2z.,Istin,*COLISTIN SULPH topical powder,Amlodipine,,,calcium-channel blocker,True,False
+657,oa1R.,Optil,OPTILUBE ACTIVE gel 6mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+658,oa1S.,Optil,OPTILUBE ACTIVE gel 11mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+659,p1Y3.,Uard,CILGUARD STANDARD 10cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+660,p1Y4.,Uard,CILGUARD STANDARD 15cmx15cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+661,p1Y5.,Uard,CILGUARD STANDARD 20cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+662,p1Y6.,Uard,CILGUARD STANDARD 20cmx20cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+663,p1Y7.,Uard,CILGUARD STANDARD 20cmx50cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+664,p1Y8.,Uard,CILGUARD STANDARD 10cmx60cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+665,p1Y9.,Uard,CILGUARD BORDER 10cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+666,p1YA.,Uard,CILGUARD BORDER 15cmx15cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+667,p1YB.,Uard,CILGUARD BORDER 20cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+668,p1YC.,Uard,CILGUARD BORDER 20cmx20cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+669,p1YD.,Uard,CILGUARD BORDER 20cmx50cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+670,p1YE.,Uard,CILGUARD OVERLAP 10cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+671,p1YF.,Uard,CILGUARD OVERLAP 15cmx15cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+672,p1YG.,Uard,CILGUARD OVERLAP 20cmx10cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+673,p1YH.,Uard,CILGUARD OVERLAP 20cmx20cm dressing,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+674,p46j.,Univer,MINI WRIGHT universal mouthpiece,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+675,p46r.,Univer,FERRARIS POCKETPEAK peak flow meter universal mouthpiece,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+676,p46v.,Univer,MICROPEAK PSA2200 peak flow meter universal mouthpiece,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+677,p8JH.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 12Ch UN51161210 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+678,p8JI.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 14Ch UN51161410 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+679,p8JJ.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 16Ch UN51161610 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+680,p8JK.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 18Ch UN51161810 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+681,p8JL.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 20Ch UN51162010 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+682,p8JM.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 22Ch UN51162210 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+683,p8JN.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 24Ch UN51162410 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+684,p8JO.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 26Ch UN51162610 2-way silicone elastomer coated male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+685,p8Ne.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 12Ch UN41151205 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+686,p8Nf.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 14Ch UN41151405 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+687,p8Ng.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 16Ch UN41151605 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+688,p8Nh.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 18Ch UN41151805 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+689,p8Ni.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 20Ch UN41152005 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+690,p8Nj.,Univer,UNIVERSAL HOSPITAL SUPPLIES 10mL balloon 22Ch UN41152205 2-way all-silicone male length urethral Foley catheter,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+691,p8XF.,Uard,BARDEX IC AQUAFIL 10mL balloon 12Ch D236512S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+692,p8XG.,Uard,BARDEX IC AQUAFIL 10mL balloon 14Ch D236514S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+693,p8XH.,Uard,BARDEX IC AQUAFIL 10mL balloon 16Ch D236516S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+694,p8XI.,Uard,BARDEX IC AQUAFIL 10mL balloon 18Ch D236518S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+695,p8XJ.,Uard,BARDEX IC AQUAFIL 10mL balloon 20Ch D236520S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+696,p8XK.,Uard,BARDEX IC AQUAFIL 10mL balloon 22Ch D236522S 2-way prefilled male length urethral catheter with hydrogel and Bacti-Guard silver alloy coating,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+697,ph24.,Uard,HYPOGUARD 1mL U100 insulin syringe,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+698,ph29.,Uard,HYPOGUARD 1mL U100 click/count syringe,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+699,ph2A.,Uard,HYPOGUARD 1mL U100 pre-set syringe,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+700,ph7G.,Univer,UNILET UNIVERSAL COMFORTOUCH 0.45mm(26gauge) lancet,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+701,ph7Z.,Uard,HYPOGUARD SUPREME 0.36mm(28gauge) lancet,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+702,ph9n.,Univer,MICRODOT UNIVERSAL 1.8mm(26gauge) lancet,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+703,ph9x.,Univer,MEDLANCE PLUS UNIVERSAL 1.8mm(21gauge) lancet,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+704,phD2.,Univer,ACTI-LANCE UNIVERSAL 1.8mm(23gauge) lancet,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+705,puh4.,Uard,HYPOGUARD GA blood glucose testing strip x50,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+706,puh6.,Uard,HYPOGUARD SUPREME blood glucose testing strip x50,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+707,puhL.,Uard,HYPOGUARD SUPREME SPECTRUM blood glucose testing strip x50,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+708,q5l..,Univer,UNIVERSAL HOSP LEG BAG,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+709,s223.,Univer,HOLLISTER UNIVERSAL 7760 stoma adhesive remover wipes,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+710,se55.,Uard,GUARDIAN IRRIGATOR 38mm/4803 x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+711,se56.,Uard,GUARDIAN IRRIGATOR 51mm/4804 x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+712,se57.,Uard,GUARDIAN IRRIGATOR 64mm/4805 x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+713,se58.,Uard,GUARDIAN IRRIGATOR 102mm/4806 x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+714,sgi1.,Uard,OSTOGUARD RMC1 barrier cream 60g,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+715,sgi2.,Uard,OSTOGUARD RMC2 barrier cream 2g sachets,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+716,sgi6.,Uard,OSTOGUARD RMC3 barrier film sachet 3mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+717,sgi7.,Uard,OSTOGUARD RMC4 barrier film 30mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+718,sgi8.,Uard,OSTOGUARD RMC5 barrier film 50mL,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+719,sj35.,Univer,HOLLISTER 9779 universal catheter access port,Verapamil Hydrochloride,,,calcium-channel blocker,True,False
+720,sk42.,Uard,GUARDIAN ILEO 102mm/4606 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+721,sk47.,Uard,*GUARDIAN 25mm/4402 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+722,sk48.,Uard,*GUARDIAN 38mm/4403 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+723,sk49.,Uard,*GUARDIAN 51mm/4404 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+724,sk4a.,Uard,*GUARDIAN 64mm/4405 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+725,sk4A.,Uard,GUARDIAN 25mm/4522 mini opaque closed pouch+filter two-piece ostomy system,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+726,sk4b.,Uard,*GUARDIAN 102mm/4406 flangesx5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+727,sk4B.,Uard,GUARDIAN COLO 38mm/4523 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+728,sk4c.,Uard,GUARDIAN COLO 38mm/4513 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+729,sk4C.,Uard,GUARDIAN COLO 51mm/4524 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+730,sk4d.,Uard,GUARDIAN COLO 51mm/4514 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+731,sk4D.,Uard,GUARDIAN COLO 64mm/4525 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+732,sk4e.,Uard,GUARDIAN COLO 64mm/4515 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+733,sk4f.,Uard,GUARDIAN UROST 25mm/4702 pouch,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+734,sk4F.,Uard,*GUARDIAN 38mm/4303 stoma cap,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+735,sk4g.,Uard,GUARDIAN UROST 38mm/4703 pouch,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+736,sk4G.,Uard,*GUARDIAN 51mm/4304 stoma cap,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+737,sk4h.,Uard,GUARDIAN UROST 51mm/4704 pouch,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+738,sk4H.,Uard,*GUARDIAN 64mm/4305 stoma cap,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+739,sk4i.,Uard,GUARDIAN COLO 38mm/4503 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+740,sk4j.,Uard,GUARDIAN COLO 51mm/4504 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+741,sk4J.,Uard,*GUARDIAN 25mm/4422 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+742,sk4k.,Uard,GUARDIAN COLO 64mm/4505 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+743,sk4K.,Uard,*GUARDIAN 38mm/4423 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+744,sk4l.,Uard,GUARDIAN ILEO 25mm/4602 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+745,sk4L.,Uard,*GUARDIAN 51mm/4424 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+746,sk4m.,Uard,GUARDIAN ILEO 38mm/4603 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+747,sk4M.,Uard,*GUARDIAN 64mm/4425 flanges x5,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+748,sk4n.,Uard,GUARDIAN ILEO 51mm/4604 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+749,sk4o.,Uard,GUARDIAN ILEO 64mm/4605 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+750,sk4p.,Uard,GUARDIAN ILEO 25mm/4612 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+751,sk4q.,Uard,GUARDIAN ILEO 38mm/4613 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+752,sk4r.,Uard,GUARDIAN ILEO 51mm/4614 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+753,sk4s.,Uard,GUARDIAN ILEO 64mm/4615 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+754,sk4t.,Uard,GUARDIAN ILEO 25mm/4642 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+755,sk4u.,Uard,GUARDIAN ILEO 38mm/4643 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+756,sk4v.,Uard,GUARDIAN ILEO 51mm/4644 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+757,sk4w.,Uard,GUARDIAN ILEO 64mm/4645 pouches,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+758,sk4x.,Uard,*GUARDIAN 420 belt adaptor x10,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+759,sk4y.,Uard,GUARDIAN 25mm/4502 clear closed pouch two-piece ostomy system,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+760,sk4z.,Uard,GUARDIAN 25mm/4512 opaque closed pouch two-piece ostomy system,Diltiazem Hydrochloride,,,calcium-channel blocker,True,False
+761,b21..,Bendroflumethiazide,BENDROFLUMETHIAZIDE,Bendroflumethiazide,,,diuretic,False,True
+762,b211.,Bendroflumethiazide,BENDROFLUMETHIAZIDE 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+763,b212.,Bendroflumethiazide,BENDROFLUMETHIAZIDE 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+764,b213.,Aprinox,APRINOX 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+765,b214.,Aprinox,APRINOX 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+766,b215.,Berkozide,*BERKOZIDE 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+767,b216.,Berkozide,*BERKOZIDE 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+768,b217.,Centyl,*CENTYL 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+769,b218.,Centyl,*CENTYL 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+770,b219.,Neo-Naclex,NEO-NACLEX 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+771,b21a.,Urizide,*URIZIDE 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+772,b21A.,Neo-Bendromax,*NEO-BENDROMAX 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+773,b21b.,Neo-Naclex,NEO-NACLEX 2.5mg tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+774,b21B.,Neo-Bendromax,*NEO-BENDROMAX 5mg tablets,Bendroflumethiazide,,5 mg,diuretic,False,True
+775,b22..,Chloroth,CHLOROTHIAZIDE,Chlorothiazide,,,diuretic,False,True
+776,b221.,Saluric,*SALURIC 500mg tablets,Chlorothiazide,,500 mg,diuretic,False,True
+777,b222.,Diuril,DIURIL 250mg/5mL oral suspension,Chlorothiazide,,250 mg/5 ml,diuretic,False,True
+778,b22y.,Chloroth,CHLOROTHIAZIDE 250mg/5mL oral suspension,Chlorothiazide,,250 mg/5 ml,diuretic,False,True
+779,b22z.,Chloroth,*CHLOROTHIAZIDE 500mg tablets,Chlorothiazide,,500 mg,diuretic,False,True
+780,b23..,Chlortalidone,CHLORTALIDONE,Chlortalidone,,,diuretic,False,True
+781,b231.,Hygroton,HYGROTON 50mg tablets,Chlortalidone,,50 mg,diuretic,False,True
+782,b232.,Hygroton,*HYGROTON 100mg tablets,Chlortalidone,,100 mg,diuretic,False,True
+783,b23y.,Chlortalidone,CHLORTALIDONE 50mg tablets,Chlortalidone,,50 mg,diuretic,False,True
+784,b25..,Cyclopenth,CYCLOPENTHIAZIDE,Cyclopenthiazide,,,diuretic,False,True
+785,b251.,Navidrex,NAVIDREX 500micrograms tablets,Cyclopenthiazide,,,diuretic,False,True
+786,b25z.,Cyclopenth,CYCLOPENTHIAZIDE 500microgram tablets,Cyclopenthiazide,,,diuretic,False,True
+787,b26..,Chloroth,HYDROCHLOROTHIAZIDE,Chlorothiazide,,,diuretic,False,True
+788,b261.,Esidrex,*ESIDREX 25mg tablets,Hydrochlorothiazide,,25 mg,diuretic,False,True
+789,b262.,Esidrex,*ESIDREX 50mg tablets,Hydrochlorothiazide,,50 mg,diuretic,False,True
+790,b263.,Saluric,*HYDROSALURIC 25mg tablets,Chlorothiazide,,25 mg,diuretic,False,True
+791,b264.,Saluric,*HYDROSALURIC 50mg tablets,Chlorothiazide,,50 mg,diuretic,False,True
+792,b26y.,Chloroth,HYDROCHLOROTHIAZIDE 50mg tablets,Chlorothiazide,,50 mg,diuretic,False,True
+793,b26z.,Chloroth,HYDROCHLOROTHIAZIDE 25mg tablets,Chlorothiazide,,25 mg,diuretic,False,True
+794,b27..,Hydroflumet,HYDROFLUMETHIAZIDE,Hydroflumethiazide,,,diuretic,False,True
+795,b271.,Hydrenox,*HYDRENOX 50mg tablets,Hydroflumethiazide,,50 mg,diuretic,False,True
+796,b27z.,Hydroflumet,HYDROFLUMETHIAZIDE 50mg tablets,Hydroflumethiazide,,50 mg,diuretic,False,True
+797,b28..,Indapamide,INDAPAMIDE,Indapamide,,,diuretic,False,True
+798,b281.,Natrilix,NATRILIX 2.5mg tablets,Indapamide,,2.5 mg,diuretic,False,True
+799,b282.,Indaxa 2.5,*NINDAXA 2.5mg tablets,Indapamide,,2.5 mg,diuretic,False,True
+800,b283.,Natramid,*NATRAMID 2.5mg tablets,Indapamide,,2.5 mg,diuretic,False,True
+801,b284.,Opumide,*OPUMIDE 2.5mg tablets,Indapamide,,2.5 mg,diuretic,False,True
+802,b285.,Indapamide,INDAPAMIDE 1.5mg m/r tablets,Indapamide,,1.5 mg,diuretic,False,True
+803,b286.,Natrilix,NATRILIX SR 1.5mg m/r tablets,Indapamide,,1.5 mg,diuretic,False,True
+804,b287.,Ethibide XL,ETHIBIDE XL 1.5mg m/r tablets,Indapamide,,1.5 mg,diuretic,False,True
+805,b288.,Indipam XL,INDIPAM XL 1.5mg m/r tablets,Indapamide,,1.5 mg,diuretic,False,True
+806,b289.,Mapemid,MAPEMID XL 1.5mg m/r tablets,Indapamide,,1.5 mg,diuretic,False,True
+807,b28z.,Indapamide,INDAPAMIDE 2.5mg tablets,Indapamide,,2.5 mg,diuretic,False,True
+808,b29..,Mefruside,MEFRUSIDE,Mefruside,,,diuretic,False,True
+809,b291.,Baycaron,*BAYCARON 25mg tablets,Mefruside,,25 mg,diuretic,False,True
+810,b29z.,Mefruside,*MEFRUSIDE 25mg tablets,Mefruside,,25 mg,diuretic,False,True
+811,b2a..,Methyclothiazide,*METHYCLOTHIAZIDE,Methyclothiazide,,,diuretic,False,True
+812,b2a1.,Enduron,*ENDURON 5mg tablets,Methyclothiazide,,5 mg,diuretic,False,True
+813,b2az.,Methyclothiazide,*METHYCLOTHIAZIDE 5mg tablets,Methyclothiazide,,5 mg,diuretic,False,True
+814,b2b..,Metolazone,METOLAZONE,Metolazone,,,diuretic,False,True
+815,b2b1.,Metenix,*METENIX-5 5mg tablets,Metolazone,,5 mg,diuretic,False,True
+816,b2b2.,Xuret,*XURET 500micrograms tablets,Metolazone,,,diuretic,False,True
+817,b2b3.,Metolazone,METOLAZONE 500micrograms tablets,Metolazone,,,diuretic,False,True
+818,b2bz.,Metolazone,*METOLAZONE 5mg tablets,Metolazone,,5 mg,diuretic,False,True
+819,b2c..,Polythiazide,POLYTHIAZIDE,Polythiazide,,,diuretic,False,True
+820,b2c1.,Nephril,*NEPHRIL 1mg tablets,Polythiazide,,1 mg,diuretic,False,True
+821,b2cz.,Polythiazide,*POLYTHIAZIDE 1mg tablets,Polythiazide,,1 mg,diuretic,False,True
+822,b2d..,Xipamide,XIPAMIDE,Xipamide,,,diuretic,False,True
+823,b2d1.,Diurexan,DIUREXAN 20mg tablets,Xipamide,,20 mg,diuretic,False,True
+824,b2dz.,Xipamide,XIPAMIDE 20mg tablets,Xipamide,,20 mg,diuretic,False,True
+825,b31..,Furosemide,FUROSEMIDE,Furosemide,,,diuretic,False,True
+826,b311.,Furosemide,FUROSEMIDE 20mg tablets,Furosemide,,20 mg,diuretic,False,True
+827,b312.,Furosemide,FUROSEMIDE 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+828,b313.,Furosemide,FUROSEMIDE 500mg tablets,Furosemide,,500 mg,diuretic,False,True
+829,b314.,Aluzine,*ALUZINE 20mg tablets,Furosemide,,20 mg,diuretic,False,True
+830,b315.,Aluzine,*ALUZINE 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+831,b316.,Aluzine,*ALUZINE 500mg tablets,Furosemide,,500 mg,diuretic,False,True
+832,b317.,Diuresal,*DIURESAL 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+833,b318.,Diuresal,*DIURESAL 20mg/2mL injection,Furosemide,,20 mg/2 ml,diuretic,False,True
+834,b319.,Diuresal,*DIURESAL 50mg/5mL injection,Furosemide,,50 mg/5 ml,diuretic,False,True
+835,b31a.,Dryptal,*DRYPTAL 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+836,b31b.,Dryptal,*DRYPTAL 500mg tablets,Furosemide,,500 mg,diuretic,False,True
+837,b31c.,Dryptal,*DRYPTAL 20mg/2mL injection,Furosemide,,20 mg/2 ml,diuretic,False,True
+838,b31C.,Furosemide,FUROSEMIDE 80mg/8mL prefilled syringe,Furosemide,,80 mg/8 ml,diuretic,False,True
+839,b31d.,Dryptal,*DRYPTAL 50mg/5mL injection,Furosemide,,50 mg/5 ml,diuretic,False,True
+840,b31e.,Dryptal,*DRYPTAL 250mg/25mL injection,Furosemide,,250 mg/25 ml,diuretic,False,True
+841,b31E.,Froop,FROOP 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+842,b31f.,Frusetic,*FRUSETIC 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+843,b31F.,Frusol,FRUSOL 20mg/5mL sugar free oral solution,Furosemide,,20 mg/5 ml,diuretic,False,True
+844,b31g.,Frusid,*FRUSID 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+845,b31G.,Frusol,FRUSOL 40mg/5mL sugar free oral solution,Furosemide,,40 mg/5 ml,diuretic,False,True
+846,b31h.,Lasix,*LASIX 20mg tablets,Furosemide,,20 mg,diuretic,False,True
+847,b31H.,Frusol,FRUSOL 50mg/5mL sugar free oral solution,Furosemide,,50 mg/5 ml,diuretic,False,True
+848,b31i.,Lasix,*LASIX 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+849,b31j.,Lasix,*LASIX 500mg tablets,Furosemide,,500 mg,diuretic,False,True
+850,b31k.,Lasix,LASIX PAEDIATRIC 1mg/1mL liquid,Furosemide,,1 mg/1 ml,diuretic,False,True
+851,b31l.,Lasix,LASIX 20mg/2mL injection,Furosemide,,20 mg/2 ml,diuretic,False,True
+852,b31m.,Lasix,*LASIX 50mg/5mL injection,Furosemide,,50 mg/5 ml,diuretic,False,True
+853,b31n.,Lasix,*LASIX 250mg/25mL injection,Furosemide,,250 mg/25 ml,diuretic,False,True
+854,b31o.,Frumax,*FRUMAX 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+855,b31p.,Rusyde,*RUSYDE 20mg tablets,Furosemide,,20 mg,diuretic,False,True
+856,b31q.,Rusyde,*RUSYDE 40mg tablets,Furosemide,,40 mg,diuretic,False,True
+857,b31r.,Furosemide,FUROSEMIDE 20mg/5mL sugar free solution,Furosemide,,20 mg/5 ml,diuretic,False,True
+858,b31s.,Furosemide,FUROSEMIDE 40mg/5mL sugar free solution,Furosemide,,40 mg/5 ml,diuretic,False,True
+859,b31t.,Furosemide,FUROSEMIDE 50mg/5mL sugar free solution,Furosemide,,50 mg/5 ml,diuretic,False,True
+860,b31u.,Furosemide,FUROSEMIDE 50mg/5mL injection,Furosemide,,50 mg/5 ml,diuretic,False,True
+861,b31y.,Furosemide,FUROSEMIDE 20mg/2mL injection,Furosemide,,20 mg/2 ml,diuretic,False,True
+862,b31z.,Furosemide,FUROSEMIDE 250mg/25mL injection,Furosemide,,250 mg/25 ml,diuretic,False,True
+863,b32..,Bumetanide,BUMETANIDE,Bumetanide,,,diuretic,False,True
+864,b321.,Burinex,*BURINEX 1mg tablets,Bumetanide,,1 mg,diuretic,False,True
+865,b322.,Burinex,*BURINEX 5mg tablets,Bumetanide,,5 mg,diuretic,False,True
+866,b323.,Burinex,*BURINEX 1mg/5mL liquid,Bumetanide,,1 mg/5 ml,diuretic,False,True
+867,b324.,Burinex,*BURINEX 1mg/2mL injection,Bumetanide,,1 mg/2 ml,diuretic,False,True
+868,b325.,Burinex,*BURINEX 2mg/4mL injection,Bumetanide,,2 mg/4 ml,diuretic,False,True
+869,b326.,Burinex,*BURINEX 5mg/10mL injection,Bumetanide,,5 mg/10 ml,diuretic,False,True
+870,b327.,Betinex,*BETINEX 1mg tablets,Bumetanide,,1 mg,diuretic,False,True
+871,b328.,Betinex,*BETINEX 5mg tablets,Bumetanide,,5 mg,diuretic,False,True
+872,b32u.,Bumetanide,BUMETANIDE 1mg tablets,Bumetanide,,1 mg,diuretic,False,True
+873,b32v.,Bumetanide,BUMETANIDE 5mg tablets,Bumetanide,,5 mg,diuretic,False,True
+874,b32w.,Bumetanide,BUMETANIDE 1mg/5mL liquid,Bumetanide,,1 mg/5 ml,diuretic,False,True
+875,b32x.,Bumetanide,*BUMETANIDE 1mg/2mL injection,Bumetanide,,1 mg/2 ml,diuretic,False,True
+876,b32y.,Bumetanide,BUMETANIDE 2mg/4mL injection,Bumetanide,,2 mg/4 ml,diuretic,False,True
+877,b32z.,Bumetanide,*BUMETANIDE 5mg/10mL injection,Bumetanide,,5 mg/10 ml,diuretic,False,True
+878,b33..,Etacrynic Acid,ETACRYNIC ACID,Etacrynic Acid,,,diuretic,False,True
+879,b331.,Edecrin,*EDECRIN 50mg tablets,Etacrynic Acid,,50 mg,diuretic,False,True
+880,b332.,Edecrin,*EDECRIN 50mg injection,Etacrynic Acid,,50 mg,diuretic,False,True
+881,b34..,Piretanide,PIRETANIDE,Piretanide,,,diuretic,False,True
+882,b341.,Arelix,*ARELIX 6mg m/r capsules,Piretanide,,6 mg,diuretic,False,True
+883,b34z.,Piretanide,*PIRETANIDE 6mg m/r capsules,Piretanide,,6 mg,diuretic,False,True
+884,b35..,Torasemide,TORASEMIDE,Torasemide,,,diuretic,False,True
+885,b351.,Torem,TOREM 2.5mg tablets,Torasemide,,2.5 mg,diuretic,False,True
+886,b352.,Torem,TOREM 5mg tablets,Torasemide,,5 mg,diuretic,False,True
+887,b353.,Torem,TOREM 10mg tablets,Torasemide,,10 mg,diuretic,False,True
+888,b354.,Torem,*TOREM 10mg/2mL injection,Torasemide,,10 mg/2 ml,diuretic,False,True
+889,b355.,Torem,*TOREM 20mg/4mL injection,Torasemide,,20 mg/4 ml,diuretic,False,True
+890,b356.,Torasemide,TORASEMIDE 2.5mg tablets,Torasemide,,2.5 mg,diuretic,False,True
+891,b357.,Torasemide,TORASEMIDE 5mg tablets,Torasemide,,5 mg,diuretic,False,True
+892,b358.,Torasemide,TORASEMIDE 10mg tablets,Torasemide,,10 mg,diuretic,False,True
+893,b359.,Torasemide,*TORASEMIDE 10mg/2mL injection,Torasemide,,10 mg/2 ml,diuretic,False,True
+894,b35A.,Torasemide,*TORASEMIDE 20mg/4mL injection,Torasemide,,20 mg/4 ml,diuretic,False,True
+895,b41..,Amiloride Hydrochloride,AMILORIDE HYDROCHLORIDE,Amiloride Hydrochloride,,,diuretic,False,True
+896,b411.,Midamor,*MIDAMOR 5mg tablets,Amiloride Hydrochloride,,5 mg,diuretic,False,True
+897,b412.,Amilospare,*AMILOSPARE 5mg tablets,Amiloride Hydrochloride,,5 mg,diuretic,False,True
+898,b414.,Berkamil,*BERKAMIL 5mg tablets,Amiloride Hydrochloride,,5 mg,diuretic,False,True
+899,b415.,Amilamont,AMILAMONT 5mg/5mL sugar free oral solution,Amiloride Hydrochloride,,5 mg/5 ml,diuretic,False,True
+900,b41z.,Amiloride HCl,AMILORIDE HCL 5mg tablets,Amiloride Hydrochloride,,5 mg,diuretic,False,True
+901,b42..,Potassium Canrenoate,POTASSIUM CANRENOATE,Potassium Canrenoate,,,diuretic,False,True
+902,b421.,Spiroctan-M,SPIROCTAN-M 200mg/10mL injection,Potassium Canrenoate,,200 mg/10 ml,diuretic,False,True
+903,b42z.,Potassium Canrenoate,POTASSIUM CANRENOATE 200mg/10mL injection,Potassium Canrenoate,,200 mg/10 ml,diuretic,False,True
+904,b43..,Spironol,SPIRONOLACTONE,Spironolactone,,,diuretic,False,True
+905,b431.,Spironol,SPIRONOLACTONE 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+906,b432.,Spironol,SPIRONOLACTONE 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+907,b433.,Spironol,SPIRONOLACTONE 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+908,b434.,Aldactone,ALDACTONE 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+909,b435.,Aldactone,ALDACTONE 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+910,b436.,Aldactone,ALDACTONE 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+911,b437.,Diatensec,*DIATENSEC 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+912,b438.,Laractone,*LARACTONE 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+913,b439.,Laractone,*LARACTONE 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+914,b43a.,Spiretic,SPIRETIC 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+915,b43A.,Spirospare,*SPIROSPARE 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+916,b43b.,Spiretic,SPIRETIC 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+917,b43c.,Spiroctan,*SPIROCTAN 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+918,b43d.,Spiroctan,*SPIROCTAN 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+919,b43e.,Spiroctan,*SPIROCTAN 100mg capsules,Spironolactone,,100 mg,diuretic,False,True
+920,b43f.,Spirolone,*SPIROLONE 25mg tablets,Spironolactone,,25 mg,diuretic,False,True
+921,b43g.,Spirolone,*SPIROLONE 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+922,b43h.,Spirolone,*SPIROLONE 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+923,b43i.,Laractone,*LARACTONE 50mg tablets,Spironolactone,,50 mg,diuretic,False,True
+924,b43j.,Spirospare,*SPIROSPARE 100mg tablets,Spironolactone,,100 mg,diuretic,False,True
+925,b43k.,Spironol,SPIRONOLACTONE 5mg/5mL oral suspension,Spironolactone,,5 mg/5 ml,diuretic,False,True
+926,b43l.,Spironol,SPIRONOLACTONE 10mg/5mL oral suspension,Spironolactone,,10 mg/5 ml,diuretic,False,True
+927,b43m.,Spironol,SPIRONOLACTONE 25mg/5mL oral suspension,Spironolactone,,25 mg/5 ml,diuretic,False,True
+928,b43n.,Spironol,SPIRONOLACTONE 50mg/5mL oral suspension,Spironolactone,,50 mg/5 ml,diuretic,False,True
+929,b43z.,Spironol,*SPIRONOLACTONE 100mg capsules,Spironolactone,,100 mg,diuretic,False,True
+930,b44..,Triamterene,TRIAMTERENE,Triamterene,,,diuretic,False,True
+931,b441.,Dytac,DYTAC 50mg capsules,Triamterene,,50 mg,diuretic,False,True
+932,b44z.,Triamterene,TRIAMTERENE 50mg capsules,Triamterene,,50 mg,diuretic,False,True
+933,b45..,Eplerenone,EPLERENONE,Eplerenone,,,diuretic,False,True
+934,b451.,Inspra,INSPRA 25mg tablets,Eplerenone,,25 mg,diuretic,False,True
+935,b452.,Inspra,INSPRA 50mg tablets,Eplerenone,,50 mg,diuretic,False,True
+936,b45y.,Eplerenone,EPLERENONE 50mg tablets,Eplerenone,,50 mg,diuretic,False,True
+937,b45z.,Eplerenone,EPLERENONE 25mg tablets,Eplerenone,,25 mg,diuretic,False,True
+938,b511.,Aldactide,ALDACTIDE-25 tablets,Co-Flumactone (Hydroflumeth/Spironol),25.0,,diuretic,False,True
+939,b512.,Aldactide,ALDACTIDE-50 tablets,Co-Flumactone (Hydroflumeth/Spironol),50.0,,diuretic,False,True
+940,b514.,Dyazide,DYAZIDE tablets,Co-Triamterzide(Triamterene/Hydchloroth),,,diuretic,False,True
+941,b515.,Dytide,*DYTIDE capsules,Triamterene With Thiazides,,,diuretic,False,True
+942,b517.,Frusene,FRUSENE tablets,Triamterene With Loop Diuretics,,,diuretic,False,True
+943,b518.,Kalspare,KALSPARE tablets,Triamterene With Thiazides,,,diuretic,False,True
+944,b519.,Lasilactone,LASILACTONE capsules,Spironolactone With Loop Diuretics,,,diuretic,False,True
+945,b51b.,Moduretic,MODURETIC tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,,diuretic,False,True
+946,b51B.,Fru-Co,*FRU-CO 40/5mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,5 mg,diuretic,False,True
+947,b51c.,Moduretic,*MODURETIC mixture,Co-Amilozide (Amiloride HCl/Hydchloroth),,,diuretic,False,True
+948,b51C.,Cyclopenth,AMILORIDE HCL+CYCLOPENTHIAZIDE 2.5mg/250micrograms tablets,Cyclopenthiazide,,2.5 mg,diuretic,False,True
+949,b51d.,Normetic,*NORMETIC tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,,diuretic,False,True
+950,b51D.,Bumetanide,AMILORIDE HCL+BUMETANIDE 5mg/1mg tablets,Bumetanide,,5 mg,diuretic,False,True
+951,b51e.,Synuretic,*SYNURETIC tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,,diuretic,False,True
+952,b51E.,Triamterene,TRIAMTERENE+BENZTHIAZIDE 50mg/25mg capsules,Triamterene,,50 mg,diuretic,False,True
+953,b51F.,Triamterene,TRIAMTERENE+CHLORTHALIDONE 50mg/25mg tablets,Triamterene,,50 mg,diuretic,False,True
+954,b51G.,Chlortalidone,TRIAMTERENE+CHLORTALIDONE 50mg/50mg tablets,Chlortalidone,,50 mg,diuretic,False,True
+955,b51h.,Lasoride,*LASORIDE tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,,diuretic,False,True
+956,b51H.,Furosemide,TRIAMTERENE+FUROSEMIDE 50mg/40mg tablets,Furosemide,,50 mg,diuretic,False,True
+957,b51i.,Co-Amilofruse,*CO-AMILOFRUSE tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,,diuretic,False,True
+958,b51j.,Co-Amilozide,CO-AMILOZIDE 2.5/25mg tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,25 mg,diuretic,False,True
+959,b51J.,Furosemide,SPIRONOLACTONE+FUROSEMIDE 50mg/20mg capsules,Furosemide,,50 mg,diuretic,False,True
+960,b51k.,Co-Amilozide,CO-AMILOZIDE 5/50mg tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,50 mg,diuretic,False,True
+961,b51K.,Delvas,*DELVAS tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,,diuretic,False,True
+962,b51l.,Co-Amilozide,CO-AMILOZIDE 5mg/50mg/5mL mixture,Co-Amilozide (Amiloride HCl/Hydchloroth),,50 mg/5 ml,diuretic,False,True
+963,b51L.,Aridil,*ARIDIL 2.5mg/20mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,2.5 mg,diuretic,False,True
+964,b51m.,Co-Amilozide,VASETIC CO-AMILOZIDE 5/50mg tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,50 mg,diuretic,False,True
+965,b51M.,Aridil,*ARIDIL 5mg/40mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,5 mg,diuretic,False,True
+966,b51n.,Frusene,*FRUSENE tablets 56CP,Triamterene With Loop Diuretics,,,diuretic,False,True
+967,b51N.,Aridil,*ARIDIL 10mg/80mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,10 mg,diuretic,False,True
+968,b51O.,Spiro-Co,*SPIRO-CO 25mg tablets,Co-Flumactone (Hydroflumeth/Spironol),,25 mg,diuretic,False,True
+969,b51p.,Co-Flumactone,CO-FLUMACTONE-25 tablets,Co-Flumactone (Hydroflumeth/Spironol),25.0,,diuretic,False,True
+970,b51P.,Spiro-Co,*SPIRO-CO 50mg tablets,Co-Flumactone (Hydroflumeth/Spironol),,50 mg,diuretic,False,True
+971,b51q.,Co-Flumactone,CO-FLUMACTONE-50 tablets,Co-Flumactone (Hydroflumeth/Spironol),50.0,,diuretic,False,True
+972,b51Q.,Zida-Co,*ZIDA-CO 5mg/50mg tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,5 mg,diuretic,False,True
+973,b51r.,Navispare,NAVISPARE 2.5/0.25mg tablets,Amiloride Hydrochloride With Thiazides,,0.25 mg,diuretic,False,True
+974,b51R.,Frusemek,*FRUSEMEK 5mg/40mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,5 mg,diuretic,False,True
+975,b51s.,Amilmaxco,*AMILMAXCO 5/50 tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),50.0,,diuretic,False,True
+976,b51S.,Froop,*FROOP CO 5mg/40mg tablets,Furosemide,,5 mg,diuretic,False,True
+977,b51t.,Burinex,*BURINEX A tablets,Bumetanide,,,diuretic,False,True
+978,b51T.,Komil,*KOMIL 5/40 tablets,Co-Amilofruse (Amiloride HCl/Frusemide),40.0,,diuretic,False,True
+979,b51v.,Triamaxco 50/25,*TRIAMAXCO 50/25mg tablets,Co-Triamterzide(Triamterene/Hydchloroth),,25 mg,diuretic,False,True
+980,b51w.,Kalspare,*KALSPARE LS tablets,Triamterene With Thiazides,,,diuretic,False,True
+981,b51x.,Co-Amilofruse,CO-AMILOFRUSE 2.5/20mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,20 mg,diuretic,False,True
+982,b51y.,Co-Amilofruse,CO-AMILOFRUSE 5/40mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,40 mg,diuretic,False,True
+983,b51z.,Co-Amilofruse,CO-AMILOFRUSE 10/80mg tablets,Co-Amilofruse (Amiloride HCl/Frusemide),,80 mg,diuretic,False,True
+984,b61..,Mannitol,MANNITOL,Mannitol,,,diuretic,False,True
+985,b611.,Mannitol,MANNITOL 10% intravenous infusion 500mL,Mannitol,,,diuretic,False,True
+986,b612.,Mannitol,MANNITOL 20% intravenous infusion 250mL,Mannitol,,,diuretic,False,True
+987,b613.,Mannitol,MANNITOL 20% intravenous infusion 500mL,Mannitol,,,diuretic,False,True
+988,b614.,Mannitol,MANNITOL 25% intravenous infusion 50mL,Mannitol,,,diuretic,False,True
+989,b619.,Mannitol,MIN-I-JET MANNITOL 25% injection 50mL,Mannitol,,,diuretic,False,True
+990,b61A.,Mannitol,MANNITOL 25% prefilled syringe 50mL,Mannitol,,,diuretic,False,True
+991,b61C.,Mannitol,MANNITOL 40mg powder for inhalation capsules,Mannitol,,40 mg,diuretic,False,True
+992,b912.,Burinex,*BURINEX K tablets,Bumetanide,,,diuretic,False,True
+993,b913.,Centyl,*CENTYL K m/r tablets,Bendroflumethiazide,,,diuretic,False,True
+994,b914.,Diumide-K Continus,*DIUMIDE-K CONTINUS tablets,Furosemide/Potassium,,,diuretic,False,True
+995,b915.,Esidrex,*ESIDREX K tablets,Hydrochlorothiazide,,,diuretic,False,True
+996,b916.,Hygroton,HYGROTON K tablets combination pack,Chlortalidone,,,diuretic,False,True
+997,b917.,Lasikal,*LASIKAL tablets,Furosemide/Potassium,,,diuretic,False,True
+998,b918.,Lasix,LASIX+K tablets 30day-CP combination pack,Furosemide,,,diuretic,False,True
+999,b919.,Navidrex,*NAVIDREX-K tablets,Cyclopenthiazide,,,diuretic,False,True
+1000,b91a.,Neo-Naclex,NEO-NACLEX-K tablets,Bendroflumethiazide,,,diuretic,False,True
+1001,b91b.,Bumetanide,BUMETANIDE+POTASSIUM 500micrograms/7.7mmol m/r tablets,Bumetanide,,,diuretic,False,True
+1002,b91c.,Bendroflumethiazide,BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/7.7mmol m/r tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+1003,b91f.,Furosemide,FUROSEMIDE+POTASSIUM 20mg/10mmol m/r tablets,Furosemide,,20 mg,diuretic,False,True
+1004,b91h.,Bendroflumethiazide,BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/8.4mmol m/r tablets,Bendroflumethiazide,,2.5 mg,diuretic,False,True
+1005,bdeA.,Chloroth,METOPROLOL TART+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets,Chlorothiazide,,100 mg,diuretic,False,True
+1006,bdeB.,Chloroth,METOPROLOL TART+HYDROCHLOROTHIAZIDE 200mg/25mg m/r tablets,Chlorothiazide,,200 mg,diuretic,False,True
+1007,bdeD.,Bendroflumethiazide,NADOLOL+BENDROFLUMETHIAZIDE 40mg/5mg tablets,Bendroflumethiazide,,40 mg,diuretic,False,True
+1008,bdeH.,Chloroth,SOTALOL HCL+HYDROCHLOROTHIAZIDE 160mg/25mg tablets,Chlorothiazide,,160 mg,diuretic,False,True
+1009,bdeJ.,Chloroth,SOTALOL HCL+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Chlorothiazide,,80 mg,diuretic,False,True
+1010,bdeK.,Co-Amilozide,TIMOLOL MALEATE+CO-AMILOZIDE 10mg/2.5mg/25mg tablets,Co-Amilozide (Amiloride HCl/Hydchloroth),,10 mg,diuretic,False,True
+1011,bdeL.,Bendroflumethiazide,TIMOLOL MALEATE+BENDROFLUMETHIAZIDE 10mg/2.5mg tablets,Bendroflumethiazide,,10 mg,diuretic,False,True
+1012,bdex.,Chloroth,ACEBUTOLOL+HYDROCHLOROTHIAZIDE 200mg/12.5mg tablets,Chlorothiazide,,200 mg,diuretic,False,True
+1013,bdey.,Co-Amilozide,ATENOLOL+CO-AMILOZIDE 50mg/2.5mg/25mg capsules,Co-Amilozide (Amiloride HCl/Hydchloroth),,50 mg,diuretic,False,True
+1014,bdf8.,Chloroth,BISOPROLOL FUMARATE+HYDROCHLOROTHIAZIDE 10mg/6.25mg tablets,Chlorothiazide,,10 mg,diuretic,False,True
+1015,bf2j.,Chloroth,METHYLDOPA+HYDROCHLOROTHIAZIDE 250mg/15mg tablets,Chlorothiazide,,250 mg,diuretic,False,True
+1016,bf3c.,Esidrex,*SERPASIL-ESIDREX tablets,Hydrochlorothiazide,,,diuretic,False,True
+1017,bi1e.,Chloroth,CAPTOPRIL+HYDROCHLOROTHIAZIDE 25mg/12.5mg tablets,Chlorothiazide,,25 mg,diuretic,False,True
+1018,bi1f.,Chloroth,CAPTOPRIL+HYDROCHLOROTHIAZIDE 50mg/25mg tablets,Chlorothiazide,,50 mg,diuretic,False,True
+1019,bi2b.,Chloroth,ENALAPRIL MALEATE+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Chlorothiazide,,20 mg,diuretic,False,True
+1020,bi3p.,Chloroth,LISINOPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Chlorothiazide,,20 mg,diuretic,False,True
+1021,bi3t.,Chloroth,LISINOPRIL+HYDROCHLOROTHIAZIDE 10mg/12.5mg tablets,Chlorothiazide,,10 mg,diuretic,False,True
+1022,bi48.,Chloroth,QUINAPRIL+HYDROCHLOROTHIAZIDE 10/12.5mg tablets,Chlorothiazide,,12.5 mg,diuretic,False,True
+1023,bi4F.,Chloroth,QUINAPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Chlorothiazide,,20 mg,diuretic,False,True
+1024,bi55.,Indapamide,PERINDOPRIL ERBUMINE+INDAPAMIDE 4mg/1.25mg tablets,Indapamide,,4 mg,diuretic,False,True
+1025,biC8.,Indapamide,PERINDOPRIL ARGININE+INDAPAMIDE 5mg/1.25mg tablets,Indapamide,,5 mg,diuretic,False,True
+1026,bk35.,Chloroth,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 50mg/12.5mg tablets,Chlorothiazide,,50 mg,diuretic,False,True
+1027,bk3y.,Chloroth,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets,Chlorothiazide,,100 mg,diuretic,False,True
+1028,bk3z.,Chloroth,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/25mg tablets,Chlorothiazide,,100 mg,diuretic,False,True
+1029,bk4x.,Chloroth,VALSARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Chlorothiazide,,80 mg,diuretic,False,True
+1030,bk4y.,Chloroth,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/25mg tablets,Chlorothiazide,,160 mg,diuretic,False,True
+1031,bk4z.,Chloroth,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/12.5mg tablets,Chlorothiazide,,160 mg,diuretic,False,True
+1032,bk5x.,Chloroth,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/25mg tablets,Chlorothiazide,,300 mg,diuretic,False,True
+1033,bk5y.,Chloroth,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/12.5mg tablets,Chlorothiazide,,300 mg,diuretic,False,True
+1034,bk5z.,Chloroth,IRBESARTAN+HYDROCHLOROTHIAZIDE 150mg/12.5mg tablets,Chlorothiazide,,150 mg,diuretic,False,True
+1035,bk8w.,Chloroth,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/25mg tablets,Chlorothiazide,,80 mg,diuretic,False,True
+1036,bk8x.,Chloroth,TELMISARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,Chlorothiazide,,40 mg,diuretic,False,True
+1037,bk8y.,Chloroth,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Chlorothiazide,,80 mg,diuretic,False,True
+1038,bkC..,Chloroth,HYDROCHLOROTHIAZIDE + OLMESARTAN,Chlorothiazide,,,diuretic,False,True
+1039,bkCx.,Chloroth,OLMESARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,Chlorothiazide,,40 mg,diuretic,False,True
+1040,bkCy.,Chloroth,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/25mg tablets,Chlorothiazide,,20 mg,diuretic,False,True
+1041,bkCz.,Chloroth,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Chlorothiazide,,20 mg,diuretic,False,True
+1042,bkI..,Chloroth,OLMESARTAN+AMLODIPINE+HYDROCHLOROTHIAZIDE,Chlorothiazide,,,diuretic,True,True
+1043,bl2..,Isosorbide,ISOSORBIDE DINITRATE,Isosorbide,,,diuretic,False,True
+1044,bl3..,Isosorbide,ISOSORBIDE MONONITRATE,Isosorbide,,,diuretic,False,True
+1045,bl3d.,Isosorbide,ISOSORBIDE MONONITRATE 50mg m/r capsules,Isosorbide,,50 mg,diuretic,False,True
+1046,bl3j.,Isosorbide,ISOSORBIDE MONONITRATE 40mg m/r tablets,Isosorbide,,40 mg,diuretic,False,True
+1047,bl3L.,Isosorbide,ISOSORBIDE MONONITRATE 60mg m/r capsules,Isosorbide,,60 mg,diuretic,False,True
+1048,bl3M.,Isosorbide,ISOSORBIDE MONONITRATE 40mg m/r capsules,Isosorbide,,40 mg,diuretic,False,True
+1049,bl3p.,Isosorbide,ISOSORBIDE MONONITRATE TABLETS 10mg+20mg starter pack,Isosorbide,,10 mg,diuretic,False,True
+1050,bl3u.,Isosorbide,ISOSORBIDE MONONITRATE 25mg m/r capsules,Isosorbide,,25 mg,diuretic,False,True
+1051,bl3v.,Isosorbide,ISOSORBIDE MONONITRATE 10mg tablets,Isosorbide,,10 mg,diuretic,False,True
+1052,bl3w.,Isosorbide,ISOSORBIDE MONONITRATE 20mg tablets,Isosorbide,,20 mg,diuretic,False,True
+1053,bl3x.,Isosorbide,ISOSORBIDE MONONITRATE 40mg tablets,Isosorbide,,40 mg,diuretic,False,True
+1054,bl3y.,Isosorbide,ISOSORBIDE MONONITRATE 60mg m/r tablets,Isosorbide,,60 mg,diuretic,False,True
+1055,bl3Y.,Isosorbide,ISOSORBIDE MONONITRATE 25mg m/r tablets,Isosorbide,,25 mg,diuretic,False,True
+1056,bl3z.,Isosorbide,ISOSORBIDE MONONITRATE 20mg m/r tablets,Isosorbide,,20 mg,diuretic,False,True
+1057,bl3Z.,Isosorbide,ISOSORBIDE MONONITRATE 50mg m/r tablets,Isosorbide,,50 mg,diuretic,False,True
+1058,bl5i.,Chloroth,DILTIAZEM HYDROCHLORIDE+HYDROCHLOROTHIAZIDE 150mg/12.5mg m/r capsules,Chlorothiazide,,150 mg,diuretic,True,True
+1059,blk..,Isosorbide,ISOSORBIDE MONONITRATE 2,Isosorbide,,,diuretic,False,True
+1060,blm..,Isosorbide,ISOSORBIDE MONONITRATE+ASPIRIN,Isosorbide,,,diuretic,False,True
+1061,blmy.,Isosorbide,ISOSORBIDE MONONITRATE+ASPIRIN 60mg/150mg m/r tablets,Isosorbide,,60 mg,diuretic,False,True
+1062,blmz.,Isosorbide,ISOSORBIDE MONONITRATE+ASPIRIN 60mg/75mg m/r tablets,Isosorbide,,60 mg,diuretic,False,True
+1063,bly..,Isosorbide,ISOSORBIDE DINITRATE [GENERIC ADDITIONS],Isosorbide,,,diuretic,False,True
+1064,bly1.,Isosorbide,ISOSORBIDE DINITRATE 5mg sublingual tablets,Isosorbide,,5 mg,diuretic,False,True
+1065,bly2.,Isosorbide,ISOSORBIDE DINITRATE 10mg tablets,Isosorbide,,10 mg,diuretic,False,True
+1066,bly3.,Isosorbide,ISOSORBIDE DINITRATE 20mg tablets,Isosorbide,,20 mg,diuretic,False,True
+1067,bly4.,Isosorbide,ISOSORBIDE DINITRATE 30mg tablets,Isosorbide,,30 mg,diuretic,False,True
+1068,bly5.,Isosorbide,ISOSORBIDE DINITRATE 20mg m/r tablets,Isosorbide,,20 mg,diuretic,False,True
+1069,bly6.,Isosorbide,ISOSORBIDE DINITRATE 20mg m/r capsules,Isosorbide,,20 mg,diuretic,False,True
+1070,bly7.,Isosorbide,ISOSORBIDE DINITRATE 40mg m/r capsules,Isosorbide,,40 mg,diuretic,False,True
+1071,bly8.,Isosorbide,ISOSORBIDE DINITRATE 5mg chewable tablets,Isosorbide,,5 mg,diuretic,False,True
+1072,bly9.,Isosorbide,ISOSORBIDE DINITRATE 40mg tablets,Isosorbide,,40 mg,diuretic,False,True
+1073,blya.,Isosorbide,ISOSORBIDE DINITRATE 25mg/50mL injection,Isosorbide,,25 mg/50 ml,diuretic,False,True
+1074,blyb.,Isosorbide,ISOSORBIDE DINITRATE 1.25mg spray,Isosorbide,,1.25 mg,diuretic,False,True
+1075,blyc.,Isosorbide,ISOSORBIDE DINITRATE 30mg transdermal spray,Isosorbide,,30 mg,diuretic,False,True
+1076,blyw.,Isosorbide,ISOSORBIDE DINITRATE 40mg m/r tablets,Isosorbide,,40 mg,diuretic,False,True
+1077,blyx.,Isosorbide,ISOSORBIDE DINITRATE 10mg/10mL injection,Isosorbide,,10 mg/10 ml,diuretic,False,True
+1078,blyy.,Isosorbide,ISOSORBIDE DINITRATE 50mg/50mL injection,Isosorbide,,50 mg/50 ml,diuretic,False,True
+1079,blyz.,Isosorbide,ISOSORBIDE DINITRATE 100mg/100mL injection,Isosorbide,,100 mg/100 ml,diuretic,False,True
+1080,heD..,Torem,TOREMIFENE,Torasemide,,,diuretic,False,True
+1081,heD1.,Torem,TOREMIFENE 60mg tablets,Torasemide,,60 mg,diuretic,False,True
+1082,heI..,Arelix,DEGARELIX,Piretanide,,,diuretic,False,True
+1083,heI2.,Arelix,DEGARELIX 80mg powder and solvent for solution for injection,Piretanide,,80 mg,diuretic,False,True
+1084,heI4.,Arelix,DEGARELIX 120mg powder+solvent for solution for injection,Piretanide,,120 mg,diuretic,False,True
+1085,a4c..,Thelin,PROPANTHELINE BROMIDE [ANTISPASMODIC],Sitaxentan Sodium,,,Vasodilator Antihypertensive Drugs,False,False
+1086,a4c1.,Thelin,PROPANTHELINE 15mg tablets,Sitaxentan Sodium,,15 mg,Vasodilator Antihypertensive Drugs,False,False
+1087,bA1..,Ramipril,FELODIPINE+RAMIPRIL,Ramipril,,,Angiotensin-Converting Enzyme Inhibitors,True,False
+1088,bA11.,Triapin,TRIAPIN MITE 2.5mg/2.5mg tablets,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1089,bA12.,Triapin,TRIAPIN 5mg/5mg tablets,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1090,bA1y.,Ramipril,FELODIPINE+RAMIPRIL 2.5mg/2.5mg tablets,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+1091,bA1z.,Ramipril,FELODIPINE+RAMIPRIL 5mg/5mg tablets,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+1092,be1..,Diazoxide,DIAZOXIDE [CARDIOVASCULAR USE],Diazoxide,,,Vasodilator Antihypertensive Drugs,False,False
+1093,be1z.,Diazoxide,DIAZOXIDE 300mg/20mL injection,Diazoxide,,300 mg/20 ml,Vasodilator Antihypertensive Drugs,False,False
+1094,be2..,Hydralazine Hydrochloride,HYDRALAZINE HYDROCHLORIDE,Hydralazine Hydrochloride,,,Vasodilator Antihypertensive Drugs,False,False
+1095,be21.,Apresoline,APRESOLINE 25mg tablets,Hydralazine Hydrochloride,,25 mg,Vasodilator Antihypertensive Drugs,False,False
+1096,be22.,Apresoline,*APRESOLINE 50mg tablets,Hydralazine Hydrochloride,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+1097,be23.,Apresoline,APRESOLINE 20mg injection,Hydralazine Hydrochloride,,20 mg,Vasodilator Antihypertensive Drugs,False,False
+1098,be2x.,Hydralazine Hydrochloride,HYDRALAZINE HYDROCHLORIDE 25mg tablets,Hydralazine Hydrochloride,,25 mg,Vasodilator Antihypertensive Drugs,False,False
+1099,be2y.,Hydralazine Hydrochloride,HYDRALAZINE HYDROCHLORIDE 50mg tablets,Hydralazine Hydrochloride,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+1100,be2z.,Hydralazine Hydrochloride,HYDRALAZINE HYDROCHLORIDE 20mg injection,Hydralazine Hydrochloride,,20 mg,Vasodilator Antihypertensive Drugs,False,False
+1101,be3..,Minoxidil,MINOXIDIL,Minoxidil,,,Vasodilator Antihypertensive Drugs,False,False
+1102,be31.,Loniten,LONITEN 2.5mg tablets,Minoxidil,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+1103,be32.,Loniten,LONITEN 5mg tablets,Minoxidil,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+1104,be33.,Loniten,LONITEN 10mg tablets,Minoxidil,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1105,be3x.,Minoxidil,MINOXIDIL 2.5mg tablets,Minoxidil,,2.5 mg,Vasodilator Antihypertensive Drugs,False,False
+1106,be3y.,Minoxidil,MINOXIDIL 5mg tablets,Minoxidil,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+1107,be3z.,Minoxidil,MINOXIDIL 10mg tablets,Minoxidil,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1108,be4..,Sodium Nitroprusside,SODIUM NITROPRUSSIDE,Sodium Nitroprusside,,,Vasodilator Antihypertensive Drugs,False,False
+1109,be4y.,Sodium Nitroprusside,SODIUM NITROPRUSSIDE 50mg injection (pdr for recon),Sodium Nitroprusside,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+1110,be4z.,Sod Nitroprusside,SOD NITROPRUSSIDE 50mg/5mL intravenous infusion,Sodium Nitroprusside,,50 mg/5 ml,Vasodilator Antihypertensive Drugs,False,False
+1111,bf1..,Clonidine Hydrochloride,CLONIDINE HYDROCHLORIDE [ANTIHYPERTENSIVE],Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1112,bf11.,Catapres,CATAPRES 100micrograms tablets,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1113,bf12.,Catapres,CATAPRES 300micrograms tablets,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1114,bf13.,Catapres,CATAPRES PERLONGETS 250microgram m/r capsules,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1115,bf14.,Catapres,CATAPRES 150micrograms/mL injection,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1116,bf2..,Methyldopa,METHYLDOPA,Methyldopa,,,Centrally-Acting Antihypertensive Drugs,False,False
+1117,bf21.,Methyldopa,METHYLDOPA 125mg tablets,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1118,bf22.,Methyldopa,METHYLDOPA 250mg tablets,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1119,bf23.,Methyldopa,METHYLDOPA 500mg tablets,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1120,bf29.,Dopamet,*DOPAMET 125mg tablets,Methyldopa,,125 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1121,bf2a.,Dopamet,*DOPAMET 250mg tablets,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1122,bf2b.,Dopamet,*DOPAMET 500mg tablets,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1123,bf2c.,Medomet,MEDOMET 250mg capsules,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1124,bf2d.,Medomet,MEDOMET 250mg tablets,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1125,bf2e.,Medomet,MEDOMET 500mg tablets,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1126,bf2f.,Hydromet,*HYDROMET tablets,Methyldopa,,,Centrally-Acting Antihypertensive Drugs,False,False
+1127,bf2g.,Metalpha,*METALPHA 250mg tablets,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1128,bf2h.,Metalpha,*METALPHA 500mg tablets,Methyldopa,,500 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1129,bf2j.,Methyldopa,METHYLDOPA+HYDROCHLOROTHIAZIDE 250mg/15mg tablets,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,True
+1130,bf2v.,Methyldopa,METHYLDOPA 250mg/5mL oral mixture,Methyldopa,,250 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+1131,bf2w.,Methyldopa,METHYLDOPATE HYDROCHLORIDE 250mg/5mL injection,Methyldopa,,250 mg/5 ml,Centrally-Acting Antihypertensive Drugs,False,False
+1132,bf2z.,Methyldopa,METHYLDOPA 250mg capsules,Methyldopa,,250 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1133,bf33.,Decaserpyl,*DECASERPYL 5mg tablets,Reserpine And Rauwolfia Alkaloids,,5 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1134,bf34.,Decaserpyl,*DECASERPYL 10mg tablets,Reserpine And Rauwolfia Alkaloids,,10 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1135,bf35.,Hypercal,*HYPERCAL 2mg tablets,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1136,bf36.,Rauwiloid,*RAUWILOID 2mg tablets,Reserpine And Rauwolfia Alkaloids,,2 mg,Centrally-Acting Antihypertensive Drugs,False,False
+1137,bf37.,Serpasil,*SERPASIL 100microgram tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1138,bf38.,Serpasil,*SERPASIL 250microgram tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1139,bf39.,Abicol,*ABICOL tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1140,bf3a.,Decaserpyl,*DECASERPYL PLUS tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1141,bf3b.,Rautrax,*RAUTRAX tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1142,bf3c.,Serpasil,*SERPASIL-ESIDREX tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,True
+1143,bf4..,Moxonidine,MOXONIDINE,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1144,bf41.,Moxonidine,MOXONIDINE 200micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1145,bf42.,Moxonidine,MOXONIDINE 400micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1146,bf43.,Physiotens,PHYSIOTENS 200micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1147,bf44.,Physiotens,PHYSIOTENS 400micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1148,bf45.,Moxonidine,MOXONIDINE 300micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1149,bf46.,Physiotens,PHYSIOTENS 300micrograms tablets,Moxonidine,,,Centrally-Acting Antihypertensive Drugs,False,False
+1150,bg1..,Betanidine Sulf,BETANIDINE SULFATE,Betanidine Sulfate,,,Adrenergic Neurone Blocking Drugs,False,False
+1151,bg13.,Bendogen,*BENDOGEN 10mg tablets,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+1152,bg14.,Bendogen,*BENDOGEN 50mg tablets,Betanidine Sulfate,,50 mg,Adrenergic Neurone Blocking Drugs,False,False
+1153,bg15.,Esbatal,*ESBATAL 10mg tablets,Betanidine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+1154,bg16.,Esbatal,*ESBATAL 50mg tablets,Betanidine Sulfate,,50 mg,Adrenergic Neurone Blocking Drugs,False,False
+1155,bg21.,Declinax,*DECLINAX 10mg tablets,Debrisoquine Sulfate,,10 mg,Adrenergic Neurone Blocking Drugs,False,False
+1156,bg22.,Declinax,*DECLINAX 20mg tablets,Debrisoquine Sulfate,,20 mg,Adrenergic Neurone Blocking Drugs,False,False
+1157,bg3..,Guanethidine Monosulfate,GUANETHIDINE MONOSULFATE [ANTIHYPERTENSIVE],Guanethidine Monosulfate,,,Adrenergic Neurone Blocking Drugs,False,False
+1158,bh1..,Indoramin,INDORAMIN,Indoramin,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1159,bh11.,Baratol,*BARATOL 25mg tablets,Indoramin,,25 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1160,bh12.,Baratol,*BARATOL 50mg tablets,Indoramin,,50 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1161,bh14.,Indoramin,INDORAMIN 20mg tablets,Indoramin,,20 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1162,bh1y.,Indoramin,INDORAMIN 25mg tablets,Indoramin,,25 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1163,bh1z.,Indoramin,*INDORAMIN 50mg tablets,Indoramin,,50 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1164,bh2..,Phenoxybenzamine Hydrochloride,PHENOXYBENZAMINE HYDROCHLORIDE [CARDIOVASCULAR USE],Phenoxybenzamine Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1165,bh21.,Dibenyline,DIBENYLINE [CVS] 10mg capsules,Phenoxybenzamine Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1166,bh22.,Dibenyline,DIBENYLINE 100mg/2mL injection,Phenoxybenzamine Hydrochloride,,100 mg/2 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+1167,bh31.,Rogitine,*ROGITINE 10mg/1mL injection,Phentolamine Mesilate,,10 mg/1 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+1168,bh32.,Rogitine,*ROGITINE 50mg/5mL injection,Phentolamine Mesilate,,50 mg/5 ml,Alpha-Adrenoceptor Blocking Drugs,False,False
+1169,bh4..,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1170,bh41.,Hypovase,HYPOVASE 500micrograms tablets,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1171,bh42.,Hypovase,HYPOVASE 1mg tablets,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1172,bh43.,Hypovase,*HYPOVASE 2mg tablets,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1173,bh44.,Hypovase,*HYPOVASE 5mg tablets,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1174,bh45.,Hypovase,HYPOVASE BD STARTER PACK tablets,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1175,bh46.,Alphavase,ALPHAVASE 500micrograms tablets,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1176,bh47.,Alphavase,*ALPHAVASE 1mg tablets,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1177,bh48.,Alphavase,*ALPHAVASE 2mg tablets,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1178,bh49.,Alphavase,*ALPHAVASE 5mg tablets,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1179,bh4A.,Kentovace,KENTOVACE 500micrograms tablets,Prazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1180,bh4B.,Kentovace,KENTOVACE 1mg tablets,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1181,bh4C.,Kentovace,KENTOVACE 2mg tablets,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1182,bh4D.,Kentovace,KENTOVACE 5mg tablets,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1183,bh4v.,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE STARTER PACK 500micrograms+1mg tablets,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1184,bh4x.,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE 1mg tablets,Prazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1185,bh4y.,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE 2mg tablets,Prazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1186,bh4z.,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE 5mg tablets,Prazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1187,bh5..,Terazosin Hydrochloride,TERAZOSIN HYDROCHLORIDE,Terazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1188,bh51.,Hytrin,HYTRIN 2mg tablets,Terazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1189,bh52.,Hytrin,HYTRIN 5mg tablets,Terazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1190,bh53.,Hytrin,HYTRIN 10mg tablets,Terazosin Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1191,bh54.,Hytrin,HYTRIN STARTER PACK tablets,Terazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1192,bh57.,Hytrin,HYTRIN 1mg tablets,Terazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1193,bh6E.,Slocinx,SLOCINX XL 4mg m/r tablets,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1194,bh6G.,Oxandosin,OXANDOSIN XL 4mg m/r tablets,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1195,bh6H.,Raporsin,RAPORSIN XL 4mg m/r tablets,Doxazosin Mesilate,,4 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1196,bi1..,Captopril,CAPTOPRIL,Captopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1197,bi11.,Acepril,ACEPRIL 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1198,bi12.,Acepril,ACEPRIL 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1199,bi13.,Acepril,ACEPRIL 25mg tablets x56,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1200,bi14.,Acepril,ACEPRIL 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1201,bi15.,Acepril,ACEPRIL 50mg tablets x56,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1202,bi16.,Capoten,*CAPOTEN 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1203,bi17.,Capoten,CAPOTEN 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1204,bi18.,Capoten,CAPOTEN 25mg tablets x56,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1205,bi19.,Capoten,CAPOTEN 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1206,bi1a.,Capoten,CAPOTEN 50mg tablets x56,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1207,bi1b.,Acezide,ACEZIDE 50mg tablets x56,Co-Zidocapt,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1208,bi1c.,Capozide,*CAPOZIDE 50mg tablets x28,Co-Zidocapt,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1209,bi1d.,Capozide,*CAPOZIDE LS 25mg tabletsx28CP,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1210,bi1D.,Capto-Co,*CAPTO-CO 25mg/12.5mg tablets,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1211,bi1e.,Captopril,CAPTOPRIL+HYDROCHLOROTHIAZIDE 25mg/12.5mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1212,bi1E.,Capto-Co,*CAPTO-CO 50mg/25mg tablets,Co-Zidocapt,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1213,bi1f.,Captopril,CAPTOPRIL+HYDROCHLOROTHIAZIDE 50mg/25mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1214,bi1F.,Co-Zidocapt,CO-ZIDOCAPT 25mg/12.5mg tablet,Co-Zidocapt,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1215,bi1g.,Ecopace,ECOPACE 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1216,bi1G.,Co-Zidocapt,*CO-ZIDOCAPT 50mg/25mg tablets,Co-Zidocapt,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1217,bi1h.,Ecopace,ECOPACE 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1218,bi1H.,Noyada,NOYADA 5mg/5mL oral solution,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+1219,bi1i.,Ecopace,ECOPACE 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1220,bi1I.,Captopril,CAPTOPRIL 5mg/5mL oral solution,Captopril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+1221,bi1j.,Kaplon,*KAPLON 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1222,bi1J.,Noyada,NOYADA 25mg/5mL oral solution,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+1223,bi1k.,Kaplon,*KAPLON 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1224,bi1K.,Captopril,CAPTOPRIL 25mg/5mL oral solution,Captopril,,25 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+1225,bi1l.,Kaplon,*KAPLON 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1226,bi1m.,Hyteneze,*HYTENEZE 12.5 tablets,Captopril,5.0,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1227,bi1n.,Hyteneze,*HYTENEZE 25 tablets,Captopril,25.0,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1228,bi1o.,Hyteneze,*HYTENEZE 50 tablets,Captopril,50.0,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1229,bi1p.,Tensopril,*TENSOPRIL 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1230,bi1q.,Tensopril,*TENSOPRIL 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1231,bi1r.,Tensopril,*TENSOPRIL 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1232,bi1s.,Capozide,CAPOZIDE 50mg/25mg tablets,Co-Zidocapt,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1233,bi1v.,Captopril,CAPTOPRIL 12.5mg tablets,Captopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1234,bi1w.,Captopril,CAPTOPRIL 25mg tablets,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1235,bi1x.,Captopril,CAPTOPRIL 25mg tablets x56,Captopril,,25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1236,bi1y.,Captopril,CAPTOPRIL 50mg tablets x56,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1237,bi1z.,Captopril,CAPTOPRIL 50mg tablets,Captopril,,50 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1238,bi2..,Enalapril Maleate,ENALAPRIL MALEATE,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1239,bi21.,Innovace,INNOVACE 2.5mg tablets,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1240,bi22.,Innovace,INNOVACE 5mg tablets,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1241,bi23.,Innovace,INNOVACE 5mg tablets x28,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1242,bi24.,Innovace,INNOVACE 10mg tablets,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1243,bi25.,Innovace,INNOVACE 10mg tablets x28,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1244,bi26.,Innovace,INNOVACE 20mg tablets,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1245,bi27.,Innovace,INNOVACE 20mg tablets x28,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1246,bi28.,Innozide,INNOZIDE 20/12.5mg tablets,Enalapril Maleate,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1247,bi29.,Innovace,INNOVACE tablets titration pack,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1248,bi2a.,Enalapril Maleate,ENALAPRIL MALEATE tablets titration pack,Enalapril Maleate,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1249,bi2A.,Enalapril Maleate,*ENALAPRIL MALEATE 2.5mg wafer,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1250,bi2b.,Enalapril Maleate,ENALAPRIL MALEATE+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1251,bi2B.,Enalapril Maleate,*ENALAPRIL MALEATE 5mg wafer,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1252,bi2C.,Enalapril Maleate,*ENALAPRIL MALEATE 10mg wafer,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1253,bi2D.,Enalapril Maleate,*ENALAPRIL MALEATE 20mg wafer,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1254,bi2E.,Innovace,*INNOVACE MELT 2.5mg wafer,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1255,bi2F.,Innovace,*INNOVACE MELT 5mg wafer,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1256,bi2G.,Innovace,*INNOVACE MELT 10mg wafer,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1257,bi2H.,Innovace,*INNOVACE MELT 20mg wafer,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1258,bi2J.,Pralenal,*PRALENAL 2.5mg tablets,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1259,bi2K.,Pralenal,*PRALENAL 5mg tablets,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1260,bi2L.,Pralenal,*PRALENAL 10mg tablets,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1261,bi2M.,Pralenal,*PRALENAL 20mg tablets,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1262,bi2t.,Enalapril Maleate,ENALAPRIL MALEATE 2.5mg tablets,Enalapril Maleate,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1263,bi2u.,Enalapril Maleate,ENALAPRIL MALEATE 5mg tablets,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1264,bi2v.,Enalapril Maleate,ENALAPRIL MALEATE 5mg tablets x28,Enalapril Maleate,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1265,bi2w.,Enalapril Maleate,ENALAPRIL MALEATE 10mg tablets,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1266,bi2x.,Enalapril Maleate,ENALAPRIL MALEATE 10mg tablets x28,Enalapril Maleate,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1267,bi2y.,Enalapril Maleate,ENALAPRIL MALEATE 20mg tablets,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1268,bi2z.,Enalapril Maleate,ENALAPRIL MALEATE 20mg tablets x28,Enalapril Maleate,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1269,bi3..,Lisinopril,LISINOPRIL,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1270,bi31.,Lisinopril,LISINOPRIL 2.5mg tablets,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1271,bi32.,Lisinopril,LISINOPRIL 5mg tablets,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1272,bi33.,Lisinopril,LISINOPRIL 10mg tablets,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1273,bi34.,Lisinopril,LISINOPRIL 20mg tablets,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1274,bi35.,Carace,*CARACE 2.5mg tablets,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1275,bi36.,Carace,*CARACE 5mg tablets 28CP,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1276,bi37.,Carace,*CARACE 5mg tablets,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1277,bi38.,Carace,*CARACE 10mg tablets 28CP,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1278,bi39.,Carace,*CARACE 10mg tablets,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1279,bi3a.,Carace,*CARACE 20mg tablets 28CP,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1280,bi3b.,Carace,*CARACE 20mg tablets,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1281,bi3c.,Zestril,*ZESTRIL 2.5mg tablets 28CP,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1282,bi3d.,Zestril,*ZESTRIL 2.5mg tablets,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1283,bi3e.,Zestril,ZESTRIL 5mg tablets 28CP,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1284,bi3f.,Zestril,ZESTRIL 5mg tablets,Lisinopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1285,bi3g.,Zestril,ZESTRIL 10mg tablets 28CP,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1286,bi3h.,Zestril,ZESTRIL 10mg tablets,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1287,bi3i.,Zestril,ZESTRIL 20mg tablets 28CP,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1288,bi3j.,Zestril,ZESTRIL 20mg tablets,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1289,bi3k.,Carace,CARACE 20 PLUS tablets,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1290,bi3l.,Carace,*CARACE 10 PLUS tablets,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1291,bi3m.,Zestoretic,*ZESTORETIC tablets 28CP,Lisinopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1292,bi3n.,Zestoretic,ZESTORETIC 20/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1293,bi3p.,Lisinopril,LISINOPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Lisinopril,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1294,bi3q.,Zestril,*ZESTRIL 2.5mg starter pack,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1295,bi3r.,Lisinopril,LISINOPRIL 2.5mg tablets starter pack,Lisinopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1296,bi3s.,Zestoretic,ZESTORETIC 10/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1297,bi3t.,Lisinopril,LISINOPRIL+HYDROCHLOROTHIAZIDE 10mg/12.5mg tablets,Lisinopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1298,bi3u.,Caralpha,*CARALPHA 10/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1299,bi3v.,Caralpha,*CARALPHA 20/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1300,bi3w.,Lisicostad,LISICOSTAD HCT 20/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1301,bi3x.,Lisicostad,LISICOSTAD HCT 10/12.5mg tablets,Lisinopril,,12.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1302,bi3y.,Lisinopril,LISINOPRIL 1mg/mL oral solution,Lisinopril,,1 mg/mL,Angiotensin-Converting Enzyme Inhibitors,False,False
+1303,bi44.,Accupro,ACCUPRO 5mg tablets 28CP,Quinapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1304,bi45.,Accupro,ACCUPRO 10mg tablets 28CP,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1305,bi46.,Accupro,ACCUPRO 20mg tablets 28CP,Quinapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1306,bi47.,Accuretic,ACCURETIC tablets,Quinapril Hydrochloride,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1307,bi49.,Accupro,ACCUPRO 40mg tablets,Quinapril Hydrochloride,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1308,bi4B.,Quinil,QUINIL 5mg tablets,Quinapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1309,bi4C.,Quinil,QUINIL 10mg tablets,Quinapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1310,bi4D.,Quinil,QUINIL 20mg tablets,Quinapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1311,bi4E.,Quinil,QUINIL 40mg tablets,Quinapril Hydrochloride,,40 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1312,bi5..,Perindopril,PERINDOPRIL ERBUMINE,Perindopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1313,bi51.,Perindopril,PERINDOPRIL ERBUMINE 2mg tablets,Perindopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1314,bi52.,Perindopril,PERINDOPRIL ERBUMINE 4mg tablets,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1315,bi53.,Coversyl,*COVERSYL 2mg tablets,Perindopril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1316,bi54.,Coversyl,*COVERSYL 4mg tablets,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1317,bi55.,Perindopril,PERINDOPRIL ERBUMINE+INDAPAMIDE 4mg/1.25mg tablets,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1318,bi56.,Coversyl,COVERSYL PLUS 4mg/1.25mg tablets,Perindopril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1319,bi57.,Perindopril,PERINDOPRIL ERBUMINE 8mg tablets,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1320,bi58.,Coversyl,*COVERSYL 8mg tablets,Perindopril,,8 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1321,bi6..,Ramipril,RAMIPRIL,Ramipril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1322,bi61.,Ramipril,RAMIPRIL 1.25mg capsules,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1323,bi62.,Ramipril,RAMIPRIL 2.5mg capsules,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1324,bi63.,Ramipril,RAMIPRIL 5mg capsules,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1325,bi64.,Tritace,*TRITACE 1.25mg capsules,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1326,bi65.,Tritace,*TRITACE 2.5mg capsules,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1327,bi66.,Tritace,*TRITACE 5mg capsules,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1328,bi67.,Ramipril,RAMIPRIL 10mg capsules,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1329,bi68.,Tritace,*TRITACE 10mg capsules,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1330,bi69.,Ramipril,RAMIPRIL 2.5mg+5mg+10mg capsules titration pack,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1331,bi6A.,Tritace,TRITACE Titration Pack capsules,Ramipril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1332,bi6B.,Ramipril,RAMIPRIL 1.25mg tablets,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1333,bi6C.,Ramipril,RAMIPRIL 2.5mg tablets,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1334,bi6D.,Ramipril,RAMIPRIL 5mg tablets,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1335,bi6E.,Ramipril,RAMIPRIL 10mg tablets,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1336,bi6F.,Ramipril,RAMIPRIL 2.5mg+5mg+10mg tablets titration pack,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1337,bi6G.,Ramipril,RAMIPRIL 2.5mg/5mL oral solution,Ramipril,,5 mg/5 ml,Angiotensin-Converting Enzyme Inhibitors,False,False
+1338,bi6o.,Tritace,TRITACE Titration Pack tablets,Ramipril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1339,bi6p.,Ranace,*RANACE 10mg capsules,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1340,bi6q.,Ranace,*RANACE 5mg capsules,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1341,bi6r.,Ranace,*RANACE 2.5mg capsules,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1342,bi6s.,Ranace,*RANACE 1.25mg capsules,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1343,bi6t.,Lopace,*LOPACE 2.5mg capsules,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1344,bi6u.,Lopace,*LOPACE 5mg capsules,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1345,bi6v.,Lopace,*LOPACE 10mg capsules,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1346,bi6w.,Tritace,TRITACE 10mg tablets,Ramipril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1347,bi6x.,Tritace,TRITACE 5mg tablets,Ramipril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1348,bi6y.,Tritace,TRITACE 2.5mg tablets,Ramipril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1349,bi6z.,Tritace,TRITACE 1.25mg tablets,Ramipril,,1.25 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1350,bi73.,Staril,*STARIL 10mg tablets,Fosinopril Sodium,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1351,bi74.,Staril,*STARIL 20mg tablets,Fosinopril Sodium,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1352,bi8..,Cilazapril,CILAZAPRIL,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1353,bi81.,Cilazapril,CILAZAPRIL 250micrograms tablets,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1354,bi82.,Cilazapril,CILAZAPRIL 500micrograms tablets,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1355,bi83.,Cilazapril,*CILAZAPRIL 1mg tablets,Cilazapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1356,bi84.,Cilazapril,*CILAZAPRIL 2.5mg tablets,Cilazapril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1357,bi85.,Vascace,*VASCACE 250micrograms tablets,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1358,bi86.,Vascace,*VASCACE 500micrograms tablets,Cilazapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1359,bi87.,Vascace,*VASCACE 1mg tablets,Cilazapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1360,bi88.,Vascace,*VASCACE 2.5mg tablets,Cilazapril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1361,bi89.,Vascace,*VASCACE 5mg tablets,Cilazapril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1362,bi8a.,Cilazapril,CILAZAPRIL 5mg tablets,Cilazapril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1363,bi9..,Trandolapril,TRANDOLAPRIL,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1364,bi91.,Trandolapril,TRANDOLAPRIL 500micrograms capsules,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1365,bi92.,Trandolapril,TRANDOLAPRIL 1mg capsules,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1366,bi93.,Trandolapril,TRANDOLAPRIL 2mg capsules,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1367,bi94.,Gopten,*GOPTEN 500micrograms capsules,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1368,bi95.,Gopten,*GOPTEN 1mg capsules,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1369,bi96.,Gopten,*GOPTEN 2mg capsules,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1370,bi97.,Odrik,*ODRIK 500micrograms capsules,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1371,bi98.,Odrik,*ODRIK 1mg capsules,Trandolapril,,1 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1372,bi99.,Odrik,*ODRIK 2mg capsules,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1373,bi9A.,Gopten,*GOPTEN 4mg capsules,Trandolapril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1374,bi9z.,Trandolapril,TRANDOLAPRIL 4mg capsules,Trandolapril,,4 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1375,biA1.,Moexipril Hydrochloride,MOEXIPRIL HYDROCHLORIDE 7.5mg tablets,Moexipril Hydrochloride,,7.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1376,biA2.,Moexipril Hydrochloride,MOEXIPRIL HYDROCHLORIDE 15mg tablets,Moexipril Hydrochloride,,15 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1377,biA3.,Perdix,PERDIX 7.5mg tablets,Moexipril Hydrochloride,,7.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1378,biA4.,Perdix,PERDIX 15mg tablets,Moexipril Hydrochloride,,15 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1379,biB..,Imidapril Hydrochloride,IMIDAPRIL HYDROCHLORIDE,Imidapril Hydrochloride,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1380,biB1.,Tanatril,TANATRIL 5mg tablets,Imidapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1381,biB2.,Tanatril,TANATRIL 10mg tablets,Imidapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1382,biB3.,Tanatril,TANATRIL 20mg tablets,Imidapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1383,biBx.,Imidapril Hydrochloride,IMIDAPRIL HYDROCHLORIDE 20mg tablets,Imidapril Hydrochloride,,20 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1384,biBy.,Imidapril Hydrochloride,IMIDAPRIL HYDROCHLORIDE 5mg tablets,Imidapril Hydrochloride,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1385,biBz.,Imidapril Hydrochloride,IMIDAPRIL HYDROCHLORIDE 10mg tablets,Imidapril Hydrochloride,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1386,biC..,Perindopril,PERINDOPRIL ARGININE,Perindopril,,,Angiotensin-Converting Enzyme Inhibitors,False,False
+1387,biC1.,Coversyl,COVERSYL ARGININE 2.5mg tablets,Perindopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1388,biC2.,Perindopril,PERINDOPRIL ARGININE 2.5mg tablets,Perindopril,,2.5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1389,biC3.,Coversyl,COVERSYL ARGININE 5mg tablets,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1390,biC4.,Perindopril,PERINDOPRIL ARGININE 5mg tablets,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1391,biC5.,Coversyl,COVERSYL ARGININE 10mg tablets,Perindopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1392,biC6.,Perindopril,PERINDOPRIL ARGININE 10mg tablets,Perindopril,,10 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1393,biC7.,Coversyl,COVERSYL ARGININE PLUS 5mg/1.25mg tablets,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1394,biC8.,Perindopril,PERINDOPRIL ARGININE+INDAPAMIDE 5mg/1.25mg tablets,Perindopril,,5 mg,Angiotensin-Converting Enzyme Inhibitors,False,True
+1395,bj11.,Arfonad,*ARFONAD 250mg/5mL injection,Trimetaphan Camsilate,,250 mg/5 ml,Ganglion-Blocking Drugs,False,False
+1396,bj1z.,Trimetaphan Camsyl,TRIMETAPHAN CAMSYLATE 250mg/5mL injection,Trimetaphan Camsilate,,250 mg/5 ml,Ganglion-Blocking Drugs,False,False
+1397,bk1..,Metirosine,METIROSINE,Metirosine,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1398,bk11.,Demser,*DEMSER 250mg capsules,Metirosine,,250 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1399,bk1z.,Metirosine,*METIROSINE 250mg capsules,Metirosine,,250 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1400,bk21.,Hypercal,*HYPERCAL-B tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1401,bk22.,Seominal,*SEOMINAL tablets,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1402,bk3..,Losartan,LOSARTAN,Losartan Potassium,,,Angiotensin-II Receptor Antagonists,False,False
+1403,bk31.,Losartan Pot,LOSARTAN POTASSIUM 25mg tablets,Losartan Potassium,,25 mg,Angiotensin-II Receptor Antagonists,False,False
+1404,bk32.,Losartan Pot,LOSARTAN POTASSIUM 50mg tablets,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+1405,bk33.,Cozaar,COZAAR HALF-STRENGTH 25mg tablets,Losartan Potassium,,25 mg,Angiotensin-II Receptor Antagonists,False,False
+1406,bk34.,Cozaar,COZAAR 50mg tablets,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+1407,bk35.,Losartan Pot,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 50mg/12.5mg tablets,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,True
+1408,bk36.,Cozaar,COZAAR-COMP 50mg/12.5mg tablets,Losartan Potassium,,50 mg,Angiotensin-II Receptor Antagonists,False,False
+1409,bk37.,Losartan Pot,LOSARTAN POTASSIUM 100mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+1410,bk38.,Cozaar,COZAAR 100mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+1411,bk39.,Cozaar,COZAAR-COMP 100mg/25mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+1412,bk3A.,Cozaar,COZAAR-COMP 100mg/12.5mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,False
+1413,bk3B.,Cozaar,COZAAR 12.5mg tablets,Losartan Potassium,,12.5 mg,Angiotensin-II Receptor Antagonists,False,False
+1414,bk3C.,Losartan Pot,LOSARTAN POTASSIUM 12.5mg tablets,Losartan Potassium,,12.5 mg,Angiotensin-II Receptor Antagonists,False,False
+1415,bk3D.,Cozaar,COZAAR 2.5mg/mL oral suspension,Losartan Potassium,,5 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+1416,bk3E.,Losartan Pot,LOSARTAN POTASSIUM 2.5mg/mL oral suspension,Losartan Potassium,,5 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+1417,bk3y.,Losartan Pot,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,True
+1418,bk3z.,Losartan Pot,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/25mg tablets,Losartan Potassium,,100 mg,Angiotensin-II Receptor Antagonists,False,True
+1419,bk4..,Valsartan,VALSARTAN,Valsartan,,,Angiotensin-II Receptor Antagonists,False,False
+1420,bk41.,Valsartan,VALSARTAN 40mg capsules,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1421,bk42.,Valsartan,VALSARTAN 80mg capsules,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1422,bk43.,Valsartan,VALSARTAN 160mg capsules,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+1423,bk44.,Diovan,DIOVAN 40mg capsules,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1424,bk45.,Diovan,DIOVAN 80mg capsules,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1425,bk46.,Diovan,DIOVAN 160mg capsules,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+1426,bk47.,Diovan,CO-DIOVAN 160mg/12.5mg tablets,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+1427,bk48.,Diovan,CO-DIOVAN 160mg/25mg tablets,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+1428,bk49.,Diovan,CO-DIOVAN 80mg/12.5mg tablets,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1429,bk4A.,Diovan,DIOVAN 40mg tablets,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1430,bk4B.,Diovan,DIOVAN 320mg tablets,Valsartan,,320 mg,Angiotensin-II Receptor Antagonists,False,False
+1431,bk4C.,Diovan,DIOVAN 3mg/mL oral solution,Valsartan,,3 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+1432,bk4s.,Valsartan,VALSARTAN 80mg tablets,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1433,bk4t.,Valsartan,VALSARTAN 160mg tablets,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,False
+1434,bk4u.,Valsartan,VALSARTAN 3mg/mL oral solution,Valsartan,,3 mg/mL,Angiotensin-II Receptor Antagonists,False,False
+1435,bk4v.,Valsartan,VALSARTAN 320mg tablets,Valsartan,,320 mg,Angiotensin-II Receptor Antagonists,False,False
+1436,bk4w.,Valsartan,VALSARTAN 40mg tablets,Valsartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1437,bk4x.,Valsartan,VALSARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Valsartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+1438,bk4y.,Valsartan,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/25mg tablets,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+1439,bk4z.,Valsartan,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/12.5mg tablets,Valsartan,,160 mg,Angiotensin-II Receptor Antagonists,False,True
+1440,bk5..,Irbesartan,IRBESARTAN,Irbesartan,,,Angiotensin-II Receptor Antagonists,False,False
+1441,bk51.,Irbesartan,IRBESARTAN 75mg tablets,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+1442,bk52.,Irbesartan,IRBESARTAN 150mg tablets,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+1443,bk53.,Irbesartan,IRBESARTAN 300mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1444,bk54.,Aprovel,APROVEL 75mg tablets,Irbesartan,,75 mg,Angiotensin-II Receptor Antagonists,False,False
+1445,bk55.,Aprovel,APROVEL 150mg tablets,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+1446,bk56.,Aprovel,APROVEL 300mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1447,bk57.,CoAprovel,COAPROVEL 150mg/12.5mg tablets,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,False
+1448,bk58.,CoAprovel,COAPROVEL 300mg/12.5mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1449,bk59.,CoAprovel,COAPROVEL 300mg/25mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1450,bk5x.,Irbesartan,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/25mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+1451,bk5y.,Irbesartan,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/12.5mg tablets,Irbesartan,,300 mg,Angiotensin-II Receptor Antagonists,False,True
+1452,bk5z.,Irbesartan,IRBESARTAN+HYDROCHLOROTHIAZIDE 150mg/12.5mg tablets,Irbesartan,,150 mg,Angiotensin-II Receptor Antagonists,False,True
+1453,bk6..,Trandolapril,TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE,Trandolapril,,,Angiotensin-Converting Enzyme Inhibitors,True,False
+1454,bk61.,Trandolapril,TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE 2mg/180mg m/r capsules,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,True,False
+1455,bk62.,Tarka,*TARKA 2mg/180mg m/r capsules,Trandolapril,,2 mg,Angiotensin-Converting Enzyme Inhibitors,False,False
+1456,bk7..,Candesartan Cilexetil,CANDESARTAN CILEXETIL,Candesartan Cilexetil,,,Angiotensin-II Receptor Antagonists,False,False
+1457,bk71.,Candesartan Cilexetil,CANDESARTAN CILEXETIL 2mg tablets,Candesartan Cilexetil,,2 mg,Angiotensin-II Receptor Antagonists,False,False
+1458,bk72.,Candesartan Cilexetil,CANDESARTAN CILEXETIL 4mg tablets,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+1459,bk73.,Candesartan Cilexetil,CANDESARTAN CILEXETIL 8mg tablets,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+1460,bk74.,Candesartan Cilexetil,CANDESARTAN CILEXETIL 16mg tablets,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+1461,bk75.,Amias,AMIAS 2mg tablets,Candesartan Cilexetil,,2 mg,Angiotensin-II Receptor Antagonists,False,False
+1462,bk76.,Amias,AMIAS 4mg tablets,Candesartan Cilexetil,,4 mg,Angiotensin-II Receptor Antagonists,False,False
+1463,bk77.,Amias,AMIAS 8mg tablets,Candesartan Cilexetil,,8 mg,Angiotensin-II Receptor Antagonists,False,False
+1464,bk78.,Amias,AMIAS 16mg tablets,Candesartan Cilexetil,,16 mg,Angiotensin-II Receptor Antagonists,False,False
+1465,bk79.,Amias,AMIAS 32mg tablets,Candesartan Cilexetil,,32 mg,Angiotensin-II Receptor Antagonists,False,False
+1466,bk7z.,Candesartan Cilexetil,CANDESARTAN CILEXETIL 32mg tablets,Candesartan Cilexetil,,32 mg,Angiotensin-II Receptor Antagonists,False,False
+1467,bk8..,Telmisartan,TELMISARTAN,Telmisartan,,,Angiotensin-II Receptor Antagonists,False,False
+1468,bk81.,Telmisartan,TELMISARTAN 40mg tablets,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1469,bk82.,Telmisartan,TELMISARTAN 80mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1470,bk83.,Micardis,MICARDIS 40mg tablets,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1471,bk84.,Micardis,MICARDIS 80mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1472,bk85.,Micardis,MICARDIS 20mg tablets,Telmisartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1473,bk86.,Micardis,MICARDISPLUS 40mg/12.5mg tablets,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1474,bk87.,Micardis,MICARDISPLUS 80mg/12.5mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1475,bk88.,Micardis,MICARDISPLUS 80mg/25mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1476,bk8w.,Telmisartan,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/25mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+1477,bk8x.,Telmisartan,TELMISARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,Telmisartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+1478,bk8y.,Telmisartan,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,Telmisartan,,80 mg,Angiotensin-II Receptor Antagonists,False,True
+1479,bk8z.,Telmisartan,TELMISARTAN 20mg tablets,Telmisartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1480,bk9..,Eprosartan,EPROSARTAN,Eprosartan,,,Angiotensin-II Receptor Antagonists,False,False
+1481,bk91.,Teveten,TEVETEN 300mg tablets,Eprosartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1482,bk92.,Teveten,*TEVETEN 400mg tablets,Eprosartan,,400 mg,Angiotensin-II Receptor Antagonists,False,False
+1483,bk93.,Teveten,TEVETEN 600mg tablets,Eprosartan,,600 mg,Angiotensin-II Receptor Antagonists,False,False
+1484,bk9x.,Eprosartan,EPROSARTAN 300mg tablets,Eprosartan,,300 mg,Angiotensin-II Receptor Antagonists,False,False
+1485,bk9y.,Eprosartan,EPROSARTAN 400mg tablets,Eprosartan,,400 mg,Angiotensin-II Receptor Antagonists,False,False
+1486,bk9z.,Eprosartan,EPROSARTAN 600mg tablets,Eprosartan,,600 mg,Angiotensin-II Receptor Antagonists,False,False
+1487,bkA..,Bosentan,BOSENTAN,Bosentan,,,Vasodilator Antihypertensive Drugs,False,False
+1488,bkA1.,Bosentan,BOSENTAN MONOHYDRATE 62.5mg tablets,Bosentan,,62.5 mg,Vasodilator Antihypertensive Drugs,False,False
+1489,bkA2.,Bosentan,BOSENTAN MONOHYDRATE 125mg tablets,Bosentan,,125 mg,Vasodilator Antihypertensive Drugs,False,False
+1490,bkA3.,Tracleer,TRACLEER 62.5mg tablets,Bosentan,,62.5 mg,Vasodilator Antihypertensive Drugs,False,False
+1491,bkA4.,Tracleer,TRACLEER 125mg tablets,Bosentan,,125 mg,Vasodilator Antihypertensive Drugs,False,False
+1492,bkB..,Olmesartan,OLMESARTAN,Olmesartan,,,Angiotensin-II Receptor Antagonists,False,False
+1493,bkB1.,Olmesartan,OLMESARTAN MEDOXOMIL 10mg tablets,Olmesartan,,10 mg,Angiotensin-II Receptor Antagonists,False,False
+1494,bkB2.,Olmesartan,OLMESARTAN MEDOXOMIL 20mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1495,bkB3.,Olmesartan,OLMESARTAN MEDOXOMIL 40mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1496,bkB4.,Olmetec,OLMETEC 10mg tablets,Olmesartan,,10 mg,Angiotensin-II Receptor Antagonists,False,False
+1497,bkB5.,Olmetec,OLMETEC 20mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1498,bkB6.,Olmetec,OLMETEC 40mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1499,bkC..,Olmesartan,HYDROCHLOROTHIAZIDE + OLMESARTAN,Olmesartan,,,Angiotensin-II Receptor Antagonists,False,True
+1500,bkC1.,Olmetec,OLMETEC PLUS 20mg/12.5mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1501,bkC2.,Olmetec,OLMETEC PLUS 20mg/25mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1502,bkC3.,Olmetec,OLMETEC PLUS 40mg/12.5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1503,bkCx.,Olmesartan,OLMESARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,True
+1504,bkCy.,Olmesartan,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/25mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,True
+1505,bkCz.,Olmesartan,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,True
+1506,bkD..,Valsartan,AMLODIPINE + VALSARTAN,Valsartan,,,Angiotensin-II Receptor Antagonists,True,False
+1507,bkD1.,Valsartan,AMLODIPINE+VALSARTAN 5mg/80mg tablets,Valsartan,,5 mg,Angiotensin-II Receptor Antagonists,True,False
+1508,bkD2.,Valsartan,AMLODIPINE+VALSARTAN 5mg/160mg tablets,Valsartan,,5 mg,Angiotensin-II Receptor Antagonists,True,False
+1509,bkD3.,Valsartan,AMLODIPINE+VALSARTAN 10mg/160mg tablets,Valsartan,,10 mg,Angiotensin-II Receptor Antagonists,True,False
+1510,bkE1.,Thelin,*THELIN 100mg tablets,Sitaxentan Sodium,,100 mg,Vasodilator Antihypertensive Drugs,False,False
+1511,bkEz.,Sitaxentan Sod,SITAXENTAN SODIUM 100mg tablets,Sitaxentan Sodium,,100 mg,Vasodilator Antihypertensive Drugs,False,False
+1512,bkF..,Aliskiren,ALISKIREN,Aliskiren,,,Renin Inhibitors,False,False
+1513,bkF1.,Rasilez,RASILEZ 150mg tablets,Aliskiren,,150 mg,Renin Inhibitors,False,False
+1514,bkF2.,Rasilez,RASILEZ 300mg tablets,Aliskiren,,300 mg,Renin Inhibitors,False,False
+1515,bkFy.,Aliskiren,ALISKIREN 300mg tablets,Aliskiren,,300 mg,Renin Inhibitors,False,False
+1516,bkFz.,Aliskiren,ALISKIREN 150mg tablets,Aliskiren,,150 mg,Renin Inhibitors,False,False
+1517,bkG..,Ambrisentan,AMBRISENTAN,Ambrisentan,,,Vasodilator Antihypertensive Drugs,False,False
+1518,bkG1.,Volibris,VOLIBRIS 5mg tablets,Ambrisentan,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+1519,bkG2.,Volibris,VOLIBRIS 10mg tablets,Ambrisentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1520,bkGy.,Ambrisentan,AMBRISENTAN 10mg tablets,Ambrisentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1521,bkGz.,Ambrisentan,AMBRISENTAN 5mg tablets,Ambrisentan,,5 mg,Vasodilator Antihypertensive Drugs,False,False
+1522,bkH..,Olmesartan,OLMESARTAN+AMLODIPINE,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,False
+1523,bkH1.,Sevikar,SEVIKAR 20mg/5mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1524,bkH2.,Sevikar,SEVIKAR 40mg/5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1525,bkH3.,Sevikar,SEVIKAR 40mg/10mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1526,bkHx.,Olmesartan,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/10mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+1527,bkHy.,Olmesartan,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,True,False
+1528,bkHz.,Olmesartan,OLMESARTAN MEDOXOMIL+AMLODIPINE 20mg/5mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,True,False
+1529,bkI..,Olmesartan,OLMESARTAN+AMLODIPINE+HYDROCHLOROTHIAZIDE,Olmesartan,,,Angiotensin-II Receptor Antagonists,True,True
+1530,bkI1.,Sevikar,SEVIKAR HCT 20mg/5mg/12.5mg tablets,Olmesartan,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1531,bkI2.,Sevikar,SEVIKAR HCT 40mg/5mg/12.5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1532,bkI3.,Sevikar,SEVIKAR HCT 40mg/10mg/12.5mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1533,bkI4.,Sevikar,SEVIKAR HCT 40mg/5mg/25mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1534,bkI5.,Sevikar,SEVIKAR HCT 40mg/10mg/25mg tablets,Olmesartan,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1535,bkJ1.,Edarbi,EDARBI 20mg tablets,Azilsartan Medoxomil,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1536,bkJ2.,Azilsartan Medoxomil,AZILSARTAN MEDOXOMIL 20mg tablets,Azilsartan Medoxomil,,20 mg,Angiotensin-II Receptor Antagonists,False,False
+1537,bkJ3.,Edarbi,EDARBI 40mg tablets,Azilsartan Medoxomil,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1538,bkJ4.,Azilsartan Medoxomil,AZILSARTAN MEDOXOMIL 40mg tablets,Azilsartan Medoxomil,,40 mg,Angiotensin-II Receptor Antagonists,False,False
+1539,bkJ5.,Edarbi,EDARBI 80mg tablets,Azilsartan Medoxomil,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1540,bkJ6.,Azilsartan Medoxomil,AZILSARTAN MEDOXOMIL 80mg tablets,Azilsartan Medoxomil,,80 mg,Angiotensin-II Receptor Antagonists,False,False
+1541,bkK..,Macitentan,MACITENTAN,Macitentan,,,Vasodilator Antihypertensive Drugs,False,False
+1542,bkK1.,Opsumit,OPSUMIT 10mg tablets,Macitentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1543,bkK2.,Macitentan,MACITENTAN 10mg tablets,Macitentan,,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1544,bkL..,Valsartan,SACUBITRIL+VALSARTAN,Valsartan,,,Angiotensin-II Receptor Antagonists,False,False
+1545,bkL1.,Entresto,ENTRESTO 24mg/26mg tablets,Sacubitril/Valsartan,,24 mg,Angiotensin-II Receptor Antagonists,False,False
+1546,bkL2.,Valsartan,SACUBITRIL+VALSARTAN 24mg/26mg tablets,Valsartan,,24 mg,Angiotensin-II Receptor Antagonists,False,False
+1547,bkL3.,Entresto,ENTRESTO 49mg/51mg tablets,Sacubitril/Valsartan,,49 mg,Angiotensin-II Receptor Antagonists,False,False
+1548,bkL4.,Valsartan,SACUBITRIL+VALSARTAN 49mg/51mg tablets,Valsartan,,49 mg,Angiotensin-II Receptor Antagonists,False,False
+1549,bkL5.,Entresto,ENTRESTO 97mg/103mg tablets,Sacubitril/Valsartan,,97 mg,Angiotensin-II Receptor Antagonists,False,False
+1550,bkL6.,Valsartan,SACUBITRIL+VALSARTAN 97mg/103mg tablets,Valsartan,,97 mg,Angiotensin-II Receptor Antagonists,False,False
+1551,blca.,Lotens,FELOTENS XL 5mg m/r tablets,Guanethidine Monosulfate,,5 mg,Adrenergic Neurone Blocking Drugs,True,False
+1552,blcb.,Lotens,FELOTENS XL 10mg m/r tablets,Guanethidine Monosulfate,,10 mg,Adrenergic Neurone Blocking Drugs,True,False
+1553,blct.,Lotens,FELOTENS XL 2.5mg m/r tablets,Guanethidine Monosulfate,,2.5 mg,Adrenergic Neurone Blocking Drugs,True,False
+1554,bn7..,Iloprost,ILOPROST,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1555,bn71.,Iloprost,ILOPROST 100micrograms/1mL infusion concentrate,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1556,bn72.,Iloprost,ILOPROST 10micrograms/mL nebuliser solution 2mL ampoule,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1557,bn73.,Ventavis,VENTAVIS 10micrograms/mL nebuliser solution 2mL ampoule,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1558,bn74.,Ventavis,VENTAVIS 10micrograms/mL nebuliser solution 1mL ampoules,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1559,bn75.,Iloprost,ILOPROST 10micrograms/mL nebuliser solution 1mL ampoules,Iloprost,,,Vasodilator Antihypertensive Drugs,False,False
+1560,f71..,Diazoxide,DIAZOXIDE [ENDOCRINE USE],Diazoxide,,,Vasodilator Antihypertensive Drugs,False,False
+1561,f71z.,Diazoxide,DIAZOXIDE 50mg tablets,Diazoxide,,50 mg,Vasodilator Antihypertensive Drugs,False,False
+1562,gc4..,Phenoxybenzamine Hydrochloride,PHENOXYBENZAMINE HYDROCHLORIDE [URINARY RETENTION USE],Phenoxybenzamine Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1563,gc41.,Dibenyline,DIBENYLINE 10mg capsules,Phenoxybenzamine Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1564,gc5..,Terazosin Hydrochloride,TERAZOSIN HYDROCHLORIDE [see chap b for generic preps],Terazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1565,gc51.,Hytrin,HYTRIN BPH STARTER PACK tablets,Terazosin Hydrochloride,,,Alpha-Adrenoceptor Blocking Drugs,False,False
+1566,gc52.,Hytrin,HYTRIN BPH 2mg tablets,Terazosin Hydrochloride,,2 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1567,gc53.,Hytrin,HYTRIN BPH 5mg tablets,Terazosin Hydrochloride,,5 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1568,gc54.,Hytrin,HYTRIN BPH 10mg tablets,Terazosin Hydrochloride,,10 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1569,gc55.,Hytrin,HYTRIN BPH 1mg tablets,Terazosin Hydrochloride,,1 mg,Alpha-Adrenoceptor Blocking Drugs,False,False
+1570,gd8..,Thelin,PROPANTHELINE BR [ENURESIS - no drugs here],Sitaxentan Sodium,,,Vasodilator Antihypertensive Drugs,False,False
+1571,gh57.,Revatio,REVATIO 20mg tablets,Sildenafil(Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+1572,gh58.,Revatio,REVATIO 40mg/50mL solution for injection,Sildenafil(Vasodilator Antihypertensive),,40 mg/50 ml,Vasodilator Antihypertensive Drugs,False,False
+1573,gh59.,Revatio,REVATIO 10mg/12.5mL solution for injection,Sildenafil(Vasodilator Antihypertensive),,10 mg,Vasodilator Antihypertensive Drugs,False,False
+1574,gh5A.,Revatio,REVATIO 10mg/mL oral suspension,Sildenafil(Vasodilator Antihypertensive),,10 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+1575,gh75.,Adcirca,ADCIRCA 20mg tablets,Tadalafil (Vasodilator Antihypertensive),,20 mg,Vasodilator Antihypertensive Drugs,False,False
+1576,id14.,Tenex,GLUTENEX ACBS biscuits 18x14g,Guanfacine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1577,idGN.,Tenex,GLUTENEX GF white bread mix 500g,Guanfacine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1578,ih...,Hypercal,HYPERCALCAEMIA,Reserpine And Rauwolfia Alkaloids,,,Centrally-Acting Antihypertensive Drugs,False,False
+1579,k8a..,Guanethidine Monosulfate,GUANETHIDINE MONOSULFATE [EYE],Guanethidine Monosulfate,,,Adrenergic Neurone Blocking Drugs,False,False
+1580,kb9..,Clonidine Hydrochloride,APRACLONIDINE HYDROCHLORIDE,Clonidine Hydrochloride,,,Centrally-Acting Antihypertensive Drugs,False,False
+1581,mb3..,Minoxidil,MINOXIDIL [ANDROGEN ALOPECIA],Minoxidil,,,Vasodilator Antihypertensive Drugs,False,False
+1582,mb31.,Minoxidil,MINOXIDIL 20mg/mL topical liquid,Minoxidil,,20 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+1583,mb33.,Minoxidil,MINOXIDIL 50mg/mL topical liquid,Minoxidil,,50 mg/mL,Vasodilator Antihypertensive Drugs,False,False
+1584,mb37.,Minoxidil,MINOXIDIL 5% cutaneous foam,Minoxidil,,,Vasodilator Antihypertensive Drugs,False,False
+1585,pu7..,Sodium Nitroprusside,SODIUM NITROPRUSSIDE COMPOUND STRIP,Sodium Nitroprusside,,,Vasodilator Antihypertensive Drugs,False,False
+1586,aa2..,Colestyramine,COLESTYRAMINE [ANTIDIARRHOEAL USE],Colestyramine,,,statin,False,False
+1587,aa21.,Questran,QUESTRAN powder 4g,Colestyramine,,,statin,False,False
+1588,aa2z.,Colestyramine,COLESTYRAMINE powder 4g,Colestyramine,,,statin,False,False
+1589,ab2..,Ispaghula Husk,ISPAGHULA HUSK [GASTRO-INTESTINAL BULK LAXATIVE],Ispaghula Husk,,,statin,False,False
+1590,ab2G.,Ispaghula Husk,ISPAGHULA HUSK 3.4g/sachet powder,Ispaghula Husk,,,statin,False,False
+1591,ab2J.,Ispaghula Husk,ISPAGHULA HUSK 3.4g/sachet sugar free powder,Ispaghula Husk,,,statin,False,False
+1592,ab2K.,Ispaghula Husk,ISPAGHULA HUSK 6g/sachet sugar free powder,Ispaghula Husk,,,statin,False,False
+1593,ab2n.,Ispaghula Husk,ISPAGHULA HUSK 3.5g/sachet sugar free powder,Ispaghula Husk,,,statin,False,False
+1594,ab2o.,Ispaghula Husk,ISPAGHULA HUSK lemon/lime 3.4g/sachet sugar free powder,Ispaghula Husk,,,statin,False,False
+1595,ab2p.,Ispaghula Husk,ISPAGHULA HUSK orange 3.4g/sachet sugar free powder,Ispaghula Husk,,,statin,False,False
+1596,ab2q.,Ispaghula Husk,ISPAGHULA HUSK orange 3.5g/sachet sugar free granules,Ispaghula Husk,,,statin,False,False
+1597,ab2r.,Ispaghula Husk,ISPAGHULA HUSK lemon 3.5g/sachet sugar free granules,Ispaghula Husk,,,statin,False,False
+1598,ab2t.,Ispaghula Husk,ISPAGHULA HUSK 3.6g/sachet powder,Ispaghula Husk,,,statin,False,False
+1599,ab2u.,Ispaghula Husk,ISPAGHULA HUSK 3.5g/sachet sugar free granules,Ispaghula Husk,,,statin,False,False
+1600,ab2v.,Ispaghula Husk,*ISPAGHULA HUSK 90% granules,Ispaghula Husk,,,statin,False,False
+1601,ab2w.,Ispaghula Husk,*ISPAGHULA HUSK 49% powder 7g,Ispaghula Husk,,,statin,False,False
+1602,ab2x.,Ispaghula Husk,*ISPAGHULA HUSK 49% powder,Ispaghula Husk,,,statin,False,False
+1603,ab2y.,Ispaghula Husk,ISPAGHULA HUSK 56% powder 6.4g,Ispaghula Husk,,,statin,False,False
+1604,ab2z.,Ispaghula Husk,*ISPAGHULA HUSK 66% granules,Ispaghula Husk,,,statin,False,False
+1605,bn3..,Nicotinic Acid,NICOTINIC ACID DERIVATIVES,Nicotinic Acid,,,statin,False,False
+1606,bn31.,Bradilan,*BRADILAN 250mg tablets,Nicofuranose,,250 mg,statin,False,False
+1607,bn39.,Nicofuranose,*NICOFURANOSE 250mg tablets,Nicofuranose,,250 mg,statin,False,False
+1608,bu5..,Lopid,CLOPIDOGREL,Gemfibrozil,,,statin,False,False
+1609,bu51.,Lopid,CLOPIDOGREL 75mg tablets,Gemfibrozil,,75 mg,statin,False,False
+1610,bu54.,Lopid,CLOPIDOGREL 300mg tablets,Gemfibrozil,,300 mg,statin,False,False
+1611,bu6..,Lopid,TICLOPIDINE,Gemfibrozil,,,statin,False,False
+1612,bu61.,Lopid,TICLOPIDINE HYDROCHLORIDE 250mg tablets,Gemfibrozil,,250 mg,statin,False,False
+1613,bx1..,Bezafibrate,BEZAFIBRATE,Bezafibrate,,,statin,False,False
+1614,bx11.,Bezalip,BEZALIP 200mg tablets,Bezafibrate,,200 mg,statin,False,False
+1615,bx12.,Bezalip,BEZALIP-MONO 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1616,bx13.,Bezafibrate,BEZAFIBRATE 200mg tablets,Bezafibrate,,200 mg,statin,False,False
+1617,bx14.,Bezafibrate,BEZAFIBRATE 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1618,bx15.,Bezagen,BEZAGEN XL 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1619,bx16.,Liparol,*LIPAROL XL 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1620,bx17.,Zimbacol,ZIMBACOL XL 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1621,bx18.,Fibrazate,FIBRAZATE XL 400mg m/r tablets,Bezafibrate,,400 mg,statin,False,False
+1622,bx2..,Colestyramine,COLESTYRAMINE [LIPID LOWERING USE],Colestyramine,,,statin,False,False
+1623,bx21.,Questran,QUESTRAN powder 4g/sachet,Colestyramine,,,statin,False,False
+1624,bx22.,Questran,QUESTRAN LIGHT 4g/sachet powder,Colestyramine,,,statin,False,False
+1625,bx23.,Colestyramine,COLESTYRAMINE powder 4g/sachet,Colestyramine,,,statin,False,False
+1626,bx25.,Colestyramine,COLESTYRAMINE+ASPARTAME 4g/sachet powder,Colestyramine,,,statin,False,False
+1627,bx26.,Cholemin,*CHOLEMIN 4g/sachet powder,Colestyramine,,,statin,False,False
+1628,bx27.,Colestyramine,COLESTYRAMINE+ASPARTAME 4g/sachet sugar free powder,Colestyramine,,,statin,False,False
+1629,bx28.,Questran,QUESTRAN LIGHT 4g/sachet s/f powder,Colestyramine,,,statin,False,False
+1630,bx3..,Clofibrate,CLOFIBRATE,Clofibrate,,,statin,False,False
+1631,bx31.,Atromid-S,*ATROMID-S 500mg capsules,Clofibrate,,500 mg,statin,False,False
+1632,bx3z.,Clofibrate,*CLOFIBRATE 500mg capsules,Clofibrate,,500 mg,statin,False,False
+1633,bx4..,Colestipol Hydrochloride,COLESTIPOL HYDROCHLORIDE,Colestipol Hydrochloride,,,statin,False,False
+1634,bx41.,Colestid,COLESTID granules 5g sachet,Colestipol Hydrochloride,,,statin,False,False
+1635,bx43.,Colestid,COLESTID ORANGE granules 5g sachet,Colestipol Hydrochloride,,,statin,False,False
+1636,bx5..,Dextrothyroxine Sod,*DEXTROTHYROXINE SODIUM,Dextrothyroxine Sodium,,,statin,False,False
+1637,bx51.,Choloxin,*CHOLOXIN 2mg tablets,Dextrothyroxine Sodium,,2 mg,statin,False,False
+1638,bx5z.,Dextrothyroxine Sod,DEXTROTHYROXINE SODIUM 2mg tablets,Dextrothyroxine Sodium,,2 mg,statin,False,False
+1639,bx6..,Gemfibrozil,GEMFIBROZIL,Gemfibrozil,,,statin,False,False
+1640,bx61.,Lopid,LOPID 300mg capsules,Gemfibrozil,,300 mg,statin,False,False
+1641,bx62.,Lopid,LOPID 600mg tablets,Gemfibrozil,,600 mg,statin,False,False
+1642,bx63.,Gemfibrozil,GEMFIBROZIL 600mg tablets,Gemfibrozil,,600 mg,statin,False,False
+1643,bx64.,Emfib,*EMFIB 300mg capsules,Gemfibrozil,,300 mg,statin,False,False
+1644,bx6z.,Gemfibrozil,GEMFIBROZIL 300mg capsules,Gemfibrozil,,300 mg,statin,False,False
+1645,bx7..,Nicofuranose,*NICOFURANOSE,Nicofuranose,,,statin,False,False
+1646,bx71.,Bradilan,*BRADILAN 250mg e/c tablets,Nicofuranose,,250 mg,statin,False,False
+1647,bx7z.,Nicofuranose,NICOFURANOSE 250mg e/c tablets,Nicofuranose,,250 mg,statin,False,False
+1648,bx8..,Nicotinic Acid,NICOTINIC ACID,Nicotinic Acid,,,statin,False,False
+1649,bx81.,Nicotinic Acid,*NICOTINIC ACID 25mg tablets,Nicotinic Acid,,25 mg,statin,False,False
+1650,bx82.,Nicotinic Acid,NICOTINIC ACID 50mg tablets,Nicotinic Acid,,50 mg,statin,False,False
+1651,bx83.,Nicotinic Acid,*NICOTINIC ACID 100mg tablets,Nicotinic Acid,,100 mg,statin,False,False
+1652,bx84.,Nicotinic Acid,NICOTINIC ACID 375mg and 500mg and 750mg m/r tablets starter pack,Nicotinic Acid,,375 mg,statin,False,False
+1653,bx85.,Nicotinic Acid,NICOTINIC ACID 500mg m/r tablets,Nicotinic Acid,,500 mg,statin,False,False
+1654,bx86.,Nicotinic Acid,NICOTINIC ACID 750mg m/r tablets,Nicotinic Acid,,750 mg,statin,False,False
+1655,bx87.,Nicotinic Acid,NICOTINIC ACID 1000mg m/r tablets,Nicotinic Acid,,1000 mg,statin,False,False
+1656,bx88.,Niaspan,NIASPAN 375mg and 500mg and 750mg m/r tablets starter pack,Nicotinic Acid,,375 mg,statin,False,False
+1657,bx89.,Niaspan,*NIASPAN 500mg m/r tablets,Nicotinic Acid,,500 mg,statin,False,False
+1658,bx8a.,Niaspan,*NIASPAN 750mg m/r tablets,Nicotinic Acid,,750 mg,statin,False,False
+1659,bx8b.,Niaspan,*NIASPAN 1000mg m/r tablets,Nicotinic Acid,,1000 mg,statin,False,False
+1660,bx8c.,Tredaptive,TREDAPTIVE 1000mg/20mg m/r tablets,Nicotinic Acid/Laropiprant,,1000 mg,statin,False,False
+1661,bx8d.,Nicotinic Acid/Laropiprant,NICOTINIC ACID/LAROPIPRANT 1000mg/20mg m/r tablets,Nicotinic Acid/Laropiprant,,1000 mg,statin,False,False
+1662,bx9..,Probucol,PROBUCOL,Probucol,,,statin,False,False
+1663,bx91.,Lurselle,*LURSELLE 250mg tablets,Probucol,,250 mg,statin,False,False
+1664,bx9z.,Probucol,*PROBUCOL 250mg tablets,Probucol,,250 mg,statin,False,False
+1665,bxa..,Omega-3 Marine Triglycerides,OMEGA-3 MARINE TRIGLYCERIDES,Omega-3 Marine Triglycerides,,,statin,False,False
+1666,bxa1.,Maxepa,*MAXEPA 1g capsules,Omega-3 Marine Triglycerides,,,statin,False,False
+1667,bxa2.,Maxepa,*MAXEPA liquid,Omega-3 Marine Triglycerides,,,statin,False,False
+1668,bxa6.,Maxepa,*MAXEPA oral emulsion,Omega-3 Marine Triglycerides,,,statin,False,False
+1669,bxa7.,Omacor,OMACOR 1g capsules,Omega-3-Acid Ethyl Esters,,,statin,False,False
+1670,bxa8.,Teromeg,TEROMEG 1g capsules,Omega-3-Acid Ethyl Esters,,,statin,False,False
+1671,bxa9.,Prestylon,PRESTYLON 1g capsules,Omega-3-Acid Ethyl Esters,,,statin,False,False
+1672,bxaA.,Nebbaro,NEBBARO 1000mg capsules,Omega-3-Acid Ethyl Esters,,1000 mg,statin,False,False
+1673,bxaB.,Dualtis,DUALTIS 1000mg capsules,Omega-3-Acid Ethyl Esters,,1000 mg,statin,False,False
+1674,bxb..,Acipimox,ACIPIMOX,Acipimox,,,statin,False,False
+1675,bxb1.,Olbetam,OLBETAM 250mg capsules,Acipimox,,250 mg,statin,False,False
+1676,bxb2.,Acipimox,ACIPIMOX 250mg capsules,Acipimox,,250 mg,statin,False,False
+1677,bxc..,Fenofibrate,FENOFIBRATE,Fenofibrate,,,statin,False,False
+1678,bxc1.,Fenofibrate,*FENOFIBRATE 100mg capsules,Fenofibrate,,100 mg,statin,False,False
+1679,bxc2.,Lipantil,*LIPANTIL 100mg capsules 21CP,Fenofibrate,,100 mg,statin,False,False
+1680,bxc3.,Lipantil,*LIPANTIL 100mg capsules 84CP,Fenofibrate,,100 mg,statin,False,False
+1681,bxc4.,Fenofibrate,FENOFIBRATE 200mg capsules,Fenofibrate,,200 mg,statin,False,False
+1682,bxc5.,Lipantil,LIPANTIL MICRO 200mg capsules,Fenofibrate,,200 mg,statin,False,False
+1683,bxc6.,Fenofibrate,FENOFIBRATE 67mg capsules,Fenofibrate,,67 mg,statin,False,False
+1684,bxc7.,Lipantil,LIPANTIL MICRO 67mg capsules,Fenofibrate,,67 mg,statin,False,False
+1685,bxc8.,Fenofibrate,FENOFIBRATE 267mg capsules,Fenofibrate,,267 mg,statin,False,False
+1686,bxc9.,Lipantil,LIPANTIL MICRO 267mg capsules,Fenofibrate,,267 mg,statin,False,False
+1687,bxcA.,Fenofibrate,FENOFIBRATE 160mg m/r tablets,Fenofibrate,,160 mg,statin,False,False
+1688,bxcB.,Supralip,SUPRALIP 160mg m/r tablets,Fenofibrate,,160 mg,statin,False,False
+1689,bxcC.,Fenofibrate,FENOFIBRATE MICRO 200mg capsules,Fenofibrate,,200 mg,statin,False,False
+1690,bxcD.,Fenogal,*FENOGAL 200mg capsules,Fenofibrate,,200 mg,statin,False,False
+1691,bxcE.,Fenofibrate,FENOFIBRATE 160mg tablets,Fenofibrate,,160 mg,statin,False,False
+1692,bxd..,Simvastatin,SIMVASTATIN,Simvastatin,,,statin,False,False
+1693,bxd1.,Simvastatin,SIMVASTATIN 10mg tablets,Simvastatin,,10 mg,statin,False,False
+1694,bxd2.,Simvastatin,SIMVASTATIN 20mg tablets,Simvastatin,,20 mg,statin,False,False
+1695,bxd3.,Zocor,ZOCOR 10mg tablets 28CP,Simvastatin,,10 mg,statin,False,False
+1696,bxd4.,Zocor,ZOCOR 20mg tablets 28CP,Simvastatin,,20 mg,statin,False,False
+1697,bxd5.,Simvastatin,SIMVASTATIN 40mg tablets,Simvastatin,,40 mg,statin,False,False
+1698,bxd6.,Zocor,ZOCOR 40mg tablets,Simvastatin,,40 mg,statin,False,False
+1699,bxd7.,Zocor,ZOCOR 10mg tablets,Simvastatin,,10 mg,statin,False,False
+1700,bxd8.,Zocor,ZOCOR 20mg tablets,Simvastatin,,20 mg,statin,False,False
+1701,bxd9.,Zocor,ZOCOR 80mg tablets,Simvastatin,,80 mg,statin,False,False
+1702,bxdA.,Simvador,SIMVADOR 10mg tablets,Simvastatin,,10 mg,statin,False,False
+1703,bxdB.,Simvador,SIMVADOR 20mg tablets,Simvastatin,,20 mg,statin,False,False
+1704,bxdC.,Simvador,SIMVADOR 40mg tablets,Simvastatin,,40 mg,statin,False,False
+1705,bxdD.,Ranzolont,*RANZOLONT 10mg tablets,Simvastatin,,10 mg,statin,False,False
+1706,bxdE.,Ranzolont,*RANZOLONT 20mg tablets,Simvastatin,,20 mg,statin,False,False
+1707,bxdF.,Ranzolont,*RANZOLONT 40mg tablets,Simvastatin,,40 mg,statin,False,False
+1708,bxdG.,Zocor,*ZOCOR HEART-PRO 10mg tablets,Simvastatin,,10 mg,statin,False,False
+1709,bxdH.,Inegy,INEGY 10mg/20mg tablets,Simvastatin & Ezetimibe,,10 mg,statin,False,False
+1710,bxdI.,Inegy,INEGY 10mg/40mg tablets,Simvastatin & Ezetimibe,,10 mg,statin,False,False
+1711,bxdJ.,Inegy,INEGY 10mg/80mg tablets,Simvastatin & Ezetimibe,,10 mg,statin,False,False
+1712,bxdK.,Simvador,SIMVADOR 80mg tablets,Simvastatin,,80 mg,statin,False,False
+1713,bxdu.,Simvastatin,SIMVASTATIN 20mg/5mL oral suspension,Simvastatin,,20 mg/5 ml,statin,False,False
+1714,bxdv.,Simvastatin,SIMVASTATIN 40mg/5mL oral suspension,Simvastatin,,40 mg/5 ml,statin,False,False
+1715,bxdw.,Ezetimibe,SIMVASTATIN 80mg/EZETIMIBE 10mg tablets,Ezetimibe,,80 mg,statin,False,False
+1716,bxdx.,Ezetimibe,SIMVASTATIN 40mg/EZETIMIBE 10mg tablets,Ezetimibe,,40 mg,statin,False,False
+1717,bxdy.,Ezetimibe,SIMVASTATIN 20mg/EZETIMIBE 10mg tablets,Ezetimibe,,20 mg,statin,False,False
+1718,bxdz.,Simvastatin,SIMVASTATIN 80mg tablets,Simvastatin,,80 mg,statin,False,False
+1719,bxe..,Pravastatin Sod,PRAVASTATIN SODIUM,Pravastatin Sodium,,,statin,False,False
+1720,bxe3.,Lipostat,LIPOSTAT 10mg tablets,Pravastatin Sodium,,10 mg,statin,False,False
+1721,bxe4.,Lipostat,LIPOSTAT 20mg tablets,Pravastatin Sodium,,20 mg,statin,False,False
+1722,bxe5.,Pravastatin Sod,PRAVASTATIN SODIUM 10mg tablets,Pravastatin Sodium,,10 mg,statin,False,False
+1723,bxe6.,Pravastatin Sod,PRAVASTATIN SODIUM 20mg tablets,Pravastatin Sodium,,20 mg,statin,False,False
+1724,bxe7.,Pravastatin Sod,PRAVASTATIN SODIUM 40mg tablets,Pravastatin Sodium,,40 mg,statin,False,False
+1725,bxe8.,Lipostat,LIPOSTAT 40mg tablets,Pravastatin Sodium,,40 mg,statin,False,False
+1726,bxf..,Ciprofibrate,CIPROFIBRATE,Ciprofibrate,,,statin,False,False
+1727,bxf1.,Modalim,*MODALIM 100mg tablets,Ciprofibrate,,100 mg,statin,False,False
+1728,bxf2.,Ciprofibrate,CIPROFIBRATE 100mg tablets,Ciprofibrate,,100 mg,statin,False,False
+1729,bxg..,Fluvastatin Sod,FLUVASTATIN SODIUM,Fluvastatin Sodium,,,statin,False,False
+1730,bxg1.,Lescol,LESCOL 20mg capsules,Fluvastatin Sodium,,20 mg,statin,False,False
+1731,bxg2.,Lescol,LESCOL 40mg capsules,Fluvastatin Sodium,,40 mg,statin,False,False
+1732,bxg5.,Lescol,LESCOL XL 80mg m/r tablets,Fluvastatin Sodium,,80 mg,statin,False,False
+1733,bxg6.,Luvinsta,LUVINSTA XL 80mg m/r tablets,Fluvastatin Sodium,,80 mg,statin,False,False
+1734,bxg7.,Stefluvin,STEFLUVIN XL 80mg m/r tablets,Fluvastatin Sodium,,80 mg,statin,False,False
+1735,bxg8.,Dorisin,DORISIN XL 80mg m/r tablets,Fluvastatin Sodium,,80 mg,statin,False,False
+1736,bxg9.,Nandovar XL,NANDOVAR XL 80mg m/r tablets,Fluvastatin Sodium,,80 mg,statin,False,False
+1737,bxh..,Ispaghula Husk,ISPAGHULA HUSK [LIPID LOWERING USE],Ispaghula Husk,,,statin,False,False
+1738,bxh1.,Ispaghula Husk,ISPAGHULA HUSK 3.5g orange sugar free granules,Ispaghula Husk,,,statin,False,False
+1739,bxh2.,Fybozest,FYBOZEST ORANGE 3.5g sugar free granules,Ispaghula Husk,,,statin,False,False
+1740,bxi..,Atorvastatin,ATORVASTATIN,Atorvastatin,,,statin,False,False
+1741,bxi1.,Atorvastatin,ATORVASTATIN 10mg tablets,Atorvastatin,,10 mg,statin,False,False
+1742,bxi2.,Atorvastatin,ATORVASTATIN 20mg tablets,Atorvastatin,,20 mg,statin,False,False
+1743,bxi3.,Atorvastatin,ATORVASTATIN 40mg tablets,Atorvastatin,,40 mg,statin,False,False
+1744,bxi4.,Lipitor,LIPITOR 10mg tablets,Atorvastatin,,10 mg,statin,False,False
+1745,bxi5.,Lipitor,LIPITOR 20mg tablets,Atorvastatin,,20 mg,statin,False,False
+1746,bxi6.,Lipitor,LIPITOR 40mg tablets,Atorvastatin,,40 mg,statin,False,False
+1747,bxi7.,Lipitor,LIPITOR 80mg tablets,Atorvastatin,,80 mg,statin,False,False
+1748,bxi8.,Lipitor,LIPITOR 10mg chewable tablets,Atorvastatin,,10 mg,statin,False,False
+1749,bxi9.,Atorvastatin,ATORVASTATIN 10mg chewable tablets,Atorvastatin,,10 mg,statin,False,False
+1750,bxiA.,Lipitor,LIPITOR 20mg chewable tablets,Atorvastatin,,20 mg,statin,False,False
+1751,bxiB.,Atorvastatin,ATORVASTATIN 20mg chewable tablets,Atorvastatin,,20 mg,statin,False,False
+1752,bxiy.,Atorvastatin,ATORVASTATIN 60mg tablets,Atorvastatin,,60 mg,statin,False,False
+1753,bxiz.,Atorvastatin,ATORVASTATIN 80mg tablets,Atorvastatin,,80 mg,statin,False,False
+1754,bxj..,Cerivastatin,CERIVASTATIN,Cerivastatin,,,statin,False,False
+1755,bxj1.,Cerivastatin,CERIVASTATIN SODIUM 100micrograms tablets,Cerivastatin,,,statin,False,False
+1756,bxj2.,Cerivastatin,CERIVASTATIN SODIUM 200micrograms tablets,Cerivastatin,,,statin,False,False
+1757,bxj3.,Cerivastatin,CERIVASTATIN SODIUM 300micrograms tablets,Cerivastatin,,,statin,False,False
+1758,bxj4.,Lipobay,*LIPOBAY 100micrograms tablets,Cerivastatin,,,statin,False,False
+1759,bxj5.,Lipobay,*LIPOBAY 200micrograms tablets,Cerivastatin,,,statin,False,False
+1760,bxj6.,Lipobay,*LIPOBAY 300micrograms tablets,Cerivastatin,,,statin,False,False
+1761,bxj7.,Cerivastatin,CERIVASTATIN SODIUM 400micrograms tablets,Cerivastatin,,,statin,False,False
+1762,bxj8.,Lipobay,*LIPOBAY 400micrograms tablets,Cerivastatin,,,statin,False,False
+1763,bxj9.,Lipobay,*LIPOBAY 800micrograms tablets,Cerivastatin,,,statin,False,False
+1764,bxjz.,Cerivastatin,CERIVASTATIN SODIUM 800micrograms tablets,Cerivastatin,,,statin,False,False
+1765,bxk1.,Crestor,CRESTOR 10mg tablets,Rosuvastatin Calcium,,10 mg,statin,False,False
+1766,bxk2.,Crestor,CRESTOR 20mg tablets,Rosuvastatin Calcium,,20 mg,statin,False,False
+1767,bxk3.,Crestor,CRESTOR 40mg tablets,Rosuvastatin Calcium,,40 mg,statin,False,False
+1768,bxk4.,Crestor,CRESTOR 5mg tablets,Rosuvastatin Calcium,,5 mg,statin,False,False
+1769,bxl..,Ezetimibe,EZETIMIBE,Ezetimibe,,,statin,False,False
+1770,bxl1.,Ezetimibe,EZETIMIBE 10mg tablets,Ezetimibe,,10 mg,statin,False,False
+1771,bxlz.,Ezetrol,EZETROL 10mg tablets,Ezetimibe,,10 mg,statin,False,False
+1772,bxm..,Colesevelam Hydrochloride,COLESEVELAM HYDROCHLORIDE,Colesevelam Hydrochloride,,,statin,False,False
+1773,bxm1.,Cholestagel,CHOLESTAGEL 625mg tablets,Colesevelam Hydrochloride,,625 mg,statin,False,False
+1774,bxn..,Lomitapide,LOMITAPIDE,Lomitapide,,,statin,False,False
+1775,bxn1.,Lojuxta,LOJUXTA 5mg capsules,Lomitapide,,5 mg,statin,False,False
+1776,bxn2.,Lomitapide,LOMITAPIDE 5mg capsules,Lomitapide,,5 mg,statin,False,False
+1777,bxn3.,Lojuxta,LOJUXTA 10mg capsules,Lomitapide,,10 mg,statin,False,False
+1778,bxn4.,Lomitapide,LOMITAPIDE 10mg capsules,Lomitapide,,10 mg,statin,False,False
+1779,bxn5.,Lojuxta,LOJUXTA 20mg capsules,Lomitapide,,20 mg,statin,False,False
+1780,bxn6.,Lomitapide,LOMITAPIDE 20mg capsules,Lomitapide,,20 mg,statin,False,False
+1781,bxo..,Evolocumab,EVOLOCUMAB,Evolocumab,,,statin,False,False
+1782,bxo1.,Repatha,REPATHA 140mg/1mL solution for injection prefilled syringe,Evolocumab,,140 mg/1 ml,statin,False,False
+1783,bxo2.,Evolocumab,EVOLOCUMAB 140mg/1mL soln for inj prefilled syringe,Evolocumab,,140 mg/1 ml,statin,False,False
+1784,bxo3.,Repatha,REPATHA SURECLICK 140mg/1mL soln for inj prefilled pen,Evolocumab,,140 mg/1 ml,statin,False,False
+1785,bxo4.,Evolocumab,EVOLOCUMAB 140mg/1mL solution for injection prefilled pen,Evolocumab,,140 mg/1 ml,statin,False,False
+1786,bxp..,Alirocumab,ALIROCUMAB,Alirocumab,,,statin,False,False
+1787,bxp1.,Praluent,PRALUENT 75mg/1mL solution for injection prefilled pen,Alirocumab,,75 mg/1 ml,statin,False,False
+1788,bxp2.,Alirocumab,ALIROCUMAB 75mg/1mL solution for injection prefilled pen,Alirocumab,,75 mg/1 ml,statin,False,False
+1789,bxp3.,Praluent,PRALUENT 150mg/1mL solution for injection prefilled pen,Alirocumab,,150 mg/1 ml,statin,False,False
+1790,bxp4.,Alirocumab,ALIROCUMAB 150mg/1mL solution for injection prefilled pen,Alirocumab,,150 mg/1 ml,statin,False,False
+1791,h5I..,Liplat,OXALIPLATIN,Pravastatin Sodium,,,statin,False,False
+1792,h5Iv.,Liplat,OXALIPLATIN 200mg/40mL infusion concentrate,Pravastatin Sodium,,200 mg/40 ml,statin,False,False
+1793,h5Iw.,Liplat,OXALIPLATIN 100mg/20mL infusion concentrate,Pravastatin Sodium,,100 mg/20 ml,statin,False,False
+1794,h5Ix.,Liplat,OXALIPLATIN 50mg/10mL infusion concentrate,Pravastatin Sodium,,50 mg/10 ml,statin,False,False
+1795,h5Iy.,Liplat,OXALIPLATIN 50mg infusion (pdr for recon),Pravastatin Sodium,,50 mg,statin,False,False
+1796,h5Iz.,Liplat,OXALIPLATIN 100mg infusion (pdr for recon),Pravastatin Sodium,,100 mg,statin,False,False
+1797,pG1q.,Omacor,SOMACORRECT 15080 vacuum therapy system,Omega-3-Acid Ethyl Esters,,,statin,False,False
+1798,pG1r.,Omacor,SOMACORRECT XTRA 15111 vacuum therapy system,Omega-3-Acid Ethyl Esters,,,statin,False,False
+1799,s9c5.,Dorisin,DEOGEL 2010 deodorising and lubricating gel 200g,Fluvastatin Sodium,,,statin,False,False
+1800,s9cA.,Dorisin,DEOGEL 2020 deodorising and lubricating gel sachet,Fluvastatin Sodium,,,statin,False,False
