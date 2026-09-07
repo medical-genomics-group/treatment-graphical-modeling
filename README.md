@@ -1,36 +1,65 @@
 # treatment-graphical-modeling
-Analysis code for "Separating the genetics of disease, treatment, and treatment response using graphical modeling and large-scale electronic health records"
 
-## Dependencies
+## Purpose and dependencies 
+This repository contains analysis code for "Separating the genetics of disease, treatment, and treatment response using graphical modeling and large-scale electronic health records". 
 
-- https://github.com/medical-genomics-group/ci-gwas
-- https://github.com/nickmachnik/bicorr
-- https://github.com/ippas/wes-qc-loftee-annot
-  
-## Structure
+It contains scripts and notebooks we used throughout the data processing and analysis stages.
+
+It covers: extraction and cleaning of blood pressure, LDL, prescription and diagnosis records from UK Biobank primary-care and hospital data on the DNAnexus Research Analysis Platform (RAP); aggregation of those records into the pre-/post-treatment design and its sensitivity analyses; preparation of the summary-statistic inputs required by the graphical model; submission and post-processing of the model runs on a SLURM cluster; the comparison analyses (standard GWAS with Regenie 4.1.2), ARB pharmacogenomic follow-up and all manuscript figures and tables.
+
+*Please note that this is not a methods/package repository.*
+
+The method we used (CI-GWAS) is documented in its own repository: https://github.com/medical-genomics-group/ci-gwas
+
+Apart from CI-GWAS we also used two other custom tools with separate repositories:
+- https://github.com/nickmachnik/bicorr (data preprocessing)
+- https://github.com/ippas/wes-qc-loftee-annot (WES LoF variant annotation)
+
+If your goal is to apply the framework to your own pre-/post-treatment data we provide a step-by-step walkthrough in the "How to apply our framework" below. 
+
+## General requirements to replicate ours or run your analyses
+
+### Data access
+
+| | |
+| --- | --- |
+| **DNAnexus RAP** | The record extraction (`bp-data-extraction`, `arb-response/data-extraction-rap`) and the WES/WGS work (`wes-analysis`, `arb-response/kcnip4-wgs.ipynb`) are run **inside** the UKB RAP project — these notebooks read `/mnt/project/...` and `dnax://` paths and cannot be run outside it. A funded RAP project with a Spark-enabled JupyterLab instance is required. |
+| **DNAnexus RAP** | The record extraction (`bp-data-extraction`, `arb-response/data-extraction-rap`) and the WES/WGS work (`wes-analysis`, `arb-response/kcnip4-wgs.ipynb`) are run **inside** the UKB RAP
+
+
+### External tools:
+
+| Tool | Used for |
+| --- | --- |
+| [PLINK 1.90](https://www.cog-genomics.org/plink/) | per-block LD and genotype filtering |
+| [regenie 4.1.2](https://rgcgithub.github.io/regenie/) | the comparison standard GWAS in `standard-gwas/` |
+| [CI-GWAS](https://github.com/medical-genomics-group/ci-gwas) | the main graphical modelling method |
+| [Ensembl VEP + LOFTEE](https://github.com/ippas/wes-qc-loftee-annot) | loss-of-function annotation of WES variants (run on RAP) |
+
+*Note: To run CI-GWAS a CUDA GPU is required.*
+
+## Repository structure
 The analysis is divided into the following sections:
 
 ### 1. bp-data-extraction
-This creates a database in the UBK DNANexus RAP platform with all of the prescriptions, diagnoses and GP records, extracts and preliminarly cleans BP (blood pressure) and LDL measurments together with important medications. There is also a notebook that prepares dicionaries of diagnostic codes and medication based on tables provided by the UKB.
+This creates a database in the UKB DNANexus RAP platform with all of the prescriptions, diagnoses and GP records, extracts and preliminary cleans BP (blood pressure) and LDL measurements together with important medications. There is also a notebook that prepares dictionaries of diagnostic codes and medication based on tables provided by the UKB.
 
 ### 2. bp-data-aggregation 
 This part includes cleaning and aggregation of the extracted data into the pre- post- design into all of the sensitivity analyses.
 
 ### 3. wes-analysis
-This part uses the loftee_annot sofware to evaluate loss of function variants from UKB WES data.
+This part uses the loftee_annot software to evaluate loss of function variants from UKB WES data.
 
-### 4. simulation
-
-### 5. ci-gwas 
+### 4. ci-gwas 
 This part contains scripts for input prep, submission scripts for graphical modeling as well as initial result aggregation.
 
-### 6. standard-gwas
+### 5. standard-gwas
 Scripts for standard GWAS (Regenie) for comparison with the graphical modeling.
 
-### 7. arb-response
+### 6. arb-response
 Pharmacogenomic followup for ARB-response.
 
-### 8. ukb-analysis-figure
+### 7. ukb-analysis-figures
 Code for main and supplementary figures as well as the downstream data analysis.
 
 # How to apply our framework
@@ -40,11 +69,11 @@ Below is a walkthrough of the steps one has to go through to analyse their own p
 
 #### STEP 1 trait data aggregation
 
-For a pre-post design raw data after QC should be aggregated per individual per row. If traits from multiple age groups for an individual are included these should also be in the same row, see [this file](https://github.com/medical-genomics-group/treatment-graphical-modeling/blob/main/bp-data-aggregation/bp_aggregation.py) for helper functions on the aggregation. Binary (e.g. treatment indicator) phenotypes can be mixed in the same table with continous phenotypes (e.g. measurements). Continous traits should be standardised and adjusted for selected covariates that one does not want to explicitly model ([see functions here](https://github.com/medical-genomics-group/treatment-graphical-modeling/blob/main/bp-data-aggregation/adjust_and_pxp.py)).
+For a pre-post design raw data after QC should be aggregated per individual per row. If traits from multiple age groups for an individual are included these should also be in the same row, see [this file](https://github.com/medical-genomics-group/treatment-graphical-modeling/blob/main/bp-data-aggregation/bp_aggregation.py) for helper functions on the aggregation. Binary (e.g. treatment indicator) phenotypes can be mixed in the same table with continuous phenotypes (e.g. measurements). Continous traits should be standardized and adjusted for selected covariates that one does not want to explicitly model ([see functions here](https://github.com/medical-genomics-group/treatment-graphical-modeling/blob/main/bp-data-aggregation/adjust_and_pxp.py)).
 
-For each of the traits you want to model decide on the time index. If all traits should be conditioned on each other in the analysis then give them all a time index of 1. If there is some time-dependency involved (e.g. pre- treatment mesurements, treatment indicators, post-treatment measurements) these sets of traits can be given subsequent time indices.
+For each of the traits you want to model decide on the time index. If all traits should be conditioned on each other in the analysis then give them all a time index of 1. If there is some time-dependency involved (e.g. pre- treatment measurements, treatment indicators, post-treatment measurements) these sets of traits can be given subsequent time indices.
 
-Note: Phenotypes can have missing values (coded as `nan`), but for the method to work correctly each pair of phenotypes should have some overlapping samples. For binary phenotypes this overlap should incldue both cases as controls, as otherwise it is not possible to compute trait x trait correlations.
+Note: Phenotypes can have missing values (coded as `nan`), but for the method to work correctly each pair of phenotypes should have some overlapping samples. For binary phenotypes this overlap should include both cases and controls, as otherwise it is not possible to compute trait x trait correlations.
 
 #### STEP 2 genetic data preparation
 
